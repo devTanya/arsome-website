@@ -258,7 +258,7 @@ require('./public/layout/navbar.php');
    <div class="container col-xxl-8 px-4 py-5" style="margin-top: 0px;">
   <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
     <div class="col-10 col-sm-8 col-lg-6">
-              <img src="https://www.arsome.com/images/kids.jpg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
+              <img src="/images/kids.jpg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
     </div>
     <div class="col-lg-6">
         <h3 style=" text-decoration: underline; text-decoration-color: #7ebbf7;"  id="deployment"><b>Gentle Love Diaper Pantry</b></h3>
@@ -293,7 +293,7 @@ require('./public/layout/navbar.php');
               
     </div>
     <div class="col-lg-6">
-        <img src="https://www.arsome.com/images/present-view.jpg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
+        <img src="/images/present-view.jpg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
       
       </div>
     </div>
@@ -303,7 +303,7 @@ require('./public/layout/navbar.php');
      <div class="container col-xxl-8 px-4 py-5" style="margin-top: -100px;">
   <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
     <div class="col-10 col-sm-8 col-lg-6">
-              <img src="https://www.arsome.com/images/food.jpg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
+              <img src="/images/food.jpg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
     </div>
     <div class="col-lg-6">
         <h3 style=" text-decoration: underline; text-decoration-color: #7ebbf7;"  id="deployment"><b>USDA Farmers to Families Food Box Program
@@ -342,7 +342,7 @@ require('./public/layout/navbar.php');
               
     </div>
     <div class="col-lg-6">
-        <img src="https://www.arsome.com/images/gifts.png" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
+        <img src="/images/gifts.png" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
       
       </div>
     </div>
@@ -352,7 +352,7 @@ require('./public/layout/navbar.php');
      <div class="container col-xxl-8 px-4 py-5" style="margin-top: -100px;">
   <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
     <div class="col-10 col-sm-8 col-lg-6">
-              <img src="https://www.arsome.com/images/pizza.jpg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
+              <img src="/images/pizza.jpg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
     </div>
     <div class="col-lg-6">
         <h3 style=" text-decoration: underline; text-decoration-color: #7ebbf7;"  id="deployment"><b>Manchester Memorial Hospital
@@ -396,7 +396,7 @@ require('./public/layout/navbar.php');
               
     </div>
     <div class="col-lg-6">
-        <img src="https://www.arsome.com/images/cyc.JPG" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
+        <img src="/images/cyc.JPG" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
       
       </div>
     </div>
@@ -406,7 +406,7 @@ require('./public/layout/navbar.php');
         <div class="container col-xxl-8 px-4 py-5" style="margin-top: -100px;">
   <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
     <div class="col-10 col-sm-8 col-lg-6">
-              <img src="https://www.arsome.com/images/ywca.jpg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
+              <img src="/images/ywca.jpg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
     </div>
     <div class="col-lg-6">
         <h3 style=" text-decoration: underline; text-decoration-color: #7ebbf7;"  id="deployment"><b>YWCA Event
@@ -444,7 +444,7 @@ require('./public/layout/navbar.php');
               
     </div>
     <div class="col-lg-6">
-        <img src="https://www.arsome.com/images/cop.png" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
+        <img src="/images/cop.png" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
       
       </div>
     </div>
@@ -454,7 +454,7 @@ require('./public/layout/navbar.php');
     <div class="container col-xxl-8 px-4 py-5" style="margin-top: -100px;">
   <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
     <div class="col-10 col-sm-8 col-lg-6">
-              <img src="https://www.arsome.com/images/dave-school.png" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
+              <img src="/images/dave-school.png" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
     </div>
     <div class="col-lg-6">
         <h3 style=" text-decoration: underline; text-decoration-color: #7ebbf7;"  id="deployment"><b>Stamford High School
@@ -491,7 +491,7 @@ require('./public/layout/navbar.php');
               
     </div>
     <div class="col-lg-6">
-        <img src="https://www.arsome.com/images/hartford-lib.png" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
+        <img src="/images/hartford-lib.png" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
       
       </div>
     </div>

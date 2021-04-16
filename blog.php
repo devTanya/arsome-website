@@ -62,7 +62,7 @@ require('./public/layout/navbar.php');
          <div class="container">
             <div class="row">
                <div class="col layer-1">
-                  <a href="https://www.arsome.com/blogs/3-Ways-Museums-Can-Benefit-From-AR-Usage" class="card card-article-wide flex-md-row no-gutters hover-shadow-3d">
+                  <a href="/blogs/3-Ways-Museums-Can-Benefit-From-AR-Usage" class="card card-article-wide flex-md-row no-gutters hover-shadow-3d">
                      <div class="col-md-5 col-lg-6"> <img src="./images/blog/mus-1.jpeg" alt="Image" class="card-img-top"> </div>
                      <div class="card-body d-flex flex-column justify-content-between col-auto p-4 p-lg-5">
                         <div>
@@ -151,7 +151,7 @@ require('./public/layout/navbar.php');
                 
                  <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/top-5-things-to-do-with-a-vr-headset"> <img src="https://www.arsome.com/images/blog/vr-side-profile.jpeg" alt="Image" class="card-img-top" style="height: 30vh;"> </a> 
+                     <a href="/blogs/top-5-things-to-do-with-a-vr-headset"> <img src="/images/blog/vr-side-profile.jpeg" alt="Image" class="card-img-top" style="height: 30vh;"> </a> 
                      <div class="card-body align-items-start">
      
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Top 5 Things to Do With a VR Headset</b></h3>
