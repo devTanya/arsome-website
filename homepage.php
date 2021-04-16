@@ -76,7 +76,7 @@ src="https://www.facebook.com/tr?id=4031505433551329&ev=PageView
    </head>
    <body>
 
-<link rel="stylesheet" href="https://www.arsome.com/navbar.css" type="text/css">
+<link rel="stylesheet" href="./navbar.css" type="text/css">
 
 <script>
     <script>
@@ -207,7 +207,7 @@ require('./public/layout/navbar.php');
       </div>
       <div id=mobile-content>
          <section class=text-light data-speed=1 style=background-color:#000;padding-bottom:10px;>
-            <img src=https://www.arsome.com/images/preview.gif class="bg-image opacity-40">
+            <img src=./images/preview.gif class="bg-image opacity-40">
             <div class="container layer-2">
                <div class="row justify-content-center pt-lg-5">
                   <div class="col-xl-5 col-lg-6 col-md-7 text-center text-lg-left mb-5 mb-lg-0">
@@ -234,27 +234,27 @@ require('./public/layout/navbar.php');
                <div class="row ">
                   <div class=col-md-4>
                       <center>
-                     <img src=https://arsome.com/images/vr-icon.png height=65 alt="Immersive Technology" style="margin-top: 10px;">
+                     <img src=./images/vr-icon.png height=65 alt="Immersive Technology" style="margin-top: 10px;">
                      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: 5px;"><b>Immersive Technology</b></h3>
                      <p class="lead" style="color: #555; font-size: 16px; width: 85%;">Experience a story, lesson, or challenge in education, business and/or gaming with immersive simulation.</p>
-                     <a href="https://www.arsome.com/services#immersive" style="margin-top: 0px; font-size: 15px;" class="btn-pri-link">How Immersive Technology Can Teach →</a>
+                     <a href="/services#immersive" style="margin-top: 0px; font-size: 15px;" class="btn-pri-link">How Immersive Technology Can Teach →</a>
                      </center>
                   </div>
                   <div class=col-md-4> 
                   <center>
-                     <img src=https://arsome.com/images/software.png height=60 alt="Software Development" style="margin-top: 10px;">
+                     <img src=./images/software.png height=60 alt="Software Development" style="margin-top: 10px;">
                      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: 10px;"><b>Software Development</b></h3>
                      <p class="lead" style="color: #555; font-size: 16px; width: 85%;">Turn an idea or invention into personalized and scalable software for students, consumers and companies.</p>
                      
-                        <a href="https://www.arsome.com/services#software" class="btn-pri-link" style="margin-top: -30px; font-size: 15px;">How Software Development Can Help →</a>
+                        <a href="/services#software" class="btn-pri-link" style="margin-top: -30px; font-size: 15px;">How Software Development Can Help →</a>
                      </a>
                   </div>
                   <div class=col-md-4>
                       <center>
-                     <img src=https://arsome.com/images/web-app-dev-icon.png height=65 alt="Mobile Development" style="margin-top: 10px;">
+                     <img src=/images/web-app-dev-icon.png height=65 alt="Mobile Development" style="margin-top: 10px;">
                      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: 7px;"><b>Web & Mobile Development</b></h3>
                      <p class="lead" style="color: #555; font-size: 16px; width: 85%;">Increase the connectivity and engagement with a Web, iOS, Android, or cross-platform application.</p>
-                     <a href="https://www.arsome.com/services#web" style="margin-top: -30px; font-size: 15px;" class="btn-pri-link">How Mobile Development Can Modernize →</a>
+                     <a href="/services#web" style="margin-top: -30px; font-size: 15px;" class="btn-pri-link">How Mobile Development Can Modernize →</a>
                      </center>
                   </div>
                </div>
@@ -275,25 +275,25 @@ require('./public/layout/navbar.php');
   <br>
 
                       <center>
-                     <img src=https://arsome.com/images/vr-icon.png height=75 alt="Immersive Technology">
+                     <img src=./images/vr-icon.png height=75 alt="Immersive Technology">
                      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -3px;"><b>Immersive Technology</b></h3>
                      <p class="lead" style="color: #555; font-size: 16px; width: 85%;">Experience a story, lesson, or challenge in education, business and/or gaming with immersive simulation.</p>
-                     <div style="margin-top: -20px;"><a href="https://www.arsome.com/services#immersive" style="font-size: 15px;" class="btn-pri-link">How Immersive Technology Can Teach →</a></div>
+                     <div style="margin-top: -20px;"><a href="/services#immersive" style="font-size: 15px;" class="btn-pri-link">How Immersive Technology Can Teach →</a></div>
                      </center>
                      <br><br>
                   <center>
-                     <img src=https://arsome.com/images/software.png height=65 alt="Software Development" style="margin-top: 15px;">
+                     <img src=./images/software.png height=65 alt="Software Development" style="margin-top: 15px;">
                      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: 4px;"><b>Software Development</b></h3>
                      <p class="lead" style="color: #555; font-size: 16px; width: 85%;">Turn an idea or invention into personalized and scalable software for students, consumers and companies.</p>
                      
-                        <div style="margin-top: -20px;"><a href="https://www.arsome.com/services#software" class="btn-pri-link" style=" font-size: 15px;">How Software Development Can Help →</a></div>
+                        <div style="margin-top: -20px;"><a href="/services#software" class="btn-pri-link" style=" font-size: 15px;">How Software Development Can Help →</a></div>
                      </a>
 <br><br>
                       <center>
-                     <img src=https://arsome.com/images/web-app-dev-icon.png height=75 alt="Mobile Development" style="margin-top: 15px;">
+                     <img src=./images/web-app-dev-icon.png height=75 alt="Mobile Development" style="margin-top: 15px;">
                      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: 2px;"><b>Web & Mobile Development</b></h3>
                      <p class="lead" style="color: #555; font-size: 16px; width: 85%;">Increase the connectivity and engagement with a Web, iOS, Android, or cross-platform application.</p>
-                     <div style="margin-top: -20px;"><a href="https://www.arsome.com/services#web" style=" font-size: 15px;" class="btn-pri-link">How Mobile Development Can Modernize →</a></div>
+                     <div style="margin-top: -20px;"><a href="/services#web" style=" font-size: 15px;" class="btn-pri-link">How Mobile Development Can Modernize →</a></div>
                      </center>
 
                </div>
@@ -318,7 +318,7 @@ require('./public/layout/navbar.php');
    <div class="row" style="position: relative; z-index: 999;">
                <div class="col">
                   <div class="card" style="border-radius: 0px;">
-                     <a href="https://mysticanimalheroes.org/about/mystic/"> <img src="https://www.arsome.com/images/girl.jpeg" style=" border-radius: 0px; height: 30vh" alt="Image" class="card-img-top"> </a> 
+                     <a href="https://mysticanimalheroes.org/about/mystic/"> <img src="/images/girl.jpeg" style=" border-radius: 0px; height: 30vh" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start" style="height: 345px;">
                          <img src="./images/mystic_logo.png" height="45" style="margin-top: -20px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Animal Heroes</b></h3>
@@ -347,7 +347,7 @@ require('./public/layout/navbar.php');
                
                  <div class="col">
                   <div class="card" style="border-radius: 0px;">
-                     <a href="https://arsome.com/projects/cross-platform-health-literacy-tool"> <img src="https://www.arsome.com/images/bod.png" style=" border-radius: 0px; height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="https://arsome.com/projects/cross-platform-health-literacy-tool"> <img src="/images/bod.png" style=" border-radius: 0px; height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start" style="height: 345px;">
                           <img src="https://arsome.com/images/tab.png" height="45" style="margin-top: -20px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>AR Health Literacy</b></h3>
@@ -468,7 +468,7 @@ require('./public/layout/navbar.php');
 
 
                   <div class="card" style="border-radius: 0px;">
-                     <a href="https://mysticanimalheroes.org/about/mystic/"> <img src="https://www.arsome.com/images/girl.jpeg" style=" border-radius: 0px; height: 30vh" alt="Image" class="card-img-top"> </a> 
+                     <a href="https://mysticanimalheroes.org/about/mystic/"> <img src="/images/girl.jpeg" style=" border-radius: 0px; height: 30vh" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start" style="height: 355px;">
                          <img src="./images/mystic_logo.png" height="45" style="margin-top: -20px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Animal Heroes</b></h3>
@@ -482,20 +482,20 @@ require('./public/layout/navbar.php');
                 <br>
 
                   <div class="card" style="border-radius: 0px;">
-                     <a href="https://arsome.com/virtual-reality-driving-simulator"> <img src="./images/vrdrivetruck.jpeg" style=" border-radius: 0px; height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/virtual-reality-driving-simulator"> <img src="./images/vrdrivetruck.jpeg" style=" border-radius: 0px; height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start" style="height: 355px;">
                          <img src="https://arsome.com/images/drive-icon-new.png" height="45" style="margin-top: -20px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>VR Driving Simulator</b></h3>
                         <p style="color: #555; font-size: 16px; width: 85%;">Our VR Driving Simulator is the most realistic driving simulator available in the market. It's an ideal training tool for first responders, police, military, driving schools, and companies that drive products to customers.
 
 </p>
-<a href="https://arsome.com/virtual-reality-driving-simulator" class="mb-0 btn-pri-link" target="_blank">View Product →</a>
+<a href="/virtual-reality-driving-simulator" class="mb-0 btn-pri-link" target="_blank">View Product →</a>
 
                      </div>
                   </div>
 <br>
                   <div class="card" style="border-radius: 0px;">
-                     <a href="https://arsome.com/projects/cross-platform-health-literacy-tool"> <img src="https://www.arsome.com/images/bod.png" style=" border-radius: 0px; height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/projects/cross-platform-health-literacy-tool"> <img src="/images/bod.png" style=" border-radius: 0px; height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start" style="height: 355px;">
                           <img src="https://arsome.com/images/tab.png" height="45" style="margin-top: -20px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>AR Health Literacy</b></h3>
@@ -503,7 +503,7 @@ require('./public/layout/navbar.php');
 
  </p>
  
- <a href="https://arsome.com/projects/cross-platform-health-literacy-tool" class="mb-0 btn-pri-link" target="_blank">View Project →</a>
+ <a href="/projects/cross-platform-health-literacy-tool" class="mb-0 btn-pri-link" target="_blank">View Project →</a>
                      </div>
                   </div>
      
@@ -708,7 +708,7 @@ require('./public/layout/navbar.php');
 </center>
 <br><br>
              <center>
-                  <a href="https://www.arsome.com/community" class="btn-pri-link" style="font-size: 15px;">Learn More About Our Community Engagement Programs →</a>
+                  <a href="/community" class="btn-pri-link" style="font-size: 15px;">Learn More About Our Community Engagement Programs →</a>
              </center>
 </div>
        </section>
@@ -901,12 +901,12 @@ require('./public/layout/navbar.php');
             <div class=row>
                <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/is-virtual-reality-safe"> <img src="https://www.arsome.com/images/blog/staying-safe-with-vr.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/blogs/is-virtual-reality-safe"> <img src="/images/blog/staying-safe-with-vr.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start" style="height: 345px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>Is Virtual Reality Safe? Staying Safe with VR</b></h3>
                         <p style="color: #555; font-size: 16px; width: 85%;">With a growing interest in virtual reality, especially with the release of the affordable VR Headset — the Oculus Quest 2...</p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -920,12 +920,12 @@ require('./public/layout/navbar.php');
                 
                 <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/technology-to-look-out-for-going-into-the-new-year"> <img src="https://www.arsome.com/images/blog/ar-goggles.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/blogs/technology-to-look-out-for-going-into-the-new-year"> <img src="/images/blog/ar-goggles.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start" style="height: 345px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>Technology to Look Out for Going Into the New...</b></h3>
                         <p style="color: #555; font-size: 16px; width: 85%;">This year has been possibly one of the most ‘intense’ years of most of our lives. Here’s a helpful guide to start... </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -942,17 +942,17 @@ require('./public/layout/navbar.php');
                 
                 <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/5-smart-ways-to-spend-remaining-yearly-budget"> <img src="https://www.arsome.com/images/blog/coin-jar.jpeg" alt="Image" class="card-img-top" style="height: 30vh;"> </a> 
+                     <a href="/blogs/5-smart-ways-to-spend-remaining-yearly-budget"> <img src="/images/blog/coin-jar.jpeg" alt="Image" class="card-img-top" style="height: 30vh;"> </a> 
                      <div class="card-body align-items-start" style="height: 345px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>5 Smart Ways to Spend Remaining Yearly Budget</b></h3>
                         <p style="color: #555; font-size: 16px; width: 85%;">Decisions are being made on your company’s remaining budget. Don’t let it go to waste. Invest it...</p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
 <span style="font-weight:bold;"> 11-19-2020</span>                        <br><br>
-                        <a class="btn-pri-link" href="https://arsome.com/blogs/5-smart-ways-to-spend-remaining-yearly-budget">
+                        <a class="btn-pri-link" href="/blogs/5-smart-ways-to-spend-remaining-yearly-budget">
                           <span>Read Article →</span>
                         </a> 
                      </div>
@@ -1044,7 +1044,7 @@ require('./public/layout/navbar.php');
   
 <center>
             <a href="index.html">
-              <img src="https://arsome.com/images/gray.png" class="icon icon-md" height="30">
+              <img src="/images/gray.png" class="icon icon-md" height="30">
             </a>
             </center>
 

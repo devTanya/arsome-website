@@ -112,7 +112,7 @@ function growShrinkLogo() {
           <div class="navbar-row" style="border: 0px; height: 35px;">
              <a href="#" class="mobile-brand w-nav-brand" style="margin-top: 5px;"><img src="../images/tab-color.png" alt="" height="40"/></a>
              <nav role="navigation" class="nav-menu-wide w-nav-menu">
-                <a href="/" class="desktop-brand w-nav-brand"><img src="https://arsome.com/images/tab-color.png" alt="" height="45" style="margin-top: 10px;"/></a>
+                <a href="/" class="desktop-brand w-nav-brand"><img src="../../images/tab-color.png" alt="" height="45" style="margin-top: 10px;"/></a>
                 <div data-hover="1" data-delay="300" class="nav-link text-dark w-dropdown" style="margin-top: 10px;">
                    <div class="dropdown-toggle w-dropdown-toggle">
                        <a href="/company">
@@ -243,9 +243,9 @@ function growShrinkLogo() {
     <div class="main-container navbar-container" style="background-color: #fff; ">
        <div data-collapse="medium" data-animation="default" data-duration="400" role="banner" class="navbar w-nav" style="background-color: #fff; ">
           <div class="navbar-row">
-             <a href="/" class=" w-nav-brand" style="margin-left: 1px;"><img src="https://arsome.com/images/tab-color.png" alt="" height="40" /></a>
+             <a href="/" class=" w-nav-brand" style="margin-left: 1px;"><img src="../../images/tab-color.png" alt="" height="40" /></a>
              <nav role="navigation" class="nav-menu-wide w-nav-menu" style="background-color: #fff; box-shadow: 0 4px 4px -2px #eee;">
-                <a href="/" class="desktop-brand w-nav-brand"><img src="https://arsome.com/images/tab-color.png" alt="" height="45"/></a>
+                <a href="/" class="desktop-brand w-nav-brand"><img src="../../images/tab-color.png" alt="" height="45"/></a>
                 <div data-hover="1" data-delay="300" class="nav-link text-dark w-dropdown" style="margin-top: 10px;">
                    <div class="dropdown-toggle w-dropdown-toggle">
                       <div class="text-dark" style="font-weight: bold;">Company</div>
