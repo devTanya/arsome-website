@@ -231,7 +231,7 @@ function growShrinkLogo() {
                             </a>
 
              </nav>
-             <div class="menu-button w-nav-button"><img src="https://www.arsome.com/images/menu.svg" alt="" class="menu-button-image"/></div>
+             <div class="menu-button w-nav-button"><img src="../images/menu.svg" alt="" class="menu-button-image"/></div>
           </div>
        </div>
     </div>
@@ -353,7 +353,7 @@ function growShrinkLogo() {
              
              
              
-             <div class="menu-button w-nav-button"><img src="https://www.arsome.com/images/menu.svg" alt="" class="menu-button-image" style="margin-left: 120px;"/></div>
+             <div class="menu-button w-nav-button"><img src="../../images/menu.svg" alt="" class="menu-button-image" style="margin-left: 120px;"/></div>
             
           </div>
        </div>

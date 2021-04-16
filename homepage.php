@@ -34,7 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:title" content="ARSOME Technology"/>
 
 <!-- social image -->
-<meta property="og:image" content="https://www.arsome.com/imm-resize.jpg"/>
+<meta property="og:image" content="/imm-resize.jpg"/>
 
 <link rel="shortcut icon" href="/images/favicon.png" />
 <link rel="canonical" href="https://arsome.com"/>
@@ -43,7 +43,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	
 
 <script type="text/javascript"> _linkedin_partner_id = "2098266"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2098266&fmt=gif" /> </noscript>      <link href="https://arsome.com" rel="canonical"/>
-      <link rel="icon" href="https://arsome.com/images/favicon.png" />
+      <link rel="icon" href="/images/favicon.png" />
       <link href=static/css/main.min.css rel=stylesheet type=text/css media=all />
       
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154667104-1"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","UA-154667104-1");</script> <script>!function(h,a,i,c,j,d,g){if(h.fbq){return}j=h.fbq=function(){j.callMethod?j.callMethod.apply(j,arguments):j.queue.push(arguments)};if(!h._fbq){h._fbq=j}j.push=j;j.loaded=!0;j.version="2.0";j.queue=[];d=a.createElement(i);d.async=!0;d.src=c;g=a.getElementsByTagName(i)[0];g.parentNode.insertBefore(d,g)}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2731126830449731");fbq("track","PageView");</script>
