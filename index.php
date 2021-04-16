@@ -190,7 +190,9 @@ require('./public/layout/navbar.php');
       <div id=desktop-content>
          <section class=hero style=background-color:#000>
             <div id=desktop-content>
-              <img src=https://www.arsome.com/images/preview.gif class="bg-image opacity-60">
+            <video muted autoplay loop id="introVideo" class="opacity-60">
+              <source src="/images/vidc.mp4" type="video/mp4">
+           </video>
             </div>
             <div class="container layer-2">
                <div class="row justify-content-center">
