@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://www.arsome.com/navbar.css" type="text/css">
+<link rel="stylesheet" href="../../navbar.css" type="text/css">
 
 <script>
     <script>
