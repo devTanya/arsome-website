@@ -1,0 +1,14 @@
+[27-Mar-2020 22:29:17 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/uuy4ihvi2rjp/public_html/blogs/gamification.php on line 74
+[27-Mar-2020 22:29:17 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/uuy4ihvi2rjp/public_html/blogs/gamification.php on line 74
+[27-Mar-2020 22:29:17 UTC] PHP Warning:  require(includes/footer.php): failed to open stream: No such file or directory in /home/uuy4ihvi2rjp/public_html/blogs/gamification.php on line 209
+[27-Mar-2020 22:29:17 UTC] PHP Fatal error:  require(): Failed opening required 'includes/footer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/uuy4ihvi2rjp/public_html/blogs/gamification.php on line 209
+[27-Mar-2020 22:33:28 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/uuy4ihvi2rjp/public_html/blogs/ar-vr-in-the-workplace.php on line 4
+[27-Mar-2020 22:33:28 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/uuy4ihvi2rjp/public_html/blogs/ar-vr-in-the-workplace.php on line 4
+[27-Mar-2020 22:33:28 UTC] PHP Warning:  require(includes/footer.php): failed to open stream: No such file or directory in /home/uuy4ihvi2rjp/public_html/blogs/ar-vr-in-the-workplace.php on line 4
+[27-Mar-2020 22:33:28 UTC] PHP Fatal error:  require(): Failed opening required 'includes/footer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/uuy4ihvi2rjp/public_html/blogs/ar-vr-in-the-workplace.php on line 4
+[27-Mar-2020 22:34:04 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/uuy4ihvi2rjp/public_html/blogs/ar-in-the-classroom.php on line 4
+[27-Mar-2020 22:34:04 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/uuy4ihvi2rjp/public_html/blogs/ar-in-the-classroom.php on line 4
+[27-Mar-2020 22:34:04 UTC] PHP Warning:  require(includes/footer.php): failed to open stream: No such file or directory in /home/uuy4ihvi2rjp/public_html/blogs/ar-in-the-classroom.php on line 4
+[27-Mar-2020 22:34:04 UTC] PHP Fatal error:  require(): Failed opening required 'includes/footer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/uuy4ihvi2rjp/public_html/blogs/ar-in-the-classroom.php on line 4
+[31-Mar-2020 16:58:58 UTC] PHP Warning:  require(../includes/metas/media-print.php): failed to open stream: No such file or directory in /home/uuy4ihvi2rjp/public_html/blogs/ar-in-media-and-print.php on line 3
+[31-Mar-2020 16:58:58 UTC] PHP Fatal error:  require(): Failed opening required '../includes/metas/media-print.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/uuy4ihvi2rjp/public_html/blogs/ar-in-media-and-print.php on line 3
