@@ -241,7 +241,7 @@ Every project starts with a storyboard. We solidify the project and technology r
 </div>
  <div class="col-lg-6 position-relative overflow-hidden" style="background-color: transparent !important;">
       <div class="position-lg-absolute top-0 left-0 overflow-hidden" style="background-color: transparent !important;">
-        <img class="d-block rounded-lg-3" src="https://arsome.com/images/storyboarding.jpeg" alt="" width="900" style="background-color: transparent !important;">
+        <img class="d-block rounded-lg-3" src="/images/storyboarding.jpeg" alt="" width="900" style="background-color: transparent !important;">
       </div>
     </div>
 </div>
@@ -253,7 +253,7 @@ Every project starts with a storyboard. We solidify the project and technology r
   <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3" style="background-color: white;">
       <div class="col-lg-6 position-relative overflow-hidden" style="background-color: transparent !important;">
       <div class="position-lg-absolute top-0 left-0 overflow-hidden" style="background-color: transparent !important;">
-        <img class="d-block rounded-lg-3" src="https://arsome.com/images/storyboarding.jpeg" alt="" width="900" style="background-color: transparent !important;">
+        <img class="d-block rounded-lg-3" src="/images/storyboarding.jpeg" alt="" width="900" style="background-color: transparent !important;">
       </div>
     </div>
     <div class="col-lg-6 p-3 p-lg-5 pt-lg-3">
@@ -313,7 +313,7 @@ Every project starts with a storyboard. We solidify the project and technology r
   <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3" style="background-color: white;">
       <div class="col-lg-6 position-relative overflow-hidden" style="background-color: transparent !important;">
       <div class="position-lg-absolute top-0 left-0 overflow-hidden" style="background-color: transparent !important;">
-        <img class="d-block rounded-lg-3" src="https://www.arsome.com/images/ar-david.jpg" alt="" width="900" style="background-color: transparent !important; -webkit-transform: scaleX(-1);
+        <img class="d-block rounded-lg-3" src="/images/ar-david.jpg" alt="" width="900" style="background-color: transparent !important; -webkit-transform: scaleX(-1);
   transform: scaleX(-1);">
       </div>
     </div>
@@ -395,7 +395,7 @@ Continuous improvement and iteration are the building blocks to a successful dev
   <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3" style="background-color: white;">
       <div class="col-lg-6 position-relative overflow-hidden" style="background-color: transparent !important;">
       <div class="position-lg-absolute top-0 left-0 overflow-hidden" style="background-color: transparent !important;">
-        <img class="d-block rounded-lg-3" src="https://www.arsome.com/images/ar-david.jpg" alt="" width="900" style="background-color: transparent !important;  -webkit-transform: scaleX(-1);
+        <img class="d-block rounded-lg-3" src="/images/ar-david.jpg" alt="" width="900" style="background-color: transparent !important;  -webkit-transform: scaleX(-1);
   transform: scaleX(-1);">
       </div>
     </div>
@@ -519,7 +519,7 @@ Following the development phase, we identify a strategy to gain user feedback in
 </div>
  <div class="col-lg-6 position-relative overflow-hidden" style="background-color: transparent !important;">
       <div class="position-lg-absolute top-0 left-0 overflow-hidden" style="background-color: transparent !important;">
-        <img class="d-block rounded-lg-3" src="https://www.arsome.com/images/simulator.jpg" alt="" width="900" style="background-color: transparent !important;  -webkit-transform: scaleX(-1);
+        <img class="d-block rounded-lg-3" src="/images/simulator.jpg" alt="" width="900" style="background-color: transparent !important;  -webkit-transform: scaleX(-1);
   transform: scaleX(-1);">
       </div>
     </div>
@@ -532,7 +532,7 @@ Following the development phase, we identify a strategy to gain user feedback in
   <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3" style="background-color: white;">
       <div class="col-lg-6 position-relative overflow-hidden" style="background-color: transparent !important;">
       <div class="position-lg-absolute top-0 left-0 overflow-hidden" style="background-color: transparent !important;">
-        <img class="d-block rounded-lg-3" src="https://www.arsome.com/images/simulator.jpg" alt="" width="900" style="background-color: transparent !important;">
+        <img class="d-block rounded-lg-3" src="/images/simulator.jpg" alt="" width="900" style="background-color: transparent !important;">
       </div>
     </div>
     <div class="col-lg-6 p-3 p-lg-5 pt-lg-3">
@@ -587,7 +587,7 @@ Following the development phase, we identify a strategy to gain user feedback in
   <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3" style="background-color: white;">
       <div class="col-lg-6 position-relative overflow-hidden" style="background-color: transparent !important;">
       <div class="position-lg-absolute top-0 left-0 overflow-hidden" style="background-color: transparent !important;">
-        <img class="d-block rounded-lg-3" src="https://www.arsome.com/images/girl.jpg" alt="" width="900" style="background-color: transparent !important;">
+        <img class="d-block rounded-lg-3" src="/images/girl.jpg" alt="" width="900" style="background-color: transparent !important;">
       </div>
     </div>
     <div class="col-lg-6 p-3 p-lg-5 pt-lg-3">
@@ -672,7 +672,7 @@ We wrap the project up by providing a Maintenance Management Plan, describing th
   <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3" style="background-color: white;">
       <div class="col-lg-6 position-relative overflow-hidden" style="background-color: transparent !important;">
       <div class="position-lg-absolute top-0 left-0 overflow-hidden" style="background-color: transparent !important;">
-        <img class="d-block rounded-lg-3" src="https://www.arsome.com/images/girl.jpg" alt="" width="900" style="background-color: transparent !important;">
+        <img class="d-block rounded-lg-3" src="/images/girl.jpg" alt="" width="900" style="background-color: transparent !important;">
       </div>
     </div>
     <div class="col-lg-6 p-3 p-lg-5 pt-lg-3">

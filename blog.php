@@ -71,7 +71,7 @@ require('./public/layout/navbar.php');
                            <div class="p">Museums have the ability to show more than what is on their walls and websites. They can now begin offering Augmented Reality experiences with the average visit.
   </div>
                            <div class="d-flex align-items-center mt-3">
-                              <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                              <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                               <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                            </div>
                         </div>
@@ -91,12 +91,12 @@ require('./public/layout/navbar.php');
                 
                  <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/is-virtual-reality-safe"> <img src="https://www.arsome.com/images/blog/staying-safe-with-vr.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/blogs/is-virtual-reality-safe"> <img src="/images/blog/staying-safe-with-vr.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Is Virtual Reality Safe? Staying Safe with VR</b></h3>
                         <p style="color: #555; font-size: 16px;">With a growing interest in virtual reality, especially with the release of the affordable VR Headset — the Oculus Quest 2, there...</p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -110,12 +110,12 @@ require('./public/layout/navbar.php');
                 
                 <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/technology-to-look-out-for-going-into-the-new-year"> <img src="https://www.arsome.com/images/blog/ar-goggles.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/blogs/technology-to-look-out-for-going-into-the-new-year"> <img src="/images/blog/ar-goggles.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Technology to Look Out for Going Into the...</b></h3>
                         <p style="color: #555; font-size: 16px;">This year has been possibly one of the most ‘intense’ years of most of our lives. Here’s a helpful guide to start your year ‘in the know’.   </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -132,17 +132,17 @@ require('./public/layout/navbar.php');
                 
                 <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/5-smart-ways-to-spend-remaining-yearly-budget"> <img src="https://www.arsome.com/images/blog/coin-jar.jpeg" alt="Image" class="card-img-top" style="height: 30vh;"> </a> 
+                     <a href="/blogs/5-smart-ways-to-spend-remaining-yearly-budget"> <img src="/images/blog/coin-jar.jpeg" alt="Image" class="card-img-top" style="height: 30vh;"> </a> 
                      <div class="card-body align-items-start">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>5 Smart Ways to Spend Remaining Yearly Budget</b></h3>
                         <p style="color: #555; font-size: 16px;">Decisions are being made on your company’s remaining budget. Don’t let it go to waste. Invest it smartly with these 5 tips.</p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
 <span style="font-weight:bold;"> 11-19-2020</span>                        <br><br>
-                        <a href="https://www.arsome.com/blogs/5-smart-ways-to-spend-remaining-yearly-budget">
+                        <a href="/blogs/5-smart-ways-to-spend-remaining-yearly-budget">
                           <span class="btn-pri-link">Read Article →</span>
                         </a> 
                      </div>
@@ -157,7 +157,7 @@ require('./public/layout/navbar.php');
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Top 5 Things to Do With a VR Headset</b></h3>
                         <p style="color: #555; font-size: 16px;">With the appearance of the new Oculus Quest 2, many are starting to debate whether or not to get one. The Oculus Quest 2 is at an astonishing low...</p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -171,13 +171,13 @@ require('./public/layout/navbar.php');
                 
                  <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/how-can-virtual-reality-improve-driving-training"> <img src="https://www.arsome.com/images/blog/0_Pgw2Zp1lsE18CM6p.jpeg" alt="Image" style="height: 30vh;" class="card-img-top"> </a> 
+                     <a href="/blogs/how-can-virtual-reality-improve-driving-training"> <img src="/images/blog/0_Pgw2Zp1lsE18CM6p.jpeg" alt="Image" style="height: 30vh;" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
                    
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>How can Virtual Reality Improve Driving Training?</b></h3>
                         <p style="font-size: 16px; color: #555;">The driving training industry is ignoring a huge possible game-changer for training — virtual reality. Virtual Reality is a great way to train new employees...</p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -191,18 +191,18 @@ require('./public/layout/navbar.php');
                 
                   <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/top-3-ways-technology-can-be-utilized-by-educational-spaces"> <img src="https://www.arsome.com/images/blog/0_mbZ8w-PzwT7aaPQ9.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/blogs/top-3-ways-technology-can-be-utilized-by-educational-spaces"> <img src="/images/blog/0_mbZ8w-PzwT7aaPQ9.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
            
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Top 3 Ways Technology Can be Utilized...</b></h3>
                         <p style="color: #555; font-size: 16px;">Education has generally been slow the the technology uptake for good reason, but is now the perfect time to adapt to circumstance and learn...</p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
 <span style="font-weight:bold;"> 09-30-2020</span>                        <br><br>
-                        <a href="https://www.arsome.com/blogs/top-3-ways-technology-can-be-utilized-by-educational-spaces">
+                        <a href="/blogs/top-3-ways-technology-can-be-utilized-by-educational-spaces">
                            <span class="btn-pri-link">Read Article →</span>
                         </a> 
                      </div>
@@ -211,18 +211,18 @@ require('./public/layout/navbar.php');
                 
                  <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/Augmented-Reality-Possible-Game-Changer-for-Museums"> <img src="https://www.arsome.com/images/blog/0_J3br5Cc4TbuPjXfs.jpeg" alt="Image" style="height: 30vh;" class="card-img-top"> </a> 
+                     <a href="/blogs/Augmented-Reality-Possible-Game-Changer-for-Museums"> <img src="/images/blog/0_J3br5Cc4TbuPjXfs.jpeg" alt="Image" style="height: 30vh;" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
                      
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>Augmented Reality: Possible Game Changer...</b></h3>
                         <p style="font-size: 16px; color: #555;">As museums open, they may be forced to become a little more creative with their options. The dramatic change in the museum industry’s... </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
 <span style="font-weight:bold;"> 09-11-2020</span>                        <br><br>
-                        <a href="https://www.arsome.com/blogs/Augmented-Reality-Possible-Game-Changer-for-Museums">
+                        <a href="/blogs/Augmented-Reality-Possible-Game-Changer-for-Museums">
                            <span class="btn-pri-link">Read Article →</span>
                         </a> 
                      </div>
@@ -231,13 +231,13 @@ require('./public/layout/navbar.php');
                 
                 <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/how-can-virtual-reality-improve-vocational-technical-education"> <img src="https://www.arsome.com/images/blog/vocational.jpg" alt="Image" style="height: 30vh;" class="card-img-top"> </a> 
+                     <a href="/blogs/how-can-virtual-reality-improve-vocational-technical-education"> <img src="/images/blog/vocational.jpg" alt="Image" style="height: 30vh;" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
                         
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>How Can Virtual Reality Improve...</b></h3>
                         <p style="font-size: 16px; color: #555;">Virtual reality education in the vocational/technical environment brings stability, trackability, safety, and an unforgettable learning experience. </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -252,13 +252,13 @@ require('./public/layout/navbar.php');
                 
                  <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/four-dynamic-ways-you-can-tell-your-company-story-effectively"> <img src="https://www.arsome.com/images/blog/passion-led-us-here.jpg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/blogs/four-dynamic-ways-you-can-tell-your-company-story-effectively"> <img src="/images/blog/passion-led-us-here.jpg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
                    
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>4 Dynamic Ways You Can Tell Your Company...</b></h3>
                         <p style="color: #555; font-size: 16px;">Creating a story that is interesting, dynamic, and memorable can be a challenge. But with these tips in mind, you can take even... </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -273,13 +273,13 @@ require('./public/layout/navbar.php');
                 
                <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/ar-vs-vr"> <img src="https://www.arsome.com/images/blog/vr.jpg" alt="Image" style="height: 30vh;" class="card-img-top"> </a> 
+                     <a href="/blogs/ar-vs-vr"> <img src="/images/blog/vr.jpg" alt="Image" style="height: 30vh;" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
                        
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>Virtual Reality (VR) vs. Augmented Reality (AR)</b></h3>
                         <p style="font-size: 16px; color: #555;">If you work in the digital space of Augmented and Virtual Reality Technology, one of the questions you may get time and time again is... </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -292,13 +292,13 @@ require('./public/layout/navbar.php');
                </div>
                <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/how-can-augmented-reality-improve-the-food-industry-post-coronavirus"> <img src="https://www.arsome.com/images/blog/restaurant.jpg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/blogs/how-can-augmented-reality-improve-the-food-industry-post-coronavirus"> <img src="/images/blog/restaurant.jpg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
                        
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>How can Augmented Reality Improve...</b> </h3>
                         <p style="color: #555; font-size: 16px;">Covid-19 has brought up many questions about how to be social safely, but when it comes to restaurants, the question is often how... </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -311,13 +311,13 @@ require('./public/layout/navbar.php');
                </div>
                <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/does-ar-childrens-books"> <img src="https://www.arsome.com/images/blog/dad-child.jpg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/blogs/does-ar-childrens-books"> <img src="/images/blog/dad-child.jpg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
                         
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>How Can Augmented Reality Improve... </b></h3>
                         <p style="color: #555; font-size: 16px;">Augmented reality has had its fair share of the spotlight over the last few years, but one of the larger issues in this industry come from </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -330,13 +330,13 @@ require('./public/layout/navbar.php');
                </div>
                <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/homeschooling-tips"> <img src="https://www.arsome.com/images/blog/homeschool.jpg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/blogs/homeschooling-tips"> <img src="/images/blog/homeschool.jpg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
                  
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>Homeschooling Tips for the New At-Home Teacher.</b></span> </h3>
                         <p style="color: #555; font-size: 16px;">We are currently witnessing and surviving the Coronavirus outbreak in 2020 which means a lot of things </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/lola.png" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
                         </div>
                         <br> 
@@ -349,14 +349,14 @@ require('./public/layout/navbar.php');
                </div>
                <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/ar-vr-and-fiveg"> <img src="https://www.arsome.com/images/blog/road.jpg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/blogs/ar-vr-and-fiveg"> <img src="/images/blog/road.jpg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start">
                       
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>Augmented/Virtual Reality and 5G</b>
                         </h3>
                         <p style="font-size: 16px; color: #555;">How will Augmented and Virtual Reality Technology be impacted by 5G? It seems to only open more doors... </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Terry Williams, Ph.D.</span> </div>
                         </div>
                         <br> 
@@ -382,7 +382,7 @@ require('./public/layout/navbar.php');
                     
                         </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Terry Williams, Ph.D.</span> </div>
                         </div>
                         <br> 
@@ -402,7 +402,7 @@ require('./public/layout/navbar.php');
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>Moving Beyond the WOW Factor</b> </h3>
                         <p style="font-size: 16px; color: #555;"> On his way out of a theatre an avowed horror movie aficionado checks out a poster for an upcoming slasher movie...</p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Terry Williams, Ph.D.</span> </div>
                         </div>
                         <br> 
@@ -423,7 +423,7 @@ require('./public/layout/navbar.php');
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>Augmented Reality in Media & Print</b> </h3>
                         <p style="color: #555; font-size: 16px;">From politics to sports, print has been a focal point at the breakfast table for years, but the times are changing. </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Terry Williams, Ph.D.</span> </div>
                         </div>
                         <br> 
@@ -443,7 +443,7 @@ require('./public/layout/navbar.php');
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>Gamification: Just Another Game of Marbles</b></h3>
                         <p style="color: #555; font-size: 16px;">Gamification isn’t a new term, but few truly understand how to embrace and deploy it as a strategic tool.</p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Terry Williams, Ph.D.</span> </div>
                         </div>
                         <br>
@@ -464,7 +464,7 @@ require('./public/layout/navbar.php');
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>AR/VR in the Workplace: Soft Skills</b></h3>
                         <p style="font-size: 16px; color: #555;">Immersive technology is coming to an HR department near you. </p>
                         <div class="d-flex align-items-center mt-3">
-                           <img src="https://www.arsome.com/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
+                           <img src="/images/terry.jpg" alt="Image" class="avatar avatar-sm"> 
                            <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Terry Williams, Ph.D.</span> </div>
                         </div>
                         <br> 

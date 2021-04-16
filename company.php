@@ -327,7 +327,7 @@ require('./public/layout/navbar.php');
                    </div>
                    <div class="col">
                        <div class="img__wrap">
-                       <img src="https://www.arsome.com/images/kai.jpg" class="img__img">
+                       <img src="/images/kai.jpg" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Kai-Hung Wang is an avid video game enthusiast with a passion for helping people. He earned his B.S. degree in Game and Interactive Media Design from Lunghwa University of Science and Technology in Taiwan. He also earned a M.S. degree in Digital Communication and Media/Multimedia from Northeastern University. His exptertise is in immersive technology and a beast unity developer. When not developing and designing, Kai keeps tabs on the Red Sox, Patriots, and Celtics.<br>
                        <br>
                        <a href="https://linkedin.com/in/kai-hung-wang" target="_blank" style="margin-top: 20px;"><img src="https://img.icons8.com/android/24/ffffff/linkedin.png"/></a>
@@ -373,7 +373,7 @@ require('./public/layout/navbar.php');
                    </div>
                    <div class="col">
                        <div class="img__wrap">
-                       <img src="https://www.arsome.com/images/anastasia.png" class="img__img">
+                       <img src="/images/anastasia.png" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Anastasia was born in Saint Petersburg, Russia where she got her Bachelor in International Relations. She built her own computer when she was 13 years old and learned HTML just at the same age. She has over 5 years of experience in UX/UI Design and earned Certificates in Graphic & Digital Design in Parsons School of Design, QA Software Testing in Portnov Computer School and Web Development at Udemy. She was the winner of the “Grow” group show in ArtHouse NYC in 2017. Ana has visited over 20 different countries around the world. In her free time she likes to volunteer and help others.<br>
                        <br>
                        <a href="https://www.linkedin.com/in/anastasia-gleyzer-372516144/" target="_blank" style="margin-top: 20px;"><img src="https://img.icons8.com/android/24/ffffff/linkedin.png"/></a>
@@ -389,7 +389,7 @@ require('./public/layout/navbar.php');
                    </div>
                    <div class="col">
                        <div class="img__wrap">
-                       <img src="https://www.arsome.com/images/kevin-dooley.png" class="img__img">
+                       <img src="/images/kevin-dooley.png" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Kevin joins ARSOME with over 25 years of business development, sales and entrepreneurial experience. He holds a B.S.in Marketing from State University of New York at Brockport and an M.B.A. / Finance from Rochester Institute of Technology - where he also serves as adjunct faculty in the School's Simone Center for Innovation and Entrepreneurship. Based in Rochester, NY, Kevin is the MarTech Peer Director on TechRochester's Board of Directors. He is an avid hockey fan and ADK high peaks hiker.<br>
                        <br>
                        <a href="https://www.linkedin.com/in/dooleykm/" target="_blank" style="margin-top: 20px;"><img src="https://img.icons8.com/android/24/ffffff/linkedin.png"/></a>
@@ -406,7 +406,7 @@ require('./public/layout/navbar.php');
                <div class="row">
                    <div class="col">
                        <div class="img__wrap">
-                       <img src="https://www.arsome.com/images/andrew-new.png" class="img__img">
+                       <img src="/images/andrew-new.png" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Andrew has 8+ years experience in digital marketing. He manages and executes digital advertising, social media, & seo efforts in ARSOME. Prior to ARSOME, he has worked with companies such as Cartier, Wilde, and Ford. Andrew holds a MBA in Media Management from Ashford University. Prior to that received his B.S. in Business Administration (Marketing) from ECSU. In his free time, he is smoking BBQ and traveling.<br>
                        <br>
                        <a href="https://www.linkedin.com/in/andrewpanganiban/" target="_blank" style="margin-top: 20px;"><img src="https://img.icons8.com/android/24/ffffff/linkedin.png"/></a>
@@ -493,7 +493,7 @@ require('./public/layout/navbar.php');
                    <div class="row">
                    <div class="col">
                       
-                       <img src="https://www.arsome.com/images/kai.jpg" class="img__img">
+                       <img src="/images/kai.jpg" class="img__img">
                      
                       
                        <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Kai Hung-Wang</h3></center>
@@ -521,7 +521,7 @@ require('./public/layout/navbar.php');
                    </div>
                    <div class="col">
                      
-                       <img src="https://www.arsome.com/images/ana.jpg" class="img__img">
+                       <img src="/images/ana.jpg" class="img__img">
                        
                       
                        <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Anastasia Gleyzer</h3></center>
@@ -533,7 +533,7 @@ require('./public/layout/navbar.php');
                    <div class="row">
                    <div class="col">
                       
-                       <img src="https://www.arsome.com/images/kevin-dooley.png" class="img__img">
+                       <img src="/images/kevin-dooley.png" class="img__img">
                       
                        
                        <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Kevin Dooley</h3></center>
@@ -543,7 +543,7 @@ require('./public/layout/navbar.php');
                    
                     <div class="col">
                      
-                       <img src="https://www.arsome.com/images/andrew-new.png" class="img__img">
+                       <img src="/images/andrew-new.png" class="img__img">
                       
                      
                        <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Andrew Panganiban</h3></center>
