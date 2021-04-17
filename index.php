@@ -332,7 +332,7 @@ require('./public/layout/navbar.php');
                 
                 <div class="col">
                   <div class="card" style="border-radius: 0px;">
-                     <a href="https://arsome.com/virtual-reality-driving-simulator"> <img src="./images/vrdrivetruck.jpeg" style=" border-radius: 0px; height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="https://arsome.com/virtual-reality-driving-simulator"> <img src="./images/orange-truck.jpeg" style=" border-radius: 0px; height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start" style="height: 345px;">
                          <img src="https://arsome.com/images/drive-icon-new.png" height="45" style="margin-top: -20px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>VR Driving Simulator</b></h3>
@@ -482,7 +482,7 @@ require('./public/layout/navbar.php');
                 <br>
 
                   <div class="card" style="border-radius: 0px;">
-                     <a href="/virtual-reality-driving-simulator"> <img src="./images/vrdrivetruck.jpeg" style=" border-radius: 0px; height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/virtual-reality-driving-simulator"> <img src="./images/orange-truck.jpeg" style=" border-radius: 0px; height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start" style="height: 355px;">
                          <img src="https://arsome.com/images/drive-icon-new.png" height="45" style="margin-top: -20px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>VR Driving Simulator</b></h3>
