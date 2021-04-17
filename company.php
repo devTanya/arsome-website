@@ -289,7 +289,7 @@ require('./public/layout/navbar.php');
                        <a href="https://linkedin.com/in/davidoyanadel" target="_blank" style="margin-top: 20px;"><img src="https://img.icons8.com/android/24/ffffff/linkedin.png"/></a>
                        </p>
                        </div>
-                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">David Oyandel</h3></center>
+                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">David Oyanadel</h3></center>
                        <center><p style="color: #555; font-size: 16px;">Co-Founder, Chief Innovation Officer</p></center>
                        
                    </div>
@@ -458,7 +458,7 @@ require('./public/layout/navbar.php');
                       
                        <img src="https://lh3.googleusercontent.com/pw/ACtC-3d1p5YVmnV0x2X3YZJIqoRvMvGhwwF_mqkAMztSWaeXkNwZJxJxsktKfFEqvV4iHnF17jLOR1AeabVNHOLBhN9Tnot7QCR55RAIIhcZnLgrDD_nioi_o15apv0M3-Pf8qpYzO1qIZlwQKVQstuAsOfQ=w804-h803-no?authuser=0" class="img__img">
                        
-                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">David Oyandel</h3></center>
+                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">David Oyanadel</h3></center>
                        <center><p style="color: #555; font-size: 16px;">Co-Founder, Chief Innovation Officer</p></center>
                        
                    </div>
