@@ -106,7 +106,7 @@ function growShrinkLogo() {
 </style>
 
 <div id="desktop-content">
-<div class="navbar-container sticky-top" style="background-color: #fff; position: fixed; width: 100%; border-bottom: 0px; padding-bottom: 0px; box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.1);">
+<div class="navbar-container sticky-top" style="background-color: #fff; z-index: 9999; position: fixed; width: 100%; border-bottom: 0px; padding-bottom: 0px; box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.1);">
     <div class="main-container navbar-container" style="background-color: #fff; border: 0px; ">
        <div data-collapse="medium" data-animation="default" data-duration="400" role="banner" class="navbar w-nav" style="background-color: #fff; margin-top: 0px; border: 0px;">
           <div class="navbar-row" style="border: 0px; height: 35px;">
