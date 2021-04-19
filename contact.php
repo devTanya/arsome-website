@@ -158,7 +158,7 @@ require('./public/layout/navbar.php');
 
                            <div class="row">
                                <div class="col">
-                           <div class="g-recaptcha" data-sitekey="6Lcx87AZAAAAADzcDehJcJpOWVATXpeP4qmAiwIf" style="margin-left: 12px;"></div>
+                           <div class="g-recaptcha" data-type="image" data-sitekey="6Lcx87AZAAAAADzcDehJcJpOWVATXpeP4qmAiwIf" style="margin-left: 12px;"></div>
                            </div>
                            </div>
                            <br/>
@@ -258,7 +258,7 @@ require('./public/layout/navbar.php');
                               <div class="d-none alert alert-danger" role="alert" data-error-message>
                                  Please fill all fields correctly.
                               </div>
-                              <center><div class="g-recaptcha" data-sitekey="6Lcx87AZAAAAADzcDehJcJpOWVATXpeP4qmAiwIf"></div></center>
+                              <center><div class="g-recaptcha" data-type="image" data-sitekey="6Lcx87AZAAAAADzcDehJcJpOWVATXpeP4qmAiwIf"></div></center>
 <br/>
                               <div id="desktop-content">
                                  <button type="submit" class="btn btn-md btn-primary" data-loading-text="Sending">
