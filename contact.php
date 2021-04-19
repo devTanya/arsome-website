@@ -21,6 +21,17 @@ s.parentNode.insertBefore(t,s)}(window,document,'script',
  fbq('init', '4031505433551329'); 
 fbq('track', 'PageView');
 </script>
+<style>
+#g-recaptcha-response {
+    display: block !important;
+    position: absolute;
+    margin: -78px 0 0 0 !important;
+    width: 302px !important;
+    height: 76px !important;
+    z-index: -999999;
+    opacity: 0;
+}
+</style>
 <noscript>
  <img height="1" width="1" 
 src="https://www.facebook.com/tr?id=4031505433551329&ev=PageView
@@ -320,6 +331,15 @@ inputElement.addEventListener('keydown',enforceFormat);
 inputElement.addEventListener('keyup',formatToPhone);
 </script>
 
+<script>
+window.onload = function() {
+    var $recaptcha = document.querySelector('#g-recaptcha-response');
+
+    if($recaptcha) {
+        $recaptcha.setAttribute("required", "required");
+    }
+};
+</script>
 
 	 <script src=https://code.jquery.com/jquery-3.3.1.slim.min.js integrity=sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js integrity=sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1 crossorigin=anonymous></script><script src=//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js /></script> <script type=text/javascript src=static/js/jquery.min.js></script> <script type=text/javascript src=static/js/bootstrap.js></script><script type=text/javascript src=static/js/aos.js></script> <script type=text/javascript src=static/js/flickity.pkgd.min.js></script><script type=text/javascript src=static/js/script.js></script><script src=https://code.jquery.com/jquery.js></script> <script type=text/javascript>_linkedin_partner_id="2098266";window._linkedin_data_partner_ids=window._linkedin_data_partner_ids||[];window._linkedin_data_partner_ids.push(_linkedin_partner_id);</script><script type=text/javascript>(function(){var c=document.getElementsByTagName("script")[0];var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src="https://snap.licdn.com/li.lms-analytics/insight.min.js";c.parentNode.insertBefore(a,c)})();</script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
