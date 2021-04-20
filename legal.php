@@ -3,6 +3,7 @@
    <head>
       <title>Privacy Policy | ARSOME</title>
       <link href="https://arsome.com/contact" rel="canonical"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
       <link href="static/css/main.min.css" rel="stylesheet" type="text/css" media="all" />
       <style type="text/css"> html body { max-width: 100%; overflow-x: hidden; } </style>
       <style type="text/css"> #desktop-content {display: block;} #mobile-content {display: none;} @media screen and (max-width: 768px) { #desktop-content {display: none;} #mobile-content {display: block;} } </style>
