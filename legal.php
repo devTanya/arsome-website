@@ -104,19 +104,18 @@ We use your data to provide and improve the Service. By using the Service, you a
 <h2 style="font-weight: bold;">Definitions</h2>
 <br>
 <h4 style="font-weight: bold;">Personal Data</h4>
-
 <p class="lead">Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession), including, but not limited to: 
 <ul style="color: black;">
-    <li> • First and last name;</li>
-    <li> • A home or other physical address including street name and name of a city or town;</li>
-    <li> • Online contact information;</li>
-    <li> • A screen or user name that functions as online contact information;</li>
-    <li> • A telephone number;</li>
-    <li> • A Social Security number;</li>
-    <li> • A persistent identifier that can be used to recognize a user over time and across different websites or online services;</li>
-    <li> • A photograph, video, or audio file, where such file contains the individual’s image or voice;</li>
-    <li> • Geolocation information sufficient to identify street name and name of a city or town; or</li>
-    <li> • Information concerning the individual the Arsome collects online from the individual combines with an identifier described above.</li>
+    <li> First and last name;</li>
+    <li> A home or other physical address including street name and name of a city or town;</li>
+    <li> Online contact information;</li>
+    <li> A screen or user name that functions as online contact information;</li>
+    <li> A telephone number;</li>
+    <li> A Social Security number;</li>
+    <li> A persistent identifier that can be used to recognize a user over time and across different websites or online services;</li>
+    <li> A photograph, video, or audio file, where such file contains the individual’s image or voice;</li>
+    <li> Geolocation information sufficient to identify street name and name of a city or town; or</li>
+    <li> Information concerning the individual the Arsome collects online from the individual combines with an identifier described above.</li>
 </ul>
 </p>
 
@@ -175,8 +174,8 @@ is not limited to:</p>
 
 
 <ul>
-    <li>• Email address</li>
-    <li>• Name</li>
+    <li>Email address</li>
+    <li>Name</li>
 </ul>
 
 <h4 style="font-weight: bold;">Usage</h4>
@@ -218,11 +217,11 @@ may not be able to use some portions of our Service.</p>
 
 <p class="lead">Examples of Cookies we use:</p>
 <ul>
-    <li>• <b>Session Cookies</b> We use Session Cookies to operate our
+    <li> <b>Session Cookies</b> We use Session Cookies to operate our
 Service.</li>
- <li>• <b>Preference Cookies</b> We use Preference Cookies to remember your
+ <li><b>Preference Cookies</b> We use Preference Cookies to remember your
 preferences and various settings.</li>
- <li>• <b>Security Cookies</b> We use Security Cookies for security
+ <li><b>Security Cookies</b> We use Security Cookies for security
 purposes.</li>
 </ul>
 
@@ -231,15 +230,15 @@ purposes.</li>
 collected data for various purposes:</p>
 
 <ul>
-    <li>• To provide and maintain our Service</li>
- <li>• To notify you about changes to our Service</li>
- <li>• To allow you to participate in interactive features of our Service
+    <li>To provide and maintain our Service</li>
+ <li>To notify you about changes to our Service</li>
+ <li>To allow you to participate in interactive features of our Service
 when you choose to do so</li>
-<li>• To provide customer support</li>
-<li>• To gather analysis or valuable information so that we can
+<li>To provide customer support</li>
+<li> To gather analysis or valuable information so that we can
 improve our Service</li>
-<li>• To monitor the usage of our Service</li>
-<li>• To detect, prevent and address technical issues</li>
+<li>To monitor the usage of our Service</li>
+<li> To detect, prevent and address technical issues</li>
 </ul>
 <br>
 <h2 style="font-weight: bold;">Rentention of Data</h2>
@@ -294,13 +293,13 @@ court or a government agency).</p>
 Personal Data in the good faith belief that such action is necessary to:</p>
 
 <ul>
-    <li>• To comply with a legal obligation</li>
-    <li>• To protect and defend the rights or property of ARSOME LLC</li>
-<li>• To prevent or investigate possible wrongdoing in connection with the
+    <li>To comply with a legal obligation</li>
+    <li>To protect and defend the rights or property of ARSOME LLC</li>
+<li>To prevent or investigate possible wrongdoing in connection with the
 Service</li>
-<li>• To protect the personal safety of users of the Service or the
+<li>To protect the personal safety of users of the Service or the
 public</li>
-<li>• To protect against legal liability</li>
+<li>To protect against legal liability</li>
 </ul>
 <br>
 <h2 style="font-weight: bold;">Security Of Data</h2>
@@ -334,11 +333,11 @@ you want it to be removed from our systems, please contact us.</p>
 
 <ul>
     <li>
-       • To access and receive a copy of the Personal Data we hold about
+       To access and receive a copy of the Personal Data we hold about
 you
     </li>
-    <li>• To rectify any Personal Data held about you that is inaccurate</li>
-    <li>• To request the deletion of Personal Data held about you</li>
+    <li>To rectify any Personal Data held about you that is inaccurate</li>
+    <li>To request the deletion of Personal Data held about you</li>
 </ul>
 
 <p class="lead">You have the right to data portability for the information you provide to
