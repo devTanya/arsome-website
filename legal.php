@@ -1,14 +1,62 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang=en>
    <head>
-      <title>Privacy Policy | ARSOME</title>
-      <link href="https://arsome.com/contact" rel="canonical"/>
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link href="static/css/main.min.css" rel="stylesheet" type="text/css" media="all" />
-      <style type="text/css"> html body { max-width: 100%; overflow-x: hidden; } </style>
-      <style type="text/css"> #desktop-content {display: block;} #mobile-content {display: none;} @media screen and (max-width: 768px) { #desktop-content {display: none;} #mobile-content {display: block;} } </style>
-            <style>.hero{width:100vw;height:100vh;display:flex;justify-content:center;align-items:center;text-align:center;background-size:cover;background-position:center center;background-repeat:no-repeat;background-attachment:fixed}</style>
-<!-- Facebook Pixel Code -->
+      <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128659346-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-128659346-1'); </script> 
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KC26MDR');</script>
+<!-- End Google Tag Manager -->
+
+<link rel="stylesheet" href="./navbar.css" type="text/css">
+
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"56289759"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><title>Privacy Policy | ARSOME</title>
+
+<!-- index description -->
+<meta name="description" content="Driving change with relentless innovation, immersive technology, & software development. ARSOME also offers Virtual Reality & Augmented Reality solutions."/>
+
+<!-- index name -->
+<meta name=viewport content="width=device-width, initial-scale=1">
+
+<!-- index keywords -->
+<meta name="keywords" content="arsome,virtual reality in ct,virtual reality company,virtual reality new york,virtual reality ny"/>
+
+<link rel="canonical" content="https">
+
+<!-- social description -->
+<meta property="og:description" content="Driving change with relentless innovation, immersive technology, & software development."/>
+
+<!-- social title -->
+<meta property="og:title" content="ARSOME Technology"/>
+
+<!-- social image -->
+<meta property="og:image" content="/imm-resize.jpg"/>
+
+<link rel="shortcut icon" href="/images/favicon.png" />
+<link rel="canonical" href="https://arsome.com"/>
+
+
+	
+
+<script type="text/javascript"> _linkedin_partner_id = "2098266"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2098266&fmt=gif" /> </noscript>      <link href="https://arsome.com" rel="canonical"/>
+      <link rel="icon" href="/images/favicon.png" />
+      <link href=static/css/main.min.css rel=stylesheet type=text/css media=all />
+      
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154667104-1"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","UA-154667104-1");</script> <script>!function(h,a,i,c,j,d,g){if(h.fbq){return}j=h.fbq=function(){j.callMethod?j.callMethod.apply(j,arguments):j.queue.push(arguments)};if(!h._fbq){h._fbq=j}j.push=j;j.loaded=!0;j.version="2.0";j.queue=[];d=a.createElement(i);d.async=!0;d.src=c;g=a.getElementsByTagName(i)[0];g.parentNode.insertBefore(d,g)}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2731126830449731");fbq("track","PageView");</script>
+      <noscript><img height=1 width=1 style=display:none src="https://www.facebook.com/tr?id=2731126830449731&ev=PageView&noscript=1" /></noscript>
+      <style>html,body{max-width:100%;overflow-x:hidden}</style>
+      <style>.hero{width:100vw;height:80vh;display:flex;justify-content:center;align-items:center;text-align:center;background-size:cover;background-position:center center;background-repeat:no-repeat;background-attachment:fixed}</style>
+      <style>.hero-mobile{width:100vw;height:50vh;display:flex;justify-content:center;align-items:center;color:white;background-color:black;text-align:center;background-image:url('./preview.gif');background-size:cover;background-position:center center;background-repeat:no-repeat}</style>
+      <style type=text/css>#introVideo{position:absolute;right:0;bottom:0;min-width:100%;min-height:100%}</style>
+      <style type=text/css>html body{max-width:100%;overflow-x:hidden}</style>
+      <style type=text/css>#desktop-content{display:block}#mobile-content{display:none}@media screen and (max-width:768px){#desktop-content{display:none}#mobile-content{display:block}}</style>
+ <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -21,17 +69,6 @@ s.parentNode.insertBefore(t,s)}(window,document,'script',
  fbq('init', '4031505433551329'); 
 fbq('track', 'PageView');
 </script>
-<style>
-#g-recaptcha-response {
-    display: block !important;
-    position: absolute;
-    margin: -78px 0 0 0 !important;
-    width: 302px !important;
-    height: 76px !important;
-    z-index: -999999;
-    opacity: 0;
-}
-</style>
 <noscript>
  <img height="1" width="1" 
 src="https://www.facebook.com/tr?id=4031505433551329&ev=PageView
@@ -40,113 +77,6 @@ src="https://www.facebook.com/tr?id=4031505433551329&ev=PageView
 <!-- End Facebook Pixel Code -->
    </head>
    <body>
-
-   <link rel="stylesheet" href="./navbar.css" type="text/css">
-
-<script>
-    <script>
-window.onscroll = function() {
-  growShrinkLogo()
-};
-
-function growShrinkLogo() {
-  var Logo = document.getElementById("Logo")
-  if (document.body.scrollTop > 5 || document.documentElement.scrollTop > 5) {
-    Logo.style.width = '30px';
-  } else {
-    Logo.style.width = '50px';
-  }
-}
-</script>
-</script>
-
-<style>
-    .lead {
-        font-family: helvetica !important;
-        font-size: 18px;
-        line-height: 1.3em;
-        color: black;
-    }
-    .powered:hover {
-        color: white;
-    }
-    .powered {
-        color: #888;
-    }
-    p {
-        font-family: helvetica !important;
-        font-size: 18px;
-        line-height: 1.3em;
-    }
-    .btn-pri-2 {
-        background-color: #2f94f9 !important;
-    }
-    .btn-pri-2:hover {
-        background-color: #197de0 !important;
-        border: solid 2px #197de0;
-    }
-    
-    .btn-sec-2 {
-        background-color: #7ac143 !important;
-        border: solid 2px #7ac143;
-    }
-    .btn-sec-2:hover {
-        background-color: #64ab2e !important;
-        border: solid 2px #64ab2e;
-    }
-    
-    
-    .btn-pri-link{
-        color: #2f94f9 !important;
-        font-size: 15px;
-        font-weight: 600;
-    }
-    .btn-pri-link:hover{
-        color: #197de0 !important;
-    }
-    .nav-link{
-        padding-bottom: 5px;
-        padding-top: 5px;
-        padding-left: 20px;
-        padding-right: 20px;
-        font-size: 18px;
-    }
-
-    .nav-link:hover{
-        background-color: #f7f7f7;
-        padding-bottom: 5px;
-        padding-top: 5px;
-        padding-left: 20px;
-        padding-right: 20px;
-        border-radius: 30px;
-        color: black !important;
-    }
-    
-    .footer-link{
-        text-align: center !important;
-        justify-content: center !important;
-        align-items: center !important;
-    }
-    
-    .footer-link:hover {
-        background-color: transparent !important;
-        color: white !important;
-    }
-    
-    .nav-menu-wide {
-        border: 0px;
-    }
-</style>
-
-<style>
-    .bg-black {
-        background-color: #1d1d1d;
-    }
-    .footer-link {
-        color: white !important;
-        font-size: 18px;
-    }
-</style>
 
 <?php
 require('./public/layout/navbar.php');
