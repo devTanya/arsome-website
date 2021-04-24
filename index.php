@@ -845,7 +845,7 @@ require('./public/layout/navbar.php');
 
       
       
-<section style="background-color:#fff;margin-top:-110px;padding-bottom:40px; z-index: 99; position: relative;">
+<section style="background-color:#fff;margin-top:-110px;padding-bottom:40px; z-index: 999; position: relative;">
          <div class=container >
             <div class="row mb-4">
                <div class=col>
