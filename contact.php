@@ -51,12 +51,24 @@ require('./public/layout/navbar.php');
           <br><br> 
       </div>
 
-       <section class="text-dark header-inner p-0 jarallax position-relative" style="background-color: #eff9fb;" data-jarallax data-speed="0.2" data-overlay>
+      <section class="text-dark header-inner p-0 jarallax position-relative" style="background-color: #eff9fb;" data-jarallax data-speed="0.2" data-overlay>
          <div class="container py-0">
             <div class="row my-4 my-md-6 text-center justify-content-center align-items-center">
                <div class="col-lg-9 col-xl-8">
                   <br>
                   <h1 style="color: #000; font-size: 3.5rem;"><b>Start a Project</b></h1>
+                  <div id="desktop-content">
+                     <p class="lead mb-0" style="color: #555; font-size: 19px;">
+                     Looking for more information on our services or have questions about the technology? Look no further. We can chat on weekdays and weekends to learn more about your idea and recommend ways to make it exceptional. We accept projects that align to our expertise and work with clients that are ethical and friendly. Stop by our office in Manchester to get a feel of our culture and to try our technology.
+
+                     </p>
+                  </div>
+                  <div id="mobile-content">
+                     <p class="mb-0 lead" style="color: #555; font-size: 19px;">
+                     Looking for more information on our services or have questions about the technology? Look no further. We can chat on weekdays and weekends to learn more about your idea and recommend ways to make it exceptional. We accept projects that align to our expertise and work with clients that are ethical and friendly. Stop by our office in Manchester to get a feel of our culture and to try our technology.
+
+                     </p>
+                  </div>
                </div>
             </div>
          </div>
@@ -66,17 +78,10 @@ require('./public/layout/navbar.php');
             </svg>
          </div>
       </section>
-      <center>
-      <section style="width: 75%; margin-top: -60px;">
-         <center> <h1><b>Looking for more information on our services or have questions about the technology?</b></h1>
-                     
-                     <p style="color: black; width: 83%; font-size: 19px;">   Look no further. We can chat on weekdays and weekends to learn more about your idea and recommend ways to make it exceptional. We accept projects that align to our expertise and work with clients that are ethical and friendly. Stop by our office in Manchester to get a feel of our culture and to try our technology.
-</p></center>
-      </section>
-      </center>
+
 
     
-      <div id="desktop-content" style="margin-top: -160px;">
+      <div id="desktop-content" style="margin-top: -50px;">
          <section style="z-index: 999; position: relative;">
             <div class="container">
                <div class="row text-center">
@@ -96,17 +101,9 @@ require('./public/layout/navbar.php');
             </div>
          </section>
       </div>
-      
-      <section style="margin-top: -320px;">
-          <div class="container">
-            <center>
-                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2975.6300160491314!2d-72.52302098469754!3d41.77163417923071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e65771170cf41d%3A0x965c07e8715bb503!2sARSOME%20Technology!5e0!3m2!1sen!2sus!4v1592061897820!5m2!1sen!2sus" style="width: 90%; height: 400px; margin-top: 180px;" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> 
-                   </center>
-                   </div>
-      </section>
-      
+
       <div id="desktop-content">
-         <section style="z-index: 9; position: relative; background-color: #eff9fb; margin-top: -50px;">
+         <section style="z-index: 9; position: relative; background-color: #eff9fb; margin-top: -0px;">
             <div class="container">
                <div class="row justify-content-center">
                    
@@ -187,6 +184,16 @@ require('./public/layout/navbar.php');
             </div>
          </section>
       </div>
+      
+      <section style="margin-top: -200px;">
+          <div class="container">
+            <center>
+                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2975.6300160491314!2d-72.52302098469754!3d41.77163417923071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e65771170cf41d%3A0x965c07e8715bb503!2sARSOME%20Technology!5e0!3m2!1sen!2sus!4v1592061897820!5m2!1sen!2sus" style="width: 90%; height: 400px; margin-top: 180px;" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> 
+                   </center>
+                   </div>
+      </section>
+      
+     
       <div id="mobile-content" style="margin-top: -60px;">
          <section>
             <div class="container">

@@ -64,9 +64,7 @@ require('../public/layout/navbar.php');
             <div class="col-lg-10 col-xl-8">
                <h1>3 Ways Museums Can Benefit From AR Usage</h1>
                <div class="d-flex align-items-center">
-                  <a href="#"> <img src="https://www.arsome.com/images/lola.png" alt="Lola Oretade" class="avatar mr-2"> </a> 
                   <div>
-                     <div>by <a href="#" style="color: #000;">Lola Oretade, B.A. English</a> </div>
                      <div class="text-small text-muted">12, March</div>
                   </div>
                </div>

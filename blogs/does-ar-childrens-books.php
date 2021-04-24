@@ -64,9 +64,7 @@ require('../public/layout/navbar.php');
                <p class="lead" style="color: black;">Augmented reality has been in and out of the public eye for at least a decade and has taken space in almost every industry. Can AR enter the publishing industry as well?
                </p>
                <div class="d-flex align-items-center">
-                  <a href="#"> <img src="https://www.arsome.com/images/lola.png" alt="Lola Oretade" class="avatar mr-2"> </a> 
                   <div>
-                     <div>by <a href="#" style="color: #000;">Lola Oretade, B.A. English</a> </div>
                      <div class="text-small text-muted">11, June</div>
                   </div>
                </div>

@@ -905,10 +905,7 @@ require('./public/layout/navbar.php');
                      <div class="card-body align-items-start" style="height: 345px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>Is Virtual Reality Safe? Staying Safe with VR</b></h3>
                         <p style="color: #555; font-size: 16px; width: 85%;">With a growing interest in virtual reality, especially with the release of the affordable VR Headset — the Oculus Quest 2...</p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+
                         <br> 
 <span style="font-weight:bold;"> 03-12-2020</span>                        <br><br>
                         <a class="btn-pri-link" href="/blogs/is-virtual-reality-safe">
@@ -924,10 +921,7 @@ require('./public/layout/navbar.php');
                      <div class="card-body align-items-start" style="height: 345px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>Technology to Look Out for Going Into the New...</b></h3>
                         <p style="color: #555; font-size: 16px; width: 85%;">This year has been possibly one of the most ‘intense’ years of most of our lives. Here’s a helpful guide to start... </p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+
                         <br> 
 <span style="font-weight:bold;"> 12-23-2020</span>                        <br><br>
                         <a class="btn-pri-link" href="/blogs/technology-to-look-out-for-going-into-the-new-year">
@@ -946,10 +940,7 @@ require('./public/layout/navbar.php');
                      <div class="card-body align-items-start" style="height: 345px;">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>5 Smart Ways to Spend Remaining Yearly Budget</b></h3>
                         <p style="color: #555; font-size: 16px; width: 85%;">Decisions are being made on your company’s remaining budget. Don’t let it go to waste. Invest it...</p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+
                         <br> 
 <span style="font-weight:bold;"> 11-19-2020</span>                        <br><br>
                         <a class="btn-pri-link" href="/blogs/5-smart-ways-to-spend-remaining-yearly-budget">

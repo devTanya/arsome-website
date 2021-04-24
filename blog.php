@@ -70,10 +70,7 @@ require('./public/layout/navbar.php');
 </b></div>
                            <div class="p">Museums have the ability to show more than what is on their walls and websites. They can now begin offering Augmented Reality experiences with the average visit.
   </div>
-                           <div class="d-flex align-items-center mt-3">
-                              <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                              <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                           </div>
+   
                         </div>
                         <span class="btn-pri-link">Read Article →</span>
                         <span style="font-weight:bold;"> 03-12-2021</span>
@@ -95,10 +92,7 @@ require('./public/layout/navbar.php');
                      <div class="card-body align-items-start">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Is Virtual Reality Safe? Staying Safe with VR</b></h3>
                         <p style="color: #555; font-size: 16px;">With a growing interest in virtual reality, especially with the release of the affordable VR Headset — the Oculus Quest 2, there...</p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+      
                         <br> 
 <span style="font-weight:bold;"> 03-12-2020</span>                        <br><br>
                         <a href="/blogs/is-virtual-reality-safe">
@@ -114,10 +108,7 @@ require('./public/layout/navbar.php');
                      <div class="card-body align-items-start">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Technology to Look Out for Going Into the...</b></h3>
                         <p style="color: #555; font-size: 16px;">This year has been possibly one of the most ‘intense’ years of most of our lives. Here’s a helpful guide to start your year ‘in the know’.   </p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+
                         <br> 
 <span style="font-weight:bold;"> 12-23-2020</span>                        <br><br>
                         <a href="/blogs/technology-to-look-out-for-going-into-the-new-year">
@@ -136,10 +127,7 @@ require('./public/layout/navbar.php');
                      <div class="card-body align-items-start">
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>5 Smart Ways to Spend Remaining Yearly Budget</b></h3>
                         <p style="color: #555; font-size: 16px;">Decisions are being made on your company’s remaining budget. Don’t let it go to waste. Invest it smartly with these 5 tips.</p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+                
                         <br> 
 <span style="font-weight:bold;"> 11-19-2020</span>                        <br><br>
                         <a href="/blogs/5-smart-ways-to-spend-remaining-yearly-budget">
@@ -156,10 +144,7 @@ require('./public/layout/navbar.php');
      
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Top 5 Things to Do With a VR Headset</b></h3>
                         <p style="color: #555; font-size: 16px;">With the appearance of the new Oculus Quest 2, many are starting to debate whether or not to get one. The Oculus Quest 2 is at an astonishing low...</p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+                      
                         <br> 
 <span style="font-weight:bold;"> 10-30-2020</span>                        <br><br>
                         <a href="/blogs/top-5-things-to-do-with-a-vr-headset">
@@ -176,10 +161,7 @@ require('./public/layout/navbar.php');
                    
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>How can Virtual Reality Improve Driving Training?</b></h3>
                         <p style="font-size: 16px; color: #555;">The driving training industry is ignoring a huge possible game-changer for training — virtual reality. Virtual Reality is a great way to train new employees...</p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+               
                         <br> 
 <span style="font-weight:bold;"> 10-22-2020</span>                        <br><br>
                         <a href="https://www.arsome.com/blogs/how-can-virtual-reality-improve-driving-training">
@@ -196,10 +178,7 @@ require('./public/layout/navbar.php');
            
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Top 3 Ways Technology Can be Utilized...</b></h3>
                         <p style="color: #555; font-size: 16px;">Education has generally been slow the the technology uptake for good reason, but is now the perfect time to adapt to circumstance and learn...</p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+                      
                         <br> 
 <span style="font-weight:bold;"> 09-30-2020</span>                        <br><br>
                         <a href="/blogs/top-3-ways-technology-can-be-utilized-by-educational-spaces">
@@ -216,10 +195,7 @@ require('./public/layout/navbar.php');
                      
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>Augmented Reality: Possible Game Changer...</b></h3>
                         <p style="font-size: 16px; color: #555;">As museums open, they may be forced to become a little more creative with their options. The dramatic change in the museum industry’s... </p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+                      
                         <br> 
 <span style="font-weight:bold;"> 09-11-2020</span>                        <br><br>
                         <a href="/blogs/Augmented-Reality-Possible-Game-Changer-for-Museums">
@@ -236,10 +212,7 @@ require('./public/layout/navbar.php');
                         
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>How Can Virtual Reality Improve...</b></h3>
                         <p style="font-size: 16px; color: #555;">Virtual reality education in the vocational/technical environment brings stability, trackability, safety, and an unforgettable learning experience. </p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+                       
                         <br> 
 <span style="font-weight:bold;"> 08-29-2020</span>                        <br><br>
                         <a href="/blogs/how-can-virtual-reality-improve-vocational-technical-education">
@@ -257,10 +230,7 @@ require('./public/layout/navbar.php');
                    
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>4 Dynamic Ways You Can Tell Your Company...</b></h3>
                         <p style="color: #555; font-size: 16px;">Creating a story that is interesting, dynamic, and memorable can be a challenge. But with these tips in mind, you can take even... </p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+                       
                         <br> 
 <span style="font-weight:bold;"> 08-17-2020</span>                        <br><br>
                         <a href="/blogs/four-dynamic-ways-you-can-tell-your-company-story-effectively">
@@ -278,10 +248,7 @@ require('./public/layout/navbar.php');
                        
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>Virtual Reality (VR) vs. Augmented Reality (AR)</b></h3>
                         <p style="font-size: 16px; color: #555;">If you work in the digital space of Augmented and Virtual Reality Technology, one of the questions you may get time and time again is... </p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+                       
                         <br> 
 <span style="font-weight:bold;"> 07-30-2020</span>                        <br><br>
                         <a href="/blogs/ar-vs-vr">
@@ -297,10 +264,7 @@ require('./public/layout/navbar.php');
                        
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>How can Augmented Reality Improve...</b> </h3>
                         <p style="color: #555; font-size: 16px;">Covid-19 has brought up many questions about how to be social safely, but when it comes to restaurants, the question is often how... </p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+                       
                         <br> 
 <span style="font-weight:bold;"> 07-17-2020</span>                        <br><br>
                         <a href="/blogs/how-can-augmented-reality-improve-the-food-industry-post-coronavirus">
@@ -316,10 +280,7 @@ require('./public/layout/navbar.php');
                         
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>How Can Augmented Reality Improve... </b></h3>
                         <p style="color: #555; font-size: 16px;">Augmented reality has had its fair share of the spotlight over the last few years, but one of the larger issues in this industry come from </p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+                        
                         <br> 
 <span style="font-weight:bold;"> 06-17-2020</span>                        <br><br>
                         <a href="/blogs/does-ar-childrens-books">
@@ -335,10 +296,7 @@ require('./public/layout/navbar.php');
                  
                         <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"> <b>Homeschooling Tips for the New At-Home Teacher.</b></span> </h3>
                         <p style="color: #555; font-size: 16px;">We are currently witnessing and surviving the Coronavirus outbreak in 2020 which means a lot of things </p>
-                        <div class="d-flex align-items-center mt-3">
-                           <img src="/images/lola.png" alt="Image" class="avatar avatar-sm"> 
-                           <div class="ml-1"> <span class="text-small text-muted">By</span> <span class="text-small">Lola Oretade, B.A. English</span> </div>
-                        </div>
+                       
                         <br> 
 <span style="font-weight:bold;"> 06-12-2020</span>                        <br><br>
                         <a href="/blogs/homeschooling-tips">
