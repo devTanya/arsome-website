@@ -227,7 +227,7 @@ require('./public/layout/navbar.php');
                       <center>
                      <small style="font-weight: 600; color: #2f94f9; font-size: 1rem;">WHAT WE DO</small>
                      
-                     <h1>  <b> Building Digital Products & Applications For Companies, Educators and Entrepreneurs  </b> 
+                     <h1>  <b> A Team of Entrepreneurs Building Digital Products & Applications </b> 
 </h1>
   </center>
   <br>
@@ -269,7 +269,7 @@ require('./public/layout/navbar.php');
                       <center>
                      <small style="font-weight: 600; color: #2f94f9; font-size: 1rem;">WHAT WE DO</small>
                      
-                     <h1>  <b> Building Digital Products & Applications For Companies, Educators and Entrepreneurs  </b>   
+                     <h1>  <b> A Team of Entrepreneurs Building Digital Products & Applications </b>   
 </p>
   </center>
   <br>
