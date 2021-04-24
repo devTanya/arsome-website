@@ -227,7 +227,8 @@ require('./public/layout/navbar.php');
                       <center>
                      <small style="font-weight: 600; color: #2f94f9; font-size: 1rem;">WHAT WE DO</small>
                      
-                     <h1>  <b>Building and Delivering Change With Innovative Software
+                     <h1>  <b>
+Designing and Delivering Change with Innovative Services
 
  </b> 
 </h1>
@@ -271,7 +272,8 @@ require('./public/layout/navbar.php');
                       <center>
                      <small style="font-weight: 600; color: #2f94f9; font-size: 1rem;">WHAT WE DO</small>
                      
-                     <h1>  <b>Building and Delivering Change With Innovative Software
+                     <h1>  <b>
+Designing and Delivering Change with Innovative Services
 
 </b>   
 </p>
