@@ -171,18 +171,19 @@
 					}
 				</style>
 			</head>
-	<body>
+	<body style="background-color: #eff9fb;">
 		
 <?php
 require('./public/layout/navbar.php');
 ?>
 
 <br><br>
-
+<br>
 						<div class="container">
 							<div class="row justify-content-center">
 								<div class="col-md-9 col-lg-8 col-xl-6">
 									<div class="text-center mb-4">
+									<br><br>
 										<h2 class="h1">Order Form<span style="color: #7ac143;">.</span></h2>
 										<p class="lead">Fill out the form below to place an order or send us a message: <a href="mailto:info@arsome.com" style="color: #7ac143">info@arsome.com</a> </p>
 									</div>
@@ -232,17 +233,18 @@ require('./public/layout/navbar.php');
 												</div>
 												<center><div class="g-recaptcha" data-sitekey="6Lcx87AZAAAAADzcDehJcJpOWVATXpeP4qmAiwIf"></div></center>
 		<br/>
-												<div id="desktop-content">
+												<center><div id="desktop-content">
 													<button type="submit" class="btn btn-md btn-primary" data-loading-text="Sending" style="background-color: #7ac143; border: solid 1px #7ac143;">
-													<span>Submit</span>
+													<span>Submit →</span>
 													</button>
-												</div>
-												<div id="mobile-content">
+												</div></center>
+												<center><div id="mobile-content">
 													<center><button type="submit" class="btn btn-lg btn-primary" data-loading-text="Sending">
-														<span>Submit</span>
+														<span>Submit →</span>
 														</button>
 													</center>
 												</div>
+												</center>
 											</div>
 										</div>
 									</form>

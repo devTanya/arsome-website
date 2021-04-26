@@ -226,11 +226,11 @@ require('./public/layout/navbar.php');
     </section>
  </div>
  <div id="mobile-content">
-    <section class="text-dark header-inner p-0 jarallax position-relative" style="background-color: #f4f6ff;" data-jarallax data-speed="0.2" data-overlay>
+    <section class="text-dark header-inner p-0 jarallax position-relative" style="background-color: #eff9fb;" data-jarallax data-speed="0.2" data-overlay>
        <div class="container py-0">
           <div class="row my-4 my-md-6 text-center justify-content-center align-items-center">
              <div class="col-lg-9 col-xl-8">
-                <h1 class="display-4" style="color: #000;">ARSOME's Heart<span style="color: #2f94f9;">.</span></h1>
+                <h1 class="display-4" style="color: #000;">ARSOME's Heart</h1>
                 <p class="lead mb-0" style="color: #000;">When you work with us, you get a dedicated team that values diversity. Team members range in age from 72 to 22, speak up to five languages, originate from three different countries, and have worked in four different industries before coming to ARSOME. We have found that our multicultural work environment has enriched our work and increased the satisfaction of our customers. </p>
              </div>
           </div>

@@ -51,6 +51,8 @@ require('./public/layout/navbar.php');
           <br><br> 
       </div>
 
+      
+
       <section class="text-dark header-inner p-0 jarallax position-relative" style="background-color: #eff9fb;" data-jarallax data-speed="0.2" data-overlay>
          <div class="container py-0">
             <div class="row my-4 my-md-6 text-center justify-content-center align-items-center">
@@ -78,6 +80,101 @@ require('./public/layout/navbar.php');
             </svg>
          </div>
       </section>
+
+      <div id="mobile-content" style="margin-top: -60px;">
+         <section>
+            <div class="container">
+               <div class="row text-center">
+                  <div class="col-sm-4 mb-3 mb-sm-0">
+                     <h3 class="h2">Visit<span style="color: #2f94f9;">.</span></h3>
+                     <span class="lead"> <a href="https://google.com/maps/dir//ARsome+Technology+Group,+769+Main+St,+Manchester,+CT+06040/@41.7716342,-72.5230263,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89e65771170cf41d:0x965c07e8715bb503!2m2!1d-72.5208323!2d41.7716342" target="_blank" style="color: #2f94f9;">769 Main Street, Manchester, CT 06040</a> </span> 
+                  </div>
+                  <div class="col-sm-4 mb-3 mb-sm-0">
+                     <h3 class="h2">Email<span style="color: #2f94f9;">.</span></h3>
+                     <a href="mailto:info@arsometech.com" class="lead" style="color: #2f94f9;">info@arsome.com</a> 
+                  </div>
+                  <div class="col-sm-4 mb-3 mb-sm-0">
+                     <h3 class="h2">Call<span style="color: #2f94f9;">.</span></h3>
+                     <span class="lead"> <a href="tel:8603047660" style="color: #2f94f9;">+1 (860) 304-7660</a> </span> 
+                  </div>
+               </div>
+            </div>
+         </section>
+      </div>
+      
+
+      <div id="mobile-content">
+         <section style="background-color: #eff9fb;">
+            <div class="container">
+               <div class="row justify-content-center">
+                  <div class="col-md-9 col-lg-8 col-xl-6">
+                     <div class="text-center mb-4">
+                        <h1 class="h1" style="color: black;">Let's Connect</h1>
+                        <p class="lead">We'd love to speak to you about your project, please fill out the form below to continue. </p>
+                     </div>
+                     <form action="https://getform.io/f/8f0c04c8-b2f1-4026-aab1-82307b7d2207" method="POST">
+                        <div class="row">
+                           <div class="col-md-6">
+                              <div class="form-group">
+                                 <label style="color: black;">Your Name *</label>
+                                 <input name="name" style="background-color: #fff;" type="text" class="form-control" required>
+                                 <div class="invalid-feedback">
+                                    Please type your name.
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-md-6">
+                              <div class="form-group">
+                                 <label style="color: black;">Email Address *</label>
+                                 <input name="email" style="background-color: #fff;" type="email" placeholder="you@yoursite.com" class="form-control" required>
+                              </div>
+                           </div>
+                           <div class="col-md-6">
+                              <div class="form-group">
+                                 <label style="color: black;">Company Name</label>
+                                 <input name="company" style="background-color: #fff;" type="text" class="form-control" required>
+                              </div>
+                           </div>
+                           <div class="col-md-6">
+                              <div class="form-group">
+                                 <label style="color: black;">Contact Number</label>
+                                 <input name="phone" style="background-color: #fff;" id="phoneNumber" type="tel" class="form-control" required>
+                              </div>
+                           </div>
+                           <div class="col-12">
+                              <div class="form-group">
+                                 <label style="color: black;">Message:</label>
+                                 <textarea class="form-control" style="background-color: #fff;" name="message" rows="5" placeholder="How can we help?"></textarea>
+                              </div>
+                           </div>
+                           <div class="col">
+                              <div class="d-none alert alert-success" role="alert" data-success-message>
+                                 Thanks, a member of our team will be in touch shortly.
+                              </div>
+                              <div class="d-none alert alert-danger" role="alert" data-error-message>
+                                 Please fill all fields correctly.
+                              </div>
+                              <center><div class="g-recaptcha" data-type="image" data-sitekey="6Lcx87AZAAAAADzcDehJcJpOWVATXpeP4qmAiwIf"></div></center>
+<br/>
+                              <div id="desktop-content">
+                                 <button type="submit" class="btn btn-md btn-primary" data-loading-text="Sending">
+                                 <span>Submit →</span>
+                                 </button>
+                              </div>
+                              <div id="mobile-content">
+                                 <center><button type="submit" class="btn btn-lg btn-primary" data-loading-text="Sending">
+                                    <span>Get Started →</span>
+                                    </button>
+                                 </center>
+                              </div>
+                           </div>
+                        </div>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </section>
+      </div>
 
 
     
@@ -184,6 +281,7 @@ require('./public/layout/navbar.php');
             </div>
          </section>
       </div>
+
       
       <section style="margin-top: -200px;">
           <div class="container">
@@ -194,98 +292,8 @@ require('./public/layout/navbar.php');
       </section>
       
      
-      <div id="mobile-content" style="margin-top: -60px;">
-         <section>
-            <div class="container">
-               <div class="row text-center">
-                  <div class="col-sm-4 mb-3 mb-sm-0">
-                     <h3 class="h2">Visit<span style="color: #2f94f9;">.</span></h3>
-                     <span class="lead"> <a href="https://google.com/maps/dir//ARsome+Technology+Group,+769+Main+St,+Manchester,+CT+06040/@41.7716342,-72.5230263,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89e65771170cf41d:0x965c07e8715bb503!2m2!1d-72.5208323!2d41.7716342" target="_blank" style="color: #2f94f9;">769 Main Street, Manchester, CT 06040</a> </span> 
-                  </div>
-                  <div class="col-sm-4 mb-3 mb-sm-0">
-                     <h3 class="h2">Email<span style="color: #2f94f9;">.</span></h3>
-                     <a href="mailto:info@arsometech.com" class="lead" style="color: #2f94f9;">info@arsome.com</a> 
-                  </div>
-                  <div class="col-sm-4 mb-3 mb-sm-0">
-                     <h3 class="h2">Call<span style="color: #2f94f9;">.</span></h3>
-                     <span class="lead"> <a href="tel:8603047660" style="color: #2f94f9;">+1 (860) 304-7660</a> </span> 
-                  </div>
-               </div>
-            </div>
-         </section>
-      </div>
-        <div id="mobile-content">
-         <section>
-            <div class="container">
-               <div class="row justify-content-center">
-                  <div class="col-md-9 col-lg-8 col-xl-6">
-                     <div class="text-center mb-4">
-                        <h1 class="h1" style="color: black;">Let's Connect</h1>
-                        <p class="lead">We'd love to speak to you about your project, please fill out the form below to continue. </p>
-                     </div>
-                     <form action="https://getform.io/f/8f0c04c8-b2f1-4026-aab1-82307b7d2207" method="POST">
-                        <div class="row">
-                           <div class="col-md-6">
-                              <div class="form-group">
-                                 <label style="color: black;">Your Name *</label>
-                                 <input name="name" style="background-color: #eff9fb;" type="text" class="form-control" required>
-                                 <div class="invalid-feedback">
-                                    Please type your name.
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <div class="form-group">
-                                 <label style="color: black;">Email Address *</label>
-                                 <input name="email" style="background-color: #eff9fb;" type="email" placeholder="you@yoursite.com" class="form-control" required>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <div class="form-group">
-                                 <label style="color: black;">Company Name</label>
-                                 <input name="company" style="background-color: #eff9fb;" type="text" class="form-control" required>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <div class="form-group">
-                                 <label style="color: black;">Contact Number</label>
-                                 <input name="phone" style="background-color: #eff9fb;" id="phoneNumber" type="tel" class="form-control" required>
-                              </div>
-                           </div>
-                           <div class="col-12">
-                              <div class="form-group">
-                                 <label style="color: black;">Message:</label>
-                                 <textarea class="form-control" style="background-color: #eff9fb;" name="message" rows="5" placeholder="How can we help?"></textarea>
-                              </div>
-                           </div>
-                           <div class="col">
-                              <div class="d-none alert alert-success" role="alert" data-success-message>
-                                 Thanks, a member of our team will be in touch shortly.
-                              </div>
-                              <div class="d-none alert alert-danger" role="alert" data-error-message>
-                                 Please fill all fields correctly.
-                              </div>
-                              <center><div class="g-recaptcha" data-type="image" data-sitekey="6Lcx87AZAAAAADzcDehJcJpOWVATXpeP4qmAiwIf"></div></center>
-<br/>
-                              <div id="desktop-content">
-                                 <button type="submit" class="btn btn-md btn-primary" data-loading-text="Sending">
-                                 <span>Submit →</span>
-                                 </button>
-                              </div>
-                              <div id="mobile-content">
-                                 <center><button type="submit" class="btn btn-lg btn-primary" data-loading-text="Sending">
-                                    <span>Get Started →</span>
-                                    </button>
-                                 </center>
-                              </div>
-                           </div>
-                        </div>
-                     </form>
-                  </div>
-               </div>
-            </div>
-         </section>
-      </div>
+    
+       
       
      <?php
 require('./public/layout/footer.php');

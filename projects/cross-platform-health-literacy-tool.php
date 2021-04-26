@@ -58,7 +58,7 @@ require('../public/layout/navbar.php');
             <div class="row my-4 my-md-6 text-center justify-content-center align-items-center">
                <div class="col-lg-9 col-xl-8">
                   <br>
-                  <h1 style="color: #000; font-size: 3.5rem;"><b>Augmented Reality Health Literacy Tool</b></h1>
+                  <h1 style="color: #000; font-size: 3.5rem; line-height: 1em;"><b>Augmented Reality Health Literacy Tool</b></h1>
                   <div id="desktop-content">
                      <p class="lead mb-0" style="color: #555; font-size: 19px;">
 Health literacy is the ability to obtain, read, and use healthcare information in order to make appropriate health decisions. Unfortunately, 40% of Americans are considered to have inadequate health literacy.
@@ -117,7 +117,7 @@ Health literacy is the ability to obtain, read, and use healthcare information i
             <path fill=#f4f6ff d="M0,0 C6.83050094,50 15.1638343,75 25,75 C41.4957514,75 62.4956597,0 81.2456597,0 C93.7456597,0 99.9971065,0 100,0 L100,100 L0,100"></path>
          </svg>
       </section>
-      <section style="background-color:#f4f6ff;margin-top:-110px;position: relative; z-index: 999;">
+      <section style="background-color:#eff9fb;margin-top:-110px;position: relative; z-index: 999;">
          <div class=container style=margin-top:-30px >
             <div id=desktop-content>
                <center>
@@ -191,9 +191,10 @@ Health literacy is the ability to obtain, read, and use healthcare information i
                         <center><iframe style=height:190px;width:340px src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
                      </div>
                      <div class=carousel-item>
-                        <center><img src=./images/tv.jpg height=190></center>
+                        <center><img src=https://www.arsome.com/images/tv.jpg height=190></center>
                      </div>
                   </div>
+                  <br>
                   <a class=carousel-control-prev href=#carouselExampleIndicatorsMobile role=button data-slide=prev style=color:#2f94f9>
                      <span aria-hidden=true style=color:#2f94f9>
                         <svg xmlns=http://www.w3.org/2000/svg x=0px y=0px width=40 height=40 viewBox="0 0 172 172" style=fill:#000>
@@ -230,7 +231,7 @@ Health literacy is the ability to obtain, read, and use healthcare information i
             </svg>
          </div>
       </section>
-<section style="background-color:#fff;margin-top:-110px;padding-bottom:40px;z-index: 9999; position: relative;">
+<section style="background-color:#fff;margin-top:-110px;padding-bottom:40px;z-index: 999; position: relative;">
          <div class=container >
             <div class="row mb-4">
                <div class=col>
