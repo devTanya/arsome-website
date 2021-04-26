@@ -3,35 +3,9 @@
    <head>
       <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128659346-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-128659346-1'); </script> 
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KC26MDR');</script>
-<!-- End Google Tag Manager -->      <title>ARSOME Technology: Immersive Technology CT Company</title>
-
-<!-- index description -->
-<meta name="description" content="Driving change with relentless innovation, immersive technology, & software development. ARSOME also offers Virtual Reality & Augmented Reality solutions."/>
-
-<!-- index name -->
-<meta name=viewport content="width=device-width, initial-scale=1">
-
-<!-- index keywords -->
-<meta name="keywords" content="arsome,virtual reality in ct,virtual reality company,virtual reality new york,virtual reality ny"/>
-
-<link rel="canonical" href="https://arsome.com/community" content="https">
-
-<!-- social description -->
-<meta property="og:description" content="Driving change with relentless innovation, immersive technology, & software development."/>
-
-<!-- social title -->
-<meta property="og:title" content="ARSOME Technology"/>
-
-<!-- social image -->
-<meta property="og:image" content="https://www.arsome.com/imm-resize.jpg"/>
+<?php require('includes/tags.php') ?>
+      <?php require('includes/metas/community.php') ?>
 
 <link rel="shortcut icon" href="favicon.png" />
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
