@@ -102,7 +102,7 @@ Health literacy is the ability to obtain, read, and use healthcare information i
             </div>
             <div id=mobile-content>
                <center>
-               <img src=../images/demo.png class=rounded height=300 style=margin-top:40px>
+               <img src=../images/demo-or.png class=rounded height=300 style=margin-top:40px>
                <center>
                   <p class=lead style=font-size:18px;color:#555;text-align:center;margin-top:10px> Patients often don't understand medical instructions, medical reports, or medication information. This lack of health literacy costs our economy <a href=/blogs/health-literacy-reimagined style="font-weight: 500; color: #555;  text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #7ebbf7;">$200 billion annually</a>. <a href=https://arsomehealth.com/ style="font-weight: 500; color: #555;  text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #7ebbf7;" target=_blank>ARx is a platform to increase a patient's literacy</a> of procedures, medication, and test results with personalized augmented reality content. Built for customization, ARx provides personalized health information to patients - triggered from physical objects, like prescription bottles and lab reports. </p>
                </center>
