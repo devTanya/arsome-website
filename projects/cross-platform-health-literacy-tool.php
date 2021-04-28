@@ -91,9 +91,7 @@ Health literacy is the ability to obtain, read, and use healthcare information i
             <div id=desktop-content>
                <div class=row >
                   <div class=col-4>
-                     <video muted autoplay loop style=height:auto;width:100%>
-                        <source src=./demo.mp4 type=video/mp4>
-                     </video>
+                  <img src=../images/demo.png class=rounded height=550 style=margin-top:5px;margin-left:15px;>
                   </div>
                   <div class=col-8>
                      <p class=lead style=width:95%;font-size:18px;color:#555;text-align:center;margin-top:190px> Patients often don't understand medical instructions, medical reports, or medication information. This lack of health literacy costs our economy <a href=/blogs/health-literacy-reimagined style="font-weight: 500; color: #555;  text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #7ebbf7;">$200 billion annually</a>. <a href=https://arsomehealth.com/ style="font-weight: 500; color: #555; text-decoration: underline; text-decoration-color: #7ebbf7; text-decoration-thickness: 2px;" target=_blank>ARx is a platform to increase a patient's literacy</a> of procedures, medication, and test results with personalized augmented reality content. Built for customization, ARx provides personalized health information to patients - triggered from physical objects, like prescription bottles and lab reports. </p>
@@ -108,16 +106,9 @@ Health literacy is the ability to obtain, read, and use healthcare information i
                </center>
             </div>
          </div>
-         <div class=divider style=margin-top:50px>
-            <svg width=100% height=96px viewBox="0 0 100 100" version=1.1 xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink preserveAspectRatio=none>
-               <path d="M0,0 C40,33 66,52 75,52 C83,52 92,33 100,0 L100,100 L0,100 L0,0 Z"></path>
-            </svg>
-         </div>
-         <svg width=100% height=96px viewBox="0 0 100 100" version=1.1 xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink preserveAspectRatio=none>
-            <path fill=#f4f6ff d="M0,0 C6.83050094,50 15.1638343,75 25,75 C41.4957514,75 62.4956597,0 81.2456597,0 C93.7456597,0 99.9971065,0 100,0 L100,100 L0,100"></path>
-         </svg>
+
       </section>
-      <section style="background-color:#eff9fb;margin-top:-110px;position: relative; z-index: 999;">
+      <section style="background-color:#eff9fb;margin-top:-50px;position: relative; z-index: 999;">
          <div class=container style=margin-top:-30px >
             <div id=desktop-content>
                <center>
@@ -129,47 +120,7 @@ Health literacy is the ability to obtain, read, and use healthcare information i
                <br>
             </div>
             <div id=desktop-content>
-               <div id=carouselExampleIndicators class="carousel slide">
-                  <ol class=carousel-indicators>
-                     <li data-target=#carouselExampleIndicators data-slide-to=0 class=active></li>
-                     <li data-target=#carouselExampleIndicators data-slide-to=1></li>
-                  </ol>
-                  <div class=carousel-inner>
-                     <div class="carousel-item active">
-                        <center><iframe width=748 height=375 src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-                     </div>
-                     <div class=carousel-item>
-                        <center><img src=https://www.arsome.com/images/tv.jpg height=375></center>
-                     </div>
-                  </div>
-                  <br><br>
-                  <a class=carousel-control-prev href=#carouselExampleIndicators role=button data-slide=prev style=color:#2f94f9>
-                     <span aria-hidden=true style=color:#2f94f9>
-                        <svg xmlns=http://www.w3.org/2000/svg x=0px y=0px width=40 height=40 viewBox="0 0 172 172" style=fill:#000>
-                           <g fill=none fill-rule=nonzero stroke=none stroke-width=1 stroke-linecap=butt stroke-linejoin=miter stroke-miterlimit=10 stroke-dasharray stroke-dashoffset=0 font-family=none font-weight=none font-size=none text-anchor=none style=mix-blend-mode:normal>
-                              <path d=M0,172v-172h172v172z fill=none></path>
-                              <g fill=#2f94f9>
-                                 <path d=M96.49159,23.72236l-62.27765,62.27764l62.27765,62.27765l18.70913,-18.70913l-43.56851,-43.56851l43.56851,-43.56851z></path>
-                              </g>
-                           </g>
-                        </svg>
-                     </span>
-                     <span class=sr-only>Previous</span>
-                  </a>
-                  <a class=carousel-control-next href=#carouselExampleIndicators style=color:#2f94f9 role=button data-slide=next>
-                     <span aria-hidden=true style=color:#2f94f9>
-                        <svg xmlns=http://www.w3.org/2000/svg x=0px y=0px width=40 height=40 viewBox="0 0 172 172" style=fill:#000>
-                           <g fill=none fill-rule=nonzero stroke=none stroke-width=1 stroke-linecap=butt stroke-linejoin=miter stroke-miterlimit=10 stroke-dasharray stroke-dashoffset=0 font-family=none font-weight=none font-size=none text-anchor=none style=mix-blend-mode:normal>
-                              <path d=M0,172v-172h172v172z fill=none></path>
-                              <g fill=#2f94f9>
-                                 <path d=M75.50842,23.72236l-18.70913,18.70913l43.56851,43.56851l-43.56851,43.56851l18.70913,18.70913l62.27764,-62.27765z></path>
-                              </g>
-                           </g>
-                        </svg>
-                     </span>
-                     <span class=sr-only>Next</span>
-                  </a>
-               </div>
+            <center><iframe width=748 height=375 src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
             </div>
             <div id=mobile-content style=margin-top:-50px>
                <center>
@@ -181,55 +132,10 @@ Health literacy is the ability to obtain, read, and use healthcare information i
             </div>
             <br>
             <div id=mobile-content>
-               <div id=carouselExampleIndicatorsMobile class="carousel slide">
-                  <ol class=carousel-indicators>
-                     <li data-target=#carouselExampleIndicatorsMobile data-slide-to=0 class=active></li>
-                     <li data-target=#carouselExampleIndicatorsMobile data-slide-to=1></li>
-                  </ol>
-                  <div class=carousel-inner>
-                     <div class="carousel-item active">
-                        <center><iframe style=height:190px;width:340px src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-                     </div>
-                     <div class=carousel-item>
-                        <center><img src=https://www.arsome.com/images/tv.jpg height=190></center>
-                     </div>
-                  </div>
-                  <br>
-                  <a class=carousel-control-prev href=#carouselExampleIndicatorsMobile role=button data-slide=prev style=color:#2f94f9>
-                     <span aria-hidden=true style=color:#2f94f9>
-                        <svg xmlns=http://www.w3.org/2000/svg x=0px y=0px width=40 height=40 viewBox="0 0 172 172" style=fill:#000>
-                           <g fill=none fill-rule=nonzero stroke=none stroke-width=1 stroke-linecap=butt stroke-linejoin=miter stroke-miterlimit=10 stroke-dasharray stroke-dashoffset=0 font-family=none font-weight=none font-size=none text-anchor=none style=mix-blend-mode:normal>
-                              <path d=M0,172v-172h172v172z fill=none></path>
-                              <g fill=#2f94f9>
-                                 <path d=M96.49159,23.72236l-62.27765,62.27764l62.27765,62.27765l18.70913,-18.70913l-43.56851,-43.56851l43.56851,-43.56851z></path>
-                              </g>
-                           </g>
-                        </svg>
-                     </span>
-                     <span class=sr-only>Previous</span>
-                  </a>
-                  <a class=carousel-control-next href=#carouselExampleIndicatorsMobile style=color:#2f94f9 role=button data-slide=next>
-                     <span aria-hidden=true style=color:#2f94f9>
-                        <svg xmlns=http://www.w3.org/2000/svg x=0px y=0px width=40 height=40 viewBox="0 0 172 172" style=fill:#000>
-                           <g fill=none fill-rule=nonzero stroke=none stroke-width=1 stroke-linecap=butt stroke-linejoin=miter stroke-miterlimit=10 stroke-dasharray stroke-dashoffset=0 font-family=none font-weight=none font-size=none text-anchor=none style=mix-blend-mode:normal>
-                              <path d=M0,172v-172h172v172z fill=none></path>
-                              <g fill=#2f94f9>
-                                 <path d=M75.50842,23.72236l-18.70913,18.70913l43.56851,43.56851l-43.56851,43.56851l18.70913,18.70913l62.27764,-62.27765z></path>
-                              </g>
-                           </g>
-                        </svg>
-                     </span>
-                     <span class=sr-only>Next</span>
-                  </a>
+            <center><iframe style=height:190px;width:340px src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
                </div>
-            </div>
          </div>
          <br><br>
-         <div class=divider style="margin-top: 20px;">
-            <svg style="margin-top: 40px;" width=100% height=96px viewBox="0 0 100 100" version=1.1 xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink preserveAspectRatio=none>
-               <path d="M0,0 C6.83050094,50 15.1638343,75 25,75 C41.4957514,75 62.4956597,0 81.2456597,0 C93.7456597,0 99.9971065,0 100,0 L100,100 L0,100"></path>
-            </svg>
-         </div>
       </section>
 <section style="background-color:#fff;margin-top:-110px;padding-bottom:40px;z-index: 999; position: relative;">
          <div class=container >
