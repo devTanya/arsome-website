@@ -85,30 +85,7 @@ Health literacy is the ability to obtain, read, and use healthcare information i
          </div>
       </section>
 
-
-      <section style=margin-top:-50px>
-         <div class=container>
-            <div id=desktop-content>
-               <div class=row >
-                  <div class=col-4>
-                  <img src=../images/demo.png class=rounded height=550 style=margin-top:5px;margin-left:15px;>
-                  </div>
-                  <div class=col-8>
-                     <p class=lead style=width:95%;font-size:18px;color:#555;text-align:center;margin-top:190px> Patients often don't understand medical instructions, medical reports, or medication information. This lack of health literacy costs our economy <a href=/blogs/health-literacy-reimagined style="font-weight: 500; color: #555;  text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #7ebbf7;">$200 billion annually</a>. <a href=https://arsomehealth.com/ style="font-weight: 500; color: #555; text-decoration: underline; text-decoration-color: #7ebbf7; text-decoration-thickness: 2px;" target=_blank>ARx is a platform to increase a patient's literacy</a> of procedures, medication, and test results with personalized augmented reality content. Built for customization, ARx provides personalized health information to patients - triggered from physical objects, like prescription bottles and lab reports. </p>
-                  </div>
-               </div>
-            </div>
-            <div id=mobile-content>
-               <center>
-               <img src=../images/demo.png class=rounded height=300 style=margin-top:5px;margin-left:15px;>
-               <center>
-                  <p class=lead style=font-size:18px;color:#555;text-align:center;margin-top:10px> Patients often don't understand medical instructions, medical reports, or medication information. This lack of health literacy costs our economy <a href=/blogs/health-literacy-reimagined style="font-weight: 500; color: #555;  text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #7ebbf7;">$200 billion annually</a>. <a href=https://arsomehealth.com/ style="font-weight: 500; color: #555;  text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #7ebbf7;" target=_blank>ARx is a platform to increase a patient's literacy</a> of procedures, medication, and test results with personalized augmented reality content. Built for customization, ARx provides personalized health information to patients - triggered from physical objects, like prescription bottles and lab reports. </p>
-               </center>
-            </div>
-         </div>
-
-      </section>
-      <section style="background-color:#eff9fb;margin-top:-50px;position: relative; z-index: 999;">
+      <section style="background-color:#fff;margin-top:0px;position: relative; z-index: 999;">
          <div class=container style=margin-top:-30px >
             <div id=desktop-content>
                <center>
@@ -137,7 +114,32 @@ Health literacy is the ability to obtain, read, and use healthcare information i
          </div>
          <br><br>
       </section>
-<section style="background-color:#fff;margin-top:-110px;padding-bottom:40px;z-index: 999; position: relative;">
+
+
+      <section style=margin-top:-50px;background-color:#eff9fb;>
+         <div class=container>
+            <div id=desktop-content>
+               <div class=row >
+                  <div class=col-4>
+                  <img src=../images/demo.png class=rounded height=550 style=margin-top:5px;margin-left:15px;>
+                  </div>
+                  <div class=col-8>
+                     <p class=lead style=width:95%;font-size:18px;color:#555;text-align:center;margin-top:190px> Patients often don't understand medical instructions, medical reports, or medication information. This lack of health literacy costs our economy <a href=/blogs/health-literacy-reimagined style="font-weight: 500; color: #555;  text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #7ebbf7;">$200 billion annually</a>. <a href=https://arsomehealth.com/ style="font-weight: 500; color: #555; text-decoration: underline; text-decoration-color: #7ebbf7; text-decoration-thickness: 2px;" target=_blank>ARx is a platform to increase a patient's literacy</a> of procedures, medication, and test results with personalized augmented reality content. Built for customization, ARx provides personalized health information to patients - triggered from physical objects, like prescription bottles and lab reports. </p>
+                  </div>
+               </div>
+            </div>
+            <div id=mobile-content>
+               <center>
+               <img src=../images/demo.png class=rounded height=300 style=margin-top:5px;margin-left:15px;>
+               <center>
+                  <p class=lead style=font-size:18px;color:#555;text-align:center;margin-top:10px> Patients often don't understand medical instructions, medical reports, or medication information. This lack of health literacy costs our economy <a href=/blogs/health-literacy-reimagined style="font-weight: 500; color: #555;  text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #7ebbf7;">$200 billion annually</a>. <a href=https://arsomehealth.com/ style="font-weight: 500; color: #555;  text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #7ebbf7;" target=_blank>ARx is a platform to increase a patient's literacy</a> of procedures, medication, and test results with personalized augmented reality content. Built for customization, ARx provides personalized health information to patients - triggered from physical objects, like prescription bottles and lab reports. </p>
+               </center>
+            </div>
+         </div>
+
+      </section>
+      
+<section style="background-color:#fff;margin-top:-70px;padding-bottom:40px;z-index: 999; position: relative;">
          <div class=container >
             <div class="row mb-4">
                <div class=col>
