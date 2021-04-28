@@ -87,25 +87,9 @@ require('../public/layout/navbar.php');
 
       <section style="background-color:#fff;margin-top:0px;position: relative; z-index: 999;">
          <div class=container style=margin-top:-30px >
-            <div id=desktop-content>
-               <center>
-                  <h1>Media</h1>
-               </center>
-               <center>
-                  <p class=lead style="color:#555;width:720px;font-size: 16px;">In 2019, ARx was presented on national television and showed patients everywhere the value of personalized health education.</p>
-               </center>
-               <br>
-            </div>
+
             <div id=desktop-content>
             <center><iframe width=748 height=375 src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-            </div>
-            <div id=mobile-content style=margin-top:-50px>
-               <center>
-                  <h1>Media</h1>
-               </center>
-               <center>
-                  <p class=lead style=color:#555;font-size:16px;>In 2019, ARx was presented on national television and showed patients everywhere the value of personalized health education.</p>
-               </center>
             </div>
             <br>
             <div id=mobile-content>
