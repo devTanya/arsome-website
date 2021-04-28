@@ -138,45 +138,96 @@ Health literacy is the ability to obtain, read, and use healthcare information i
          </div>
 
       </section>
+
+
+      <section style="margin-top: -80px;">
+      <div class="container py-5" id="featured-3">
+  <div class="row g-5 py-5">
+    <div class="feature col-md-4">
+      <div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/000000/pills.png"/>
+      </div>
+      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Medication</h3>
+      <p style="color: #555; font-size: 16px; width: 85%;">Ensure medication is filled correctly and its directions understood by patients of all ages and demographics.</p>
+    </div>
+    <div class="feature col-md-4">
+      <div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/000000/test-tube--v1.png"/>
+      </div>
+      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Test Results</h3>
+      <p style="color: #555; font-size: 16px; width: 85%;">Bring data to life and align a story to better present test results, especially test results that are overwhelming.</p>
+    </div>
+    <div class="feature col-md-4">
+      <div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/000000/theatre-mask.png"/>
+      </div>
+      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Behavioral Disorders</h3>
+      <p style="color: #555; font-size: 16px; width: 85%;">Present disorders in a fun and informative way where kids and parents understand and feel confident in their future.</p>
+    </div>
+    <div class="feature col-md-4">
+      <div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/000000/protection-mask--v3.png"/>
+      </div>
+      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Surgery Preparation</h3>
+      <p style="color: #555; font-size: 16px; width: 85%;">Ensure patients are fully prepared for surgery with step by audio/visual instructions from an animated 3D avatar.</p>
+    </div>
+    <div class="feature col-md-4">
+      <div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/000000/dna-helix.png"/>
+      </div>
+      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> DNA & Genetic Testing</h3>
+      <p style="color: #555; font-size: 16px; width: 85%;">Inform patients and customers of their genetic makeup and encourage them to take the appropriate action to prevent health issues.</p>
+    </div>
+    <div class="feature col-md-4">
+      <div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/000000/microorganisms.png"/>
+      </div>
+      <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Illness & Disease</h3>
+      <p style="color: #555; font-size: 16px; width: 85%;">Bring information to life in a fun and game-like experience so families can test their knowledge and understand all aspects of their condition.</p>
+    </div>
+  </div>
+</div>
+</section>
       
-<section style="background-color:#fff;margin-top:-70px;padding-bottom:40px;z-index: 999; position: relative;">
-         <div class=container >
+<section style="background-color:#eff9fb;margin-top:-110px;padding-bottom:40px; z-index: 999; position: relative;">
+         <div class="container">
             <div class="row mb-4">
-               <div class=col>
+               <div class="col">
                   <br><br>
-                  <div id=desktop-content>
-                     <h1 style=font-weight:bold>Start Innovating Today</h1>
-                     <p class=lead style=width:650px;color:#555>Interested in a scalable platform to provide complex and sensitive information with engaging augmented reality content? Learn how we provide innovation with advanced technology. </p>
+                  <div id="desktop-content">
+                     <h1 style="font-weight:bold">Start Innovating Today</h1>
+                     <p class="lead" style="width:650px;color:#555">Learn more about our process, projects, and how we can bring your idea to life. </p>
                   </div>
-                  <div id=mobile-content style=margin-top:-80px>
+                  <div id="mobile-content" style="margin-top:-80px">
                      <center>
-                        <h1 style=font-weight:bold>Start Innovating Today</h1>
-                        <p class=lead style=font-size:16px;color:#555>Interested in a scalable platform to provide complex and sensitive information with engaging augmented reality content? Learn how we provide innovation with advanced technology. 
-                     </center>
-                     </p>
+                         <div id="mobile-content"><img src="/images/robot.png" height="250" style="margin-top:-30px"></div>
+                        <h1 style="font-weight:bold">Start Innovating Today</h1>
+                        <p class="lead" style="font-size:16px;color:#555">Learn more about our process, projects, and how we can bring your idea to life.
+                     </p></center>
+                     <p></p>
                   </div>
                   <br>
-                  <link href=https://assets.calendly.com/assets/external/widget.css rel=stylesheet>
-                  <script src=https://assets.calendly.com/assets/external/widget.js type=text/javascript></script>
-                  <div id=desktop-content>
-                     <div id=desktop-content>
+                  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+                  <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+                  <div id="desktop-content">
+                     <div id="desktop-content">
                         <a href="/contact" class="button btn-pri-2 w-inline-block" style=" border-radius: 5px; padding-left: 5px; padding-right: 5px; padding-top: 10px; padding-bottom: 10px; font-size: 16px; width: 200px; color: white; margin-top: -10px;">
                                <div>Get Started →</div>
                             </a>
                      </div>
                   </div>
-                  <div id=mobile-content>
+                  <div id="mobile-content">
+                     
                     <center> <a href="/contact" class="button btn-pri-2 w-inline-block" style=" border-radius: 5px; padding-left: 5px; padding-right: 5px; padding-top: 10px; padding-bottom: 10px; font-size: 16px; width: 200px; color: white; margin-top: -50px;">
                                <div>Get Started →</div>
                             </a>
                             </center>
                   </div>
                </div>
-               <div id=desktop-content><img src="https://lh3.googleusercontent.com/pw/ACtC-3f_vABqvRcuvuochUw_D6SF01eyDS57TbuyBYZfeAMth3-zGBnjlwOAtIw1BumD8xeoJq38J3M8VOSufc2X7eASZAv7v-qv65FQEVsA9yiapxuZbWJHdrGd4R9MVfVnQ7yYtiZUZBSuiTXJrsArP90R=s500-no?authuser=0" height=400 style=margin-top:-70px></div>
+               <div id="desktop-content"><img src="/images/robot.png" height="400" style="margin-top:-70px"></div>
             </div>
          </div>
 </section>
-<br><br>
 
       <?php
 require('../public/layout/footer.php');
