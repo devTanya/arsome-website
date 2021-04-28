@@ -114,7 +114,7 @@ require('../public/layout/navbar.php');
       <img src="https://img.icons8.com/pastel-glyph/64/000000/test-tube--v1.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Test Results</h3>
-      <p style="color: #555; font-size: 16px; width: 85%;">Bring data to life and align a story to better present test results, especially test results that are overwhelming.</p>
+      <p style="color: #555; font-size: 16px; width: 85%;">Bring data to life and align a story to better present test results, especially results that are overwhelming for the patient</p>
     </div>
     <div class="feature col-md-4">
       <div class="feature-icon">
@@ -128,7 +128,7 @@ require('../public/layout/navbar.php');
       <img src="https://img.icons8.com/pastel-glyph/64/000000/protection-mask--v3.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Surgery Preparation</h3>
-      <p style="color: #555; font-size: 16px; width: 85%;">Ensure patients are fully prepared for surgery with step by audio/visual instructions from an animated 3D avatar.</p>
+      <p style="color: #555; font-size: 16px; width: 85%;">Ensure patients are fully prepared for surgery with step by step audio/visual instructions from an animated 3D avatar.</p>
     </div>
     <div class="feature col-md-4">
       <div class="feature-icon">
