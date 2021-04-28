@@ -100,7 +100,7 @@ require('../public/layout/navbar.php');
       </section>
 
 
-      <section style="margin-top: -80px; background-color: #eff9fb;">
+      <section style="margin-top: -100px; background-color: #eff9fb;">
       <div class="container py-5" id="featured-3">
   <div class="row g-5 py-5">
     <div class="feature col-md-4">
