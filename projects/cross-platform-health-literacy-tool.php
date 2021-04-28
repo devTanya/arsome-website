@@ -58,7 +58,7 @@ require('../public/layout/navbar.php');
             <div class="row my-4 my-md-6 text-center justify-content-center align-items-center">
                <div class="col-lg-9 col-xl-8">
                   <br>
-                  <h1 style="color: #000; font-size: 3.5rem; line-height: 1em;"><b>Augmented Reality Health Literacy Tool</b></h1>
+                  <h1 style="color: #000; font-size: 3.5rem; line-height: 1em;"><b>Augmented Reality Health Literacy</b></h1>
                   <div id="desktop-content">
                      <p class="lead mb-0" style="color: #555; font-size: 19px;">
                      Patients often don't understand medical instructions, medical reports, or medication information. This lack of health literacy costs our economy <a href=/blogs/health-literacy-reimagined style="font-weight: 500; color: #555;  text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: #7ebbf7;">$200 billion annually</a>. <a href=https://arsomehealth.com/ style="font-weight: 500; color: #555; text-decoration: underline; text-decoration-color: #7ebbf7; text-decoration-thickness: 2px;" target=_blank>ARx is a platform to increase a patient's literacy</a> of procedures, medication, and test results with personalized augmented reality content. Built for customization, ARx provides personalized health information to patients - triggered from physical objects, like prescription bottles and lab reports.
@@ -104,49 +104,49 @@ require('../public/layout/navbar.php');
       <div id="desktop-content">
   <div class="row g-5 py-5">
     <div class="feature col-md-4">
-      <div class="feature-icon">
-      <img src="https://img.icons8.com/pastel-glyph/64/000000/pills.png"/>
+    <center>  <div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/2f94f9/pills.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Medication</h3>
       <p style="color: #555; font-size: 16px; width: 85%;">Ensure medication is filled correctly and its directions understood by patients of all ages and demographics.</p>
-    </div>
+    </div></center>
     <div class="feature col-md-4">
-      <div class="feature-icon">
-      <img src="https://img.icons8.com/pastel-glyph/64/000000/test-tube--v1.png"/>
+    <center> <div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/2f94f9/test-tube--v1.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Test Results</h3>
       <p style="color: #555; font-size: 16px; width: 85%;">Bring data to life and align a story to better present test results, especially results that are overwhelming for the patient</p>
-    </div>
+    </div></center>
     <div class="feature col-md-4">
-      <div class="feature-icon">
-      <img src="https://img.icons8.com/pastel-glyph/64/000000/theatre-mask.png"/>
+    <center> <div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/2f94f9/theatre-mask.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Behavioral Disorders</h3>
       <p style="color: #555; font-size: 16px; width: 85%;">Present disorders in a fun and informative way where kids and parents understand and feel confident in their future.</p>
     </div>
-    </div>
+    </div></center>
     <div class="row g-5 py-5" style="margin-top: -30px;">
     <div class="feature col-md-4">
-      <div class="feature-icon">
-      <img src="https://img.icons8.com/pastel-glyph/64/000000/protection-mask--v3.png"/>
+    <center> <div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/2f94f9/protection-mask--v3.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Surgery Preparation</h3>
       <p style="color: #555; font-size: 16px; width: 85%;">Ensure patients are fully prepared for surgery with step by step audio/visual instructions from an animated 3D avatar.</p>
-    </div>
+    </div></center>
     <div class="feature col-md-4">
-      <div class="feature-icon">
-      <img src="https://img.icons8.com/pastel-glyph/64/000000/dna-helix.png"/>
+    <center><div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/2f94f9/dna-helix.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> DNA & Genetic Testing</h3>
       <p style="color: #555; font-size: 16px; width: 85%;">Inform patients and customers of their genetic makeup and encourage them to take the appropriate action to prevent health issues.</p>
-    </div>
+    </div></center>
     <div class="feature col-md-4">
-      <div class="feature-icon">
-      <img src="https://img.icons8.com/pastel-glyph/64/000000/microorganisms.png"/>
+      <center><div class="feature-icon">
+      <img src="https://img.icons8.com/pastel-glyph/64/2f94f9/microorganisms.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Illness & Disease</h3>
       <p style="color: #555; font-size: 16px; width: 85%;">Bring information to life in a fun and game-like experience so families can test their knowledge and understand all aspects of their condition.</p>
-    </div>
+    </div></center>
     </div>
   </div>
   </div>
