@@ -96,11 +96,10 @@ require('../public/layout/navbar.php');
             <center><iframe style=height:190px;width:340px src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
                </div>
          </div>
-         <br><br>
       </section>
 
 
-      <section style="margin-top: -100px; background-color: #eff9fb;">
+      <section style="margin-top: -130px; background-color: #eff9fb;">
       <div class="container py-5" id="featured-3">
   <div class="row g-5 py-5">
     <div class="feature col-md-4">
