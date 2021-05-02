@@ -905,32 +905,17 @@ Designing and Delivering Change with Innovative Services
                </div>
             </div>
             <div class=row>
-               <div class="col-md-6 col-lg-4">
-                  <div class="card">
-                     <a href="/blogs/is-virtual-reality-safe"> <img src="/images/blog/staying-safe-with-vr.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
-                     <div class="card-body align-items-start" style="height: 345px;">
-                        <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>Is Virtual Reality Safe? Staying Safe with VR</b></h3>
-                        <p style="color: #555; font-size: 16px; width: 85%;">With a growing interest in virtual reality, especially with the release of the affordable VR Headset — the Oculus Quest 2...</p>
-
-                        <br> 
-<span style="font-weight:bold;"> 03-12-2020</span>                        <br><br>
-                        <a class="btn-pri-link" href="/blogs/is-virtual-reality-safe">
-                           <span>Read Article →</span>
-                        </a> 
-                     </div>
-                  </div>
-               </div>
-                
+             
                 <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/technology-to-look-out-for-going-into-the-new-year"> <img src="/images/blog/ar-goggles.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <a href="/blogs/augmented-reality-in-the-great-outdoors"> <img src="/images/blog/pokemon-go.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                      <div class="card-body align-items-start" style="height: 345px;">
-                        <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>Technology to Look Out for Going Into the New...</b></h3>
-                        <p style="color: #555; font-size: 16px; width: 85%;">This year has been possibly one of the most ‘intense’ years of most of our lives. Here’s a helpful guide to start... </p>
+                        <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>Augmented Reality in the Great Outdoors</b></h3>
+                        <p style="color: #555; font-size: 16px; width: 85%;">In the summer of 2016, it might have seemed as though you couldn’t walk down a city street or relax... </p>
 
                         <br> 
-<span style="font-weight:bold;"> 12-23-2020</span>                        <br><br>
-                        <a class="btn-pri-link" href="/blogs/technology-to-look-out-for-going-into-the-new-year">
+<span style="font-weight:bold;"> 05-01-2021</span>                        <br><br>
+                        <a class="btn-pri-link" href="/blogs/augmented-reality-in-the-great-outdoors">
                            <span>Read Article →</span>
                         </a> 
                      </div>
@@ -942,20 +927,43 @@ Designing and Delivering Change with Innovative Services
                 
                 <div class="col-md-6 col-lg-4">
                   <div class="card">
-                     <a href="/blogs/5-smart-ways-to-spend-remaining-yearly-budget"> <img src="/images/blog/coin-jar.jpeg" alt="Image" class="card-img-top" style="height: 30vh;"> </a> 
+                     <a href="/blogs/3-Ways-Museums-Can-Benefit-From-AR-Usage"> <img src="/images/blog/mus-1.jpeg" alt="Image" class="card-img-top" style="height: 30vh;"> </a> 
                      <div class="card-body align-items-start" style="height: 345px;">
-                        <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>5 Smart Ways to Spend Remaining Yearly Budget</b></h3>
-                        <p style="color: #555; font-size: 16px; width: 85%;">Decisions are being made on your company’s remaining budget. Don’t let it go to waste. Invest it...</p>
+                        <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>3 Ways Museums Can Benefit From AR Usage</b></h3>
+                        <p style="color: #555; font-size: 16px; width: 85%;">Museums have the ability to show more than what is on their walls and websites. They can now begin offering...
+
+</p>
 
                         <br> 
-<span style="font-weight:bold;"> 11-19-2020</span>                        <br><br>
-                        <a class="btn-pri-link" href="/blogs/5-smart-ways-to-spend-remaining-yearly-budget">
+<span style="font-weight:bold;"> 03-12-2021</span>                        <br><br>
+                        <a class="btn-pri-link" href="/blogs/3-Ways-Museums-Can-Benefit-From-AR-Usage">
                           <span>Read Article →</span>
                         </a> 
                      </div>
                   </div>
                </div>
+
+               <div class="col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="/blogs/is-virtual-reality-safe"> <img src="/images/blog/staying-safe-with-vr.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <div class="card-body align-items-start" style="height: 345px;">
+                        <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: -30px;"><b>Is Virtual Reality Safe? Staying Safe with VR</b></h3>
+                        <p style="color: #555; font-size: 16px; width: 85%;">With a growing interest in virtual reality, especially with the release of the affordable VR Headset — the Oculus Quest 2...</p>
+
+                        <br> 
+<span style="font-weight:bold;"> 02-01-2021</span>                        <br><br>
+                        <a class="btn-pri-link" href="/blogs/is-virtual-reality-safe">
+                           <span>Read Article →</span>
+                        </a> 
+                     </div>
+                  </div>
+               </div>
+                
+
+
             </div>
+
+            
             <br>
             <!--<div class=row>-->
             <!--   <div class=col>-->

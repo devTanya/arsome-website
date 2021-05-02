@@ -125,7 +125,7 @@ require('../public/layout/navbar.php');
       <img src="https://img.icons8.com/pastel-glyph/64/2f94f9/test-tube--v1.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Test Results</h3>
-      <p style="color: #555; font-size: 16px; width: 85%;">Bring data to life and align a story to better present test results, especially results that are overwhelming for the patient</p>
+      <p style="color: #555; font-size: 16px; width: 85%;">Bring data to life and align a story to better present test results, especially results that are overwhelming for the patient.</p>
     </div></center>
     <div class="feature col-md-4">
     <center> <div class="feature-icon">
@@ -176,7 +176,7 @@ require('../public/layout/navbar.php');
       <img src="https://img.icons8.com/pastel-glyph/64/2f94f9/test-tube--v1.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Test Results</h3>
-      <p style="color: #555; font-size: 16px; width: 85%;">Bring data to life and align a story to better present test results, especially results that are overwhelming for the patient</p>
+      <p style="color: #555; font-size: 16px; width: 85%;">Bring data to life and align a story to better present test results, especially results that are overwhelming for the patient.</p>
     </div>
     <div class="feature col-md-4">
       <div class="feature-icon">

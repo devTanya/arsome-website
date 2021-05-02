@@ -62,18 +62,18 @@ require('./public/layout/navbar.php');
          <div class="container">
             <div class="row">
                <div class="col layer-1">
-                  <a href="/blogs/3-Ways-Museums-Can-Benefit-From-AR-Usage" class="card card-article-wide flex-md-row no-gutters hover-shadow-3d">
-                     <div class="col-md-5 col-lg-6"> <img src="./images/blog/mus-1.jpeg" alt="Image" class="card-img-top"> </div>
+                  <a href="/blogs/augmented-reality-in-the-great-outdoors" class="card card-article-wide flex-md-row no-gutters hover-shadow-3d">
+                     <div class="col-md-5 col-lg-6"> <img src="/images/blog/pokemon-go.jpeg" alt="Image" class="card-img-top"> </div>
                      <div class="card-body d-flex flex-column justify-content-between col-auto p-4 p-lg-5">
                         <div>
-                           <div class="h3" style="color: black;"><b>3 Ways Museums Can Benefit From AR Usage
+                           <div class="h3" style="color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Augmented Reality in the Great Outdoors
 </b></div>
-                           <div class="p">Museums have the ability to show more than what is on their walls and websites. They can now begin offering Augmented Reality experiences with the average visit.
+                           <div style="color: #555; font-size: 16px;" class="p">In the summer of 2016, it might have seemed as though you couldn’t walk down a city street or relax in a public park without seeing someone intently staring at their mobile device and inexplicably lunging, jumping, and making audible sounds of disappointment or triumph.
   </div>
    
                         </div>
                         <span class="btn-pri-link">Read Article →</span>
-                        <span style="font-weight:bold;"> 03-12-2021</span>
+                        <span style="font-weight:bold;"> 05-01-2021</span>
                      </div>
                   </a>
                </div>
@@ -85,6 +85,22 @@ require('./public/layout/navbar.php');
       <section class="pt-5">
          <div class="container">
             <div class="row">
+
+            <div class="col-md-6 col-lg-4">
+                  <div class="card">
+                     <a href="/blogs/3-Ways-Museums-Can-Benefit-From-AR-Usage"> <img src="./images/blog/mus-1.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                     <div class="card-body align-items-start">
+                        <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>3 Ways Museums Can Benefit From AR Usage</b></h3>
+                        <p style="color: #555; font-size: 16px;">Museums have the ability to show more than what is on their walls and websites. They can now begin offering Augmented...</p>
+      
+                        <br> 
+<span style="font-weight:bold;"> 03-12-2021</span>                        <br><br>
+                        <a href="/blogs/3-Ways-Museums-Can-Benefit-From-AR-Usage">
+                           <span class="btn-pri-link">Read Article →</span>
+                        </a> 
+                     </div>
+                  </div>
+               </div>
                 
                  <div class="col-md-6 col-lg-4">
                   <div class="card">
@@ -94,7 +110,7 @@ require('./public/layout/navbar.php');
                         <p style="color: #555; font-size: 16px;">With a growing interest in virtual reality, especially with the release of the affordable VR Headset — the Oculus Quest 2, there...</p>
       
                         <br> 
-<span style="font-weight:bold;"> 03-12-2020</span>                        <br><br>
+<span style="font-weight:bold;"> 02-01-2021</span>                        <br><br>
                         <a href="/blogs/is-virtual-reality-safe">
                            <span class="btn-pri-link">Read Article →</span>
                         </a> 
