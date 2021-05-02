@@ -207,7 +207,7 @@ require('./public/layout/navbar.php');
       </div>
       <div id=mobile-content>
          <section class=text-light data-speed=1 style=background-color:#000;padding-bottom:10px;>
-            <img src=./images/preview.gif class="bg-image opacity-40">
+            <img src=./images/prev.gif class="bg-image opacity-40">
             <div class="container layer-2">
                <div class="row justify-content-center pt-lg-5">
                   <div class="col-xl-5 col-lg-6 col-md-7 text-center text-lg-left mb-5 mb-lg-0">
@@ -307,11 +307,6 @@ Designing and Delivering Change with Innovative Services
          </section>
       </div>
       
-      <!-- <div id="desktop-content">-->
-      <!--<div class="img">-->
-      <!--    <img src="./images/side-design.png" style="margin-top: -250px; margin-left: -180px; opacity: 0.4;">-->
-      <!--</div>-->
-      <!--</div>-->
 
 <div id="desktop-content">
 
@@ -371,88 +366,6 @@ Designing and Delivering Change with Innovative Services
                 
                 
             </div>
-<!--           <div class="row justify-content-center">-->
-<!--             <div class="col">-->
-<!--               <div class="row">-->
-<!--                 <div class="col">-->
-<!--                   <div class="card card-article-wide flex-md-row no-gutters" style="border: 0px !important;">-->
-<!--                     <div class="col-md-6 col-lg-7">-->
-<!--                       <img src="./images/ah-device.png" alt="Image" style="margin-top: 40px;" >-->
-<!--                     </div>-->
-<!--                     <div class="card-body d-flex flex-column justify-content-between col-auto p-4 p-lg-5">-->
-<!--                       <div>-->
-<!--                          <div id="desktop-content"><span><img src="./images/mystic_logo.png" height="45" style=" margin-top: 10px;"></span></div>-->
-                          
-<!--                         <h3><b style="text-decoration: underline; text-decoration-color: #7ebbf7;">Animal Heroes</b></h3>-->
-<!--                         <p style="color: black; font-size: 1rem; color: #555; width: 98%;">In partnership with Mystic Aquarium, ARSOME Technology-->
-<!--                           developed & commercialized Animal Heroes, a subscription-based-->
-<!--                           multimedia program that brings nature and science to life for kids age 6–11 with augmented reality. </p>-->
-<!--                           <a  href="https://mysticanimalheroes.org/about/mystic/" class="mb-0 btn-pri-link" target="_blank">Subscribe Now →</a>-->
-                            
-<!--                       </div>-->
-                      
-<!--                     </div>-->
-<!--                   </div>-->
-<!--                 </div>-->
-<!--               </div>-->
-<!--             </div>-->
-             
-
-<!--             <div class="container col-xxl-8 px-4 py-5" style="margin-top: -50px;">-->
-<!--  <div class="row flex-lg-row-reverse align-items-center g-5 py-5">-->
-<!--    <div class="col-10 col-sm-8 col-lg-6">-->
-     
-<!--              <img src="https://www.arsome.com/images/vrdrivetruck.jpeg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy" style="margin-top: -100px;">-->
-<!--    </div>-->
-<!--    <div class="col-lg-6">-->
-<!--        <h3 style=" text-decoration: underline; text-decoration-color: #7ebbf7; margin-left: 10px;"  id="deployment"><b>Virtual Reality Driving Simulator</b></h3>-->
-<!--                 <p class="lead" style=" color: #555; margin-left: 10px; font-size: 16px; width: 95%;">Our VR Driving Simulator is the most realistic driving simulator available in the market. It's an ideal training tool for first responders, police, military, driving schools, and companies that drive products to customers.  Save money, time and inject innovation into your training process.-->
-
-
-<!--                 </p>-->
-                 
-<!--                 <a  href="https://www.arsome.com/virtual-reality-driving-simulator" class="mb-0 btn-pri-link" target="_blank" style="margin-left: 10px;">View Product →</a>-->
-
-                     <!--<a href="https://www.arsome.com/service/immersive-technology" style="margin-top: -10px; margin-left: -225px; font-size: 15px;" class="btn-pri-link">View Product →</a>-->
-<!--                     </p>-->
-<!--                  </div>-->
-<!--                  </div>-->
-<!--            <br>-->
-      
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
-  
-<!--</div>-->
-<!--<div class="container" style="margin-top: -50px;">-->
-<!--     <div class="row justify-content-center">-->
-<!--             <div class="col">-->
-<!--               <div class="row">-->
-<!--                 <div class="col">-->
-<!--                   <div class="card card-article-wide flex-md-row no-gutters" style="border: 0px !important;">-->
-<!--                     <div class="col-md-5 col-lg-5">-->
-<!--                       <img src="./images/health-arx.gif">-->
-<!--                     </div>-->
-<!--                     <div class="card-body d-flex flex-column justify-content-between col-auto p-6 p-lg-7" style=" background-color: transparent;">-->
-<!--                       <div>-->
-
-                          
-<!--                         <h3><b style="text-decoration: underline; text-decoration-color: #7ebbf7;">Augmented Reality Health Literacy Tool</b></h3>-->
-<!--                         <p style="color: black; font-size: 1rem; color: #555; width: 98%;">Most patients don't understand medical instructions, medical reports, or prescription information. This lack of health literacy costs our economy $200 billion annually. ARx is a platform to increase a patient's literacy of procedures, medication, and test results with personalized AR content.-->
-
-
-
-<!-- </p>-->
-<!--                           <a  href="https://www.arsome.com/projects/cross-platform-health-literacy-tool" class="mb-0 btn-pri-link" target="_blank">View Project →</a>-->
-                            
-<!--                       </div>-->
-                      
-<!--                     </div>-->
-<!--                   </div>-->
-<!--                 </div>-->
-<!--               </div>-->
-<!--             </div>-->
-<!--</div>-->
 
 
 
@@ -517,92 +430,7 @@ Designing and Delivering Change with Innovative Services
             
                 
                 
-                
-
-<!--           <div class="row justify-content-center">-->
-<!--             <div class="col">-->
-<!--               <div class="row">-->
-<!--                 <div class="col">-->
-<!--                   <div class="card card-article-wide flex-md-row no-gutters" style="border: 0px !important;">-->
-<!--                     <div class="col-md-6 col-lg-7">-->
-<!--                       <img src="./images/ah-device.png" alt="Image" style="margin-top: 40px;" >-->
-<!--                     </div>-->
-<!--                     <div class="card-body d-flex flex-column justify-content-between col-auto p-4 p-lg-5">-->
-<!--                       <div>-->
-<!--                          <div id="desktop-content"><span><img src="./images/mystic_logo.png" height="45" style=" margin-top: 10px;"></span></div>-->
-                          
-<!--                         <h3><b style="text-decoration: underline; text-decoration-color: #7ebbf7;">Animal Heroes</b></h3>-->
-<!--                         <p style="color: black; font-size: 1rem; color: #555; width: 98%;">In partnership with Mystic Aquarium, ARSOME Technology-->
-<!--                           developed & commercialized Animal Heroes, a subscription-based-->
-<!--                           multimedia program that brings nature and science to life for kids age 6–11 with augmented reality. </p>-->
-<!--                           <a  href="https://mysticanimalheroes.org/about/mystic/" class="mb-0 btn-pri-link" target="_blank">Subscribe Now →</a>-->
-                            
-<!--                       </div>-->
-                      
-<!--                     </div>-->
-<!--                   </div>-->
-<!--                 </div>-->
-<!--               </div>-->
-<!--             </div>-->
-             
-
-<!--             <div class="container col-xxl-8 px-4 py-5" style="margin-top: -50px;">-->
-<!--  <div class="row flex-lg-row-reverse align-items-center g-5 py-5">-->
-<!--    <div class="col-10 col-sm-8 col-lg-6">-->
-     
-<!--              <img src="https://www.arsome.com/images/driving-vr.png" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy" style="margin-top: -100px;">-->
-<!--    </div>-->
-<!--    <div class="col-lg-6">-->
-<!--        <h3 style=" text-decoration: underline; text-decoration-color: #7ebbf7; margin-left: 10px;"  id="deployment"><b>Virtual Reality Driving Simulator</b></h3>-->
-<!--                 <p class="lead" style=" color: #555; margin-left: 10px; font-size: 16px; width: 95%;">Our VR Driving Simulator is the most realistic driving simulator available in the market. It's an ideal training tool for first responders, police, military, driving schools, and companies that drive products to customers.  Save money, time and inject innovation into your training process.-->
-
-
-<!--                 </p>-->
-                 
-<!--                 <a  href="https://www.arsome.com/virtual-reality-driving-simulator" class="mb-0 btn-pri-link" target="_blank" style="margin-left: 10px;">View Product →</a>-->
-
-                     <!--<a href="https://www.arsome.com/service/immersive-technology" style="margin-top: -10px; margin-left: -225px; font-size: 15px;" class="btn-pri-link">View Product →</a>-->
-<!--                     </p>-->
-<!--                  </div>-->
-<!--                  </div>-->
-<!--            <br>-->
-      
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
-  
-<!--</div>-->
-<!--<div class="container" style="margin-top: -50px;">-->
-<!--     <div class="row justify-content-center">-->
-<!--             <div class="col">-->
-<!--               <div class="row">-->
-<!--                 <div class="col">-->
-<!--                   <div class="card card-article-wide flex-md-row no-gutters" style="border: 0px !important;">-->
-<!--                     <div class="col-md-5 col-lg-5">-->
-<!--                       <img src="./images/health-arx.gif">-->
-<!--                     </div>-->
-<!--                     <div class="card-body d-flex flex-column justify-content-between col-auto p-6 p-lg-7" style=" background-color: transparent;">-->
-<!--                       <div>-->
-
-                          
-<!--                         <h3><b style="text-decoration: underline; text-decoration-color: #7ebbf7;">Augmented Reality Health Literacy Tool</b></h3>-->
-<!--                         <p style="color: black; font-size: 1rem; color: #555; width: 98%;">Most patients don't understand medical instructions, medical reports, or prescription information. This lack of health literacy costs our economy $200 billion annually. ARx is a platform to increase a patient's literacy of procedures, medication, and test results with personalized AR content.-->
-
-
-
-<!-- </p>-->
-<!--                           <a  href="https://www.arsome.com/projects/cross-platform-health-literacy-tool" class="mb-0 btn-pri-link" target="_blank">View Project →</a>-->
-                            
-<!--                       </div>-->
-                      
-<!--                     </div>-->
-<!--                   </div>-->
-<!--                 </div>-->
-<!--               </div>-->
-<!--             </div>-->
-<!--</div>-->
-
-
+               
 
 
 
@@ -610,92 +438,13 @@ Designing and Delivering Change with Innovative Services
 
 </section>
 </div>
-<!--<div class="container" style="margin-top: -280px;">-->
-   
-<!--</div>-->
 
-             
- <!--            <div class="row justify-content-center">-->
- <!--            <div class="col">-->
- <!--              <div class="row">-->
- <!--                <div class="col">-->
- <!--                  <div class="card card-article-wide flex-md-row no-gutters" style="border: 0px !important;">-->
- <!--                    <div class="col-md-6 col-lg-7">-->
- <!--                      <video muted autoplay loop style="height:auto;width:65%; margin-top: 40px;">-->
- <!--                       <source src=/projects/demo.mp4 type=video/mp4>-->
- <!--                    </video>-->
- <!--                    </div>-->
- <!--                    <div class="card-body d-flex flex-column justify-content-between col-auto p-4 p-lg-5">-->
- <!--                      <div>-->
-                          
- <!--                        <h3><b style="text-decoration: underline; text-decoration-color: #7ebbf7; margin-top: 200px;">Cross-Platform Health Literacy Tool</b></h3>-->
- <!--                        <p style="color: black; font-size: 1rem; color: #555; width: 98%;">Most patients don't understand medical instructions, medical reports, or medication information. This lack of health literacy costs our economy $200 billion annually. ARx is a platform to increase a patient's literacy of procedures, medication, and test results with personalized AR content.-->
- <!--</p>-->
- <!--                          <a  href="https://www.arsome.com/projects/cross-platform-health-literacy-tool" class="mb-0 btn-pri-link" target="_blank">View Project →</a>-->
-                            
- <!--                      </div>-->
-                      
- <!--                    </div>-->
- <!--                  </div>-->
- <!--                </div>-->
- <!--              </div>-->
- <!--            </div>-->
- <!--          </div>-->
            
          </div>
  
-<!--          <div class="container">-->
-<!--             <div class="row">-->
-<!--              <a href="https://www.arsome.com/virtual-reality-driving-simulator"> <div class="col">-->
-<!--                   <img src="./images/vrdrivetruck.jpeg" class="rounded">-->
-<!--<p style="margin-top: 5px; color: black;">-->
-<!--  <b style="text-decoration: underline; text-decoration-color: #7ebbf7;">Virtual Reality Driving Simulator</b> -->
-<!--</p>-->
-<!--<p class="lead">VR modules aligned to CDL program for ultimate compliance, assessment and training.</p>-->
-<!--<a href="https://www.arsome.com/virtual-reality-driving-simulator" style="margin-top: -30px; color: #2f94f9;"> View Product →</a>-->
-<!--               </div></a>-->
-<!--              <a href="https://www.arsome.com/projects/cross-platform-health-literacy-tool"> <div class="col">-->
-<!--                  <img src="./images/arx.png" class="rounded">-->
-<!--                  <p style="margin-top: 5px; color: black;">-->
-<!--                     <b style="text-decoration: underline; text-decoration-color: #7ebbf7;">Augmented Reality Health Literacy Tool</b> -->
-<!--                  </p>-->
-<!--                  <p class="lead">Improving health literacy around the world with AR and storytelling.</p>-->
-<!--                  <a href="https://www.arsome.com/projects/cross-platform-health-literacy-tool" style="margin-top: -30px; color: #2f94f9;"> View Project →</a>-->
-<!--               </div></a>-->
-<!--             </div>-->
-<!--          </div>-->
-<!--          <div class="container" style="margin-top: 25px;">-->
-<!--            <div class="row">-->
-<!--             <a href="https://www.arsome.com/projects/virtual-reality-mobile-application"> <div class="col">-->
-<!--                   <img src="./images/apol.png" class="rounded">-->
-<!--<p style="margin-top: 5px; color: black;">-->
-<!--   <b style="text-decoration: underline; text-decoration-color: #7ebbf7;">Virtual Reality Mobile Application</b> -->
-<!--</p>-->
-<!--<p class="lead">Bringing the 1969 NASA Apollo mission to life with VR and experiential learning.</p>-->
-<!--<a href="https://www.arsome.com/projects/virtual-reality-mobile-application" style="margin-top: -30px; color: #2f94f9;"> View Project →</a>-->
-                
-<!--              </div></a>-->
-<!--              <a href="https://www.arsome.com/projects/multi-user-virtual-reality-platform">-->
-<!--              <div class="col">-->
-<!--                 <img src="./images/multi-use.png" class="rounded">-->
-<!--                 <p style="margin-top: 5px; color: black;">-->
-<!--                    <b style="text-decoration: underline; text-decoration-color: #7ebbf7;">Multi-User Virtual Reality Platform</b> -->
-<!--                 </p>-->
-<!--                 <p class="lead">Improving safety training with AR and VR interactive activities and simulations.</p>-->
-<!--                 <a href="https://www.arsome.com/projects/multi-user-virtual-reality-platform" style="margin-top: -30px; color: #2f94f9; "> View Project →</a>-->
-<!--              </div>-->
-<!--              </a>-->
-<!--            </div>-->
-<!--         </div>-->
+
        </section>
-       
-  <!--           <div id="desktop-content">-->
-  <!--     <div class="img">-->
-  <!--        <img src="./images/side-design.png" style="margin-top: -750px; float: right; margin-right: -180px; -webkit-transform: scaleX(-1);-->
-  <!--transform: scaleX(-1); opacity: 0.4;">-->
-  <!--    </div>-->
-      
-  <!--    </div>-->
+
 
       
 
@@ -705,7 +454,6 @@ Designing and Delivering Change with Innovative Services
 <center>
     <small style="color: #2f94f9; font-weight: 600; font-size: 1rem;">GIVING ARSOME</small>
     <center><h1><b>Community Contributors</b></h1></center>
-    <!--<p style="color: black; width: 83%; font-size: 19px;">Everyone in the world must stop and take a break from our hectic schedules to give back and help those in need of a boost. </p>-->
     <br>
         <img src="./images/commu.jpeg">
         <br>
@@ -719,47 +467,6 @@ Designing and Delivering Change with Innovative Services
 </div>
        </section>
 
-       
-       
-       
-      <!--       <div id="desktop-content">-->
-      <!--<div class="img">-->
-      <!--    <img src="./images/side-design.png" style="margin-top: -600px; margin-left: -180px; opacity: 0.4;">-->
-      <!--</div>-->
-      <!--</div>-->
-
-
-       <!-- <section class="has-divider text-center text-light o-hidden" style="background-color:#000; margin-top: 50px;">
-         <div id=desktop-content >
-             <img src="./collage.png" class="bg-image opacity-60"></center>
-            <div class="container layer-2">
-               <div class="row justify-content-center">
-                  <div class="col-lg-9 col-xl-8">
-                    <br><br><br><br><br>
-                     <h1 class=display-4 style=color:#fff;font-weight:bold><span style=color:#fff>Community</span> Contributors<span style=color:#2f94f9>.</span></h1>
-                     <center>
-                        <div class=button style=width:30%>
-                           <a href=/community style=text-decoration:none> Giving Back </a>
-                           <div class=mask></div>
-                        </div>
-                     </center>
-                    <br><br><br><br>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div id=mobile-content>
-            <img src=./collage.png class="bg-image opacity-40">
-            <div class="container layer-2">
-               <div class="row justify-content-center">
-                  <div class="col-lg-9 col-xl-8">
-                     <h1 class=display-4 style=color:#fff;font-weight:bold>Community Contributors<span style=color:#2f94f9>.</span></h1>
-                     <a href="/community" class="btn btn-md btn-primary">Giving Back</a>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section> -->
 
 
    
@@ -965,16 +672,7 @@ Designing and Delivering Change with Innovative Services
 
             
             <br>
-            <!--<div class=row>-->
-            <!--   <div class=col>-->
-            <!--      <center>-->
-            <!--         <div class=button style=width:40%>-->
-            <!--            <a href=/blog style=text-decoration:none> View More Entries </a>-->
-            <!--            <div class=mask></div>-->
-            <!--         </div>-->
-            <!--      </center>-->
-            <!--   </div>-->
-            <!--</div>-->
+      
             
             <center><a href="/blog" class="button btn-pri-2 w-inline-block" style=" border-radius: 5px; padding-left: 5px; padding-right: 5px; padding-top: 10px; padding-bottom: 10px; font-size: 16px; width: 200px; color: white; margin-top: 10px;">
                                <div>View More →</div>
@@ -982,29 +680,7 @@ Designing and Delivering Change with Innovative Services
          </div>
       </section>
       </div>
-      <!--<footer class="pb-5 text-light" style=background-color:#1d1d1d>-->
- <!--        <div class=container>-->
- <!--           <div class="row mb-4 justify-content-center">-->
- <!--              <div class=col-auto><a href=/><img src=https://arsome.com/images/gray.png class="icon icon-lg" alt="ARSOME Technology Logo"></a></div>-->
- <!--           </div>-->
- <!--           <div class="row mb-4 justify-content-center">-->
- <!--              <div class=col>-->
- <!--                  <div id="desktop-content">-->
- <!--                <center> <ul class="nav" style="margin-left: 175px; text-align: center !important;"><a href=/company class="nav-link footer-link" style="text-align: center !important;">Company</a><a href=/services class="nav-link footer-link" style="text-align: center !important;">Services</a><a href=/process class="nav-link footer-link" style="text-align: center !important;">Process</a><a href=/blog class="nav-link footer-link" style="text-align: center !important;">Blog</a><a href=/contact class="nav-link footer-link" style="text-align: center !important;">Work With Us</a></ul></center>-->
- <!--               </div>-->
-                
- <!--               <div id="mobile-content">-->
- <!--                <center> <ul class="nav"><a href=/services class=nav-link>Services</a><a href=/process class=nav-link>Process</a><a href=/company class=nav-link>Company</a><a href=/blog class=nav-link>Blog</a><a href=/our-press class=nav-link>Press</a><a href=/community class=nav-link>Community</a><a href=/contact class=nav-link>Contact Us</a></ul></center>-->
- <!--               </div>-->
- <!--              </div>-->
- <!--           </div>-->
- <!--           <div class="row justify-content-center mt-5 mb-5">-->
- <!--              <div class=col-auto>-->
- <!--                 <ul class=nav><a href=https://instagram.com/arsome_technology/ target=_blank class="nav-link footer-link" style=color:white><img class="icon undefined" src=https://arsome.com/images/instagram.png alt="instagram social icon"/></a><a href=https://twitter.com/ArsomeTech target=_blank class="nav-link footer-link"><img class="icon undefined" src=https://arsome.com/images/twitter.png alt="twitter social icon"/></a><a href=https://youtube.com/channel/UC5jkpLqbYFJ9Eyr6AmOLUVA class="nav-link footer-link"><img class="icon undefined" src=https://arsome.com/images/play.png alt="youtube social icon"/></a><a href=https://medium.com/@arsome target=_blank class="nav-link footer-link"><img class="icon undefined" src=https://arsome.com/images/medium.png alt="medium social icon"/></a><a href=https://linkedin.com/company/arsome-technology-group/ target=_blank class="nav-link footer-link"><img class="icon undefined" src=https://arsome.com/images/linkedin.png alt="medium social icon"/></a><a href=https://facebook.com/pages/category/Science--Technology---Engineering/ARsome-Technology-Group-495637104198450/ target=_blank class="nav-link footer-link"><img class="icon undefined" src=https://arsome.com/images/fb.png alt="facebook social icon" /></a></li></ul>-->
- <!--              </div>-->
- <!--           </div>-->
- <!--        </div>-->
- <!--     </footer>-->
+
  
     <div id="desktop-content">
     

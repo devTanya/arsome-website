@@ -4,7 +4,7 @@
 <html lang=en>
    <head>
       <meta charset=utf-8>
-      <title>Cross-Platform Health Literacy Tool - ARSOME</title>
+      <title>Augmented Reality Health Literacy Tool - ARSOME</title>
       <meta name=viewport content="width=device-width, initial-scale=1.0">
       <link href=https://arsome.com/projects/cross-platform-health-literacy-tool rel="canonical"/>
       <meta charset=utf-8>
