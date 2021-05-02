@@ -58,7 +58,7 @@ require('./public/layout/navbar.php');
 <center><img src="/images/robot.png" height="300"></center>
 <center><h1 style="color: #000;"><b>Ut-Oh! This page doesn't exist.</b></h1></center>
 <p class="lead" style=" color: #555; font-size: 16px;text-align: center;">The URL was either typed in wrong or this page was removed. Need help getting to what you're looking for? Try our navigation bar above.
-<center><a href="/blog" class="button btn-pri-2 w-inline-block" style=" border-radius: 5px; padding-left: 5px; padding-right: 5px; padding-top: 10px; padding-bottom: 10px; font-size: 16px; width: 200px; color: white; margin-top: 10px;">
+<center><a href="/" class="button btn-pri-2 w-inline-block" style=" border-radius: 5px; padding-left: 5px; padding-right: 5px; padding-top: 10px; padding-bottom: 10px; font-size: 16px; width: 200px; color: white; margin-top: 10px;">
                                <div>Go Home →</div>
                             </a></center>
 </div>
