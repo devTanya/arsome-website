@@ -293,7 +293,26 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Co-Founder, Chief Innovation Officer</p></center>
                        
                    </div>
+
                    <div class="col">
+                       <div class="img__wrap">
+                       <img src="/images/jason.png" class="img__img">
+                       <p class="img__description" style="font-size: 16px;">Jason brings more than twenty years of experience in education to ARSOME. As a classroom teacher, reading specialist and school leader, Jason has worked at schools in five cities, in three countries, and on two continents. Jason earned a BA in History from The George Washington University before graduating from Harvard University with an Ed.M. in Language and Literacy and an MBA from UCLA in Entrepreneurialism. When he is not working, you will find him scrambling to provide a human safety net for his two toddlers as they launch themselves from various heights.<br>
+                       <br>
+                       <a href="https://linkedin.com/in/davidoyanadel" target="_blank" style="margin-top: 20px;"><img src="https://img.icons8.com/android/24/ffffff/linkedin.png"/></a>
+                       </p>
+                       </div>
+                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Jason Anklowitz</h3></center>
+                       <center><p style="color: #555; font-size: 16px;">Director of Education</p></center>
+                       
+                   </div>
+                   
+               </div>
+               
+               <br>
+               
+               <div class="row">
+               <div class="col">
                        <div class="img__wrap">
                        <img src="https://lh3.googleusercontent.com/pw/ACtC-3fpcC2UvX1QQJ8ytPdqJIyV0jqZNKvvay47LFO5o5E-uj-CEn4xHdLWWVmJf0ZsOB1v_QPU2UiY6ilWhV7aDkusMeP7-n6dG-WmUbC9B4uaRnRj9oobmBgReiAudqQ3MgnDB2H0DhaLR1qrI5wNqoKc=w801-h803-no?authuser=0" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Terry, a Licensed Psychologist, was born and raised in Queens, New York before completing his Ph.D. in Indiana. He has a 30+ year track record of impactful research for the public and private sector - including behavioral and consumer psychology. Terry consults on effective virtual reality training, including safety, situational, soft skills, and on-boarding. In his free time he jams out to the Rolling Stones and writes engaging Blogs on the impact of immersive technology.<br>
@@ -307,11 +326,6 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Director</p></center>
                        
                    </div>
-               </div>
-               
-               <br>
-               
-               <div class="row">
                    <div class="col">
                        <div class="img__wrap">
                        <img src="./images/yvonne.png" class="img__img">
@@ -321,8 +335,8 @@ require('./public/layout/navbar.php');
 
 </p>
                        </div>
-                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Yvonne Renee Davis</h3></center>
-                       <center><p style="color: #555; font-size: 16px;">Director of Communications and Media Relations</p></center>
+                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Yvonne Davis</h3></center>
+                       <center><p style="color: #555; font-size: 16px;">Director of Coms and Media</p></center>
                        
                    </div>
                    <div class="col">
@@ -340,7 +354,11 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Immersive Developer</p></center>
                        
                    </div>
-                   <div class="col">
+                   
+               </div>
+<br>
+               <div class="row">
+               <div class="col">
                        <div class="img__wrap">
                        <img src="https://lh3.googleusercontent.com/pw/ACtC-3egAsDedOtTBUCEQ94ja9TsaoqtLgIPTug3RXf4HHOzqx9j0ACI7ETDYL9NKgSJs1prt9MT9f7WcaRkh_I_Tc5qXZYTkoInnCDfCjnIsKvbwAw9Rr8T__3T1ndeXKo9ZxZI15RT56bHseQusgYaKuqc=w805-h803-no?authuser=0" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Dana is an IT professional and application developer with 5+ years of experience. He is pursuing a degree in Computer Engineering Technology and a strong passion for programming. With his knowledge of several programming languages and creative mindset, Dana is a vital part of the team. When he isn’t crackin’ jokes at work, he develops mobile applications to solve global challenges. His ability to develop and design cross-functional platforms is essential to the growth of the company.<br>
@@ -353,9 +371,6 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Application Developer</p></center>
                        
                    </div>
-               </div>
-<br>
-               <div class="row">
                    <div class="col">
                        <div class="img__wrap">
                        <img src="/images/dave.png" class="img__img" style="width: 100%;">
@@ -387,7 +402,11 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">UI/UX Designer</p></center>
                        
                    </div>
-                   <div class="col">
+                   
+               </div>
+               <br>
+               <div class="row">
+               <div class="col">
                        <div class="img__wrap">
                        <img src="/images/kevin-dooley.png" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Kevin joins ARSOME with over 25 years of business development, sales and entrepreneurial experience. He holds a B.S.in Marketing from State University of New York at Brockport and an M.B.A. / Finance from Rochester Institute of Technology - where he also serves as adjunct faculty in the School's Simone Center for Innovation and Entrepreneurship. Based in Rochester, NY, Kevin is the MarTech Peer Director on TechRochester's Board of Directors. He is an avid hockey fan and ADK high peaks hiker.<br>
@@ -401,9 +420,6 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Business Development</p></center>
                        
                    </div>
-               </div>
-               <br>
-               <div class="row">
                    <div class="col">
                        <div class="img__wrap">
                        <img src="/images/andrew-new.png" class="img__img">
@@ -435,9 +451,6 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Front-End Developer</p></center>
                        
 
-                   </div>
-                   <div class="col">
-                       
                    </div>
                </div>
             </div>
@@ -481,6 +494,16 @@ require('./public/layout/navbar.php');
                <br>
                
                <div class="row">
+
+               <div class="col">
+                      
+                       <img src="/images/jason.png" class="img__img">
+                     
+                       
+                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Jason Anklowitz</h3></center>
+                       <center><p style="color: #555; font-size: 16px;">Director of Education</p></center>
+                       
+                   </div>
                    
                    <div class="col">
                       
@@ -492,18 +515,18 @@ require('./public/layout/navbar.php');
                        
                    </div>
                    
+                   </div>
+                   <br>
+                   <div class="row">
                    <div class="col">
                        
                        <img src="./images/yvonne.png" class="img__img">
                        
                        
-                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Yvonne Renee Davis</h3></center>
-                       <center><p style="color: #555; font-size: 16px;">Director of Communications and Media Relations</p></center>
+                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Yvonne Davis</h3></center>
+                       <center><p style="color: #555; font-size: 16px;">Director of Coms and Media</p></center>
                        
                    </div>
-                   </div>
-                   <br>
-                   <div class="row">
                    <div class="col">
                       
                        <img src="/images/kai.jpg" class="img__img">
@@ -513,7 +536,11 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Immersive Developer</p></center>
                        
                    </div>
-                   <div class="col">
+                   
+               </div>
+<br>
+               <div class="row">
+               <div class="col">
                       
                        <img src="https://lh3.googleusercontent.com/pw/ACtC-3egAsDedOtTBUCEQ94ja9TsaoqtLgIPTug3RXf4HHOzqx9j0ACI7ETDYL9NKgSJs1prt9MT9f7WcaRkh_I_Tc5qXZYTkoInnCDfCjnIsKvbwAw9Rr8T__3T1ndeXKo9ZxZI15RT56bHseQusgYaKuqc=w805-h803-no?authuser=0" class="img__img">
                      
@@ -521,9 +548,6 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Application Developer</p></center>
                        
                    </div>
-               </div>
-<br>
-               <div class="row">
                    <div class="col">
                        <img src="./images/dave.png" class="img__img" style="width: 100%;">
                      
@@ -532,6 +556,10 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Software Developer</p></center>
                        
                    </div>
+                   
+                   </div>
+                   <br>
+                   <div class="row">
                    <div class="col">
                      
                        <img src="/images/anastasia.png" class="img__img">
@@ -541,9 +569,6 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">UI/UX Designer</p></center>
                        
                    </div>
-                   </div>
-                   <br>
-                   <div class="row">
                    <div class="col">
                       
                        <img src="/images/kevin-dooley.png" class="img__img">
@@ -554,7 +579,13 @@ require('./public/layout/navbar.php');
                        
                    </div>
                    
-                    <div class="col">
+                    
+
+                   
+               </div>
+               <br>
+               <div class="row">
+               <div class="col">
                      
                        <img src="/images/andrew-new.png" class="img__img">
                       
@@ -563,11 +594,6 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Marketing Manager</p></center>
                        
                    </div>
-
-                   
-               </div>
-               <br>
-               <div class="row">
                <div class="col">
                      
                        <img src="/images/lucas.png" class="img__img">
@@ -577,142 +603,12 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Front-End Developer</p></center>
                        
                    </div>
-                   <div class="col">
-                   </div>
                </div>
                </div>
             </div>
          </section>
          </div>
-      <!--<div id="mobile-content">-->
-      <!--   <section>-->
-      <!--      <div class="container">-->
-      <!--         <div class="row mb-4">-->
-      <!--            <div class="col">-->
-      <!--               <div id="desktop-content">-->
-      <!--                  <h2 class="h1">Team<span style="color: #2f94f9;">.</span></h2>-->
-      <!--               </div>-->
-      <!--               <div id="mobile-content" style="margin-top: -50px;">-->
-      <!--                  <h2 class="h1">Team<span style="color: #2f94f9;">.</span></h2>-->
-      <!--               </div>-->
-      <!--            </div>-->
-      <!--         </div>-->
-      <!--         <div class="row">-->
-      <!--            <div class="col-sm-8 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#ben" data-toggle="modal" data-target="#ben" style="color: #000;"> <img src="https://lh3.googleusercontent.com/pw/ACtC-3c9ZClgGVgOvHsKhea3sjhv-UWqRL8ogLha4_8ZbVS53SIJDkfyZzr0uAK4JZOBn1FVGzAIIcSsfyjusuW2Y5wKT7rBl7i-_ww3S0zJHemgsxVIOnS960no-icgLy1FKg2QQU88s4Xoj8efin65BlIx=s803-no?authuser=0" alt="Benjamin Williams" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#ben" data-toggle="modal" data-target="#ben" style="color: #000;">Benjamin Williams</a></h5>-->
-      <!--                  <a href="#ben" data-toggle="modal" data-target="#ben" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>Co-Founder, Chief Executive Officer</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-      <!--            <div class="col-sm-6 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#david" data-toggle="modal" data-target="#david" style="color: #000;"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d1p5YVmnV0x2X3YZJIqoRvMvGhwwF_mqkAMztSWaeXkNwZJxJxsktKfFEqvV4iHnF17jLOR1AeabVNHOLBhN9Tnot7QCR55RAIIhcZnLgrDD_nioi_o15apv0M3-Pf8qpYzO1qIZlwQKVQstuAsOfQ=w804-h803-no?authuser=0" alt="David Oyanadel" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#david" data-toggle="modal" data-target="#david" style="color: #000;">David Oyanadel</a></h5>-->
-      <!--                  <a href="#david" data-toggle="modal" data-target="#david" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>Co-Founder, Chief Innovation Officer</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-      <!--            <div class="col-sm-6 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#terry" data-toggle="modal" data-target="#terry" style="color: #000;"><img src="/images/terry.jpg" alt="Terry Williams" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#terry" data-toggle="modal" data-target="#terry" style="color: #000;">Terry Williams</a></h5>-->
-      <!--                  <a href="#terry" data-toggle="modal" data-target="#terry" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>Director</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-      <!--            <div class="col-sm-6 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#ye" data-toggle="modal" data-target="#ye" style="color: #000;"><img src="https://lh3.googleusercontent.com/pw/ACtC-3d2js8rP3Q7gEkPhhNe6Otrrs4u1QP29Jq2P17vNvKXXejkptartWH1qdEtRGp63t9G3KphgZIswIigWoaZvV43TkLSQ8QPRg5qNjH8B7ia3Vj2z90tSt1uZgL1VZRZYbPAFs3hYZYFJM3VzOeBSWHc=w176-h208-no?authuser=0" alt="Yvonne Renee Davis" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#ye" data-toggle="modal" data-target="#ye" style="color: #000;">Yvonne Renee Davis</a></h5>-->
-      <!--                  <a href="#ye" data-toggle="modal" data-target="#ye" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>Media & Public Relations</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-      <!--            <div class="col-sm-6 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#cliff" data-toggle="modal" data-target="#cliff" style="color: #000;"><img src="https://lh3.googleusercontent.com/pw/ACtC-3ejdXJvvnPB4VAP1Hwi5NCwoVQIuqgiy-2zIrMgLSGDjxXB_A4XqeYUof8OXFtZHe7aeV_wK3ZVsJ3a-NzCy285Sl-ps1mRWvrvCOOJ90W6wxanXsSoWHaOykNylj_AwU2MDcbjTXirtjJD56MvVEt8=w820-h803-no?authuser=0" alt="Cliff Schorer" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#cliff" data-toggle="modal" data-target="#cliff" style="color: #000;">Cliff Schorer</a></h5>-->
-      <!--                  <a href="#cliff" data-toggle="modal" data-target="#cliff" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>Director</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-      <!--            <div class="col-sm-6 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#kai" data-toggle="modal" data-target="#kai" style="color: #000;"> <img src="https://lh3.googleusercontent.com/pw/ACtC-3cM1r8V3GAD8KhpujNAtDp-eddduZ96EJwisJPdU8albq-gXcWOOcyOWgxAH-Tv6Ya-JMVSS87wJWzluICHJg0Py3Qc1zrAOeImqSu-S50cwBqIzisVPuNnxIb8FeXiBCbsAqxAmEXm-hm0FbgzF3-i=s803-no?authuser=0" alt="Kai Hung-Wang" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#kai" data-toggle="modal" data-target="#kai" style="color: #000;">Kai Hung-Wang</a></h5>-->
-      <!--                  <a href="#kai" data-toggle="modal" data-target="#kai" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>Immersive Developer</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-      <!--            <div class="col-sm-6 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#dana" data-toggle="modal" data-target="#dana" style="color: #000;"> <img src="https://lh3.googleusercontent.com/pw/ACtC-3egAsDedOtTBUCEQ94ja9TsaoqtLgIPTug3RXf4HHOzqx9j0ACI7ETDYL9NKgSJs1prt9MT9f7WcaRkh_I_Tc5qXZYTkoInnCDfCjnIsKvbwAw9Rr8T__3T1ndeXKo9ZxZI15RT56bHseQusgYaKuqc=w805-h803-no?authuser=0" alt="Dana Richards" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#dana" data-toggle="modal" data-target="#dana" style="color: #000;">Dana Richards</a></h5>-->
-      <!--                  <a href="#dana" data-toggle="modal" data-target="#dana" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>Application Developer</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-      <!--            <div class="col-sm-6 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#jen" data-toggle="modal" data-target="#jen" style="color: #000;"><img src="./images/jennifer.png" alt="Jennifer Kelley" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#jen" data-toggle="modal" data-target="#jen" style="color: #000;">Jennifer Kelley</a></h5>-->
-      <!--                  <a href="#jen" data-toggle="modal" data-target="#jen" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>Associate Software Developer</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-      <!--            <div class="col-sm-6 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#lola" data-toggle="modal" data-target="#lola" style="color: #000;"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dNqMy26apq-NfTpBgFN6Ui1sFC39pm4NK1WO8R3UdZbMQMcvq0Swz88IMaSk0rIkel95FxFlEq76AboTXMN04_dUR8WuZ0_9D9BEy60H8dRKLjDha1tP0OJe9AlA2S7ZCoOVUgqfbnUTmKGNY6p1St=s700-no?authuser=0" alt="Lola Oretade" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#lola" data-toggle="modal" data-target="#lola" style="color: #000;">Lola Oretade</a></h5>-->
-      <!--                  <a href="#lola" data-toggle="modal" data-target="#lola" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>Marketing Manager</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-                  
-      <!--            <div class="col-sm-6 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#dave" data-toggle="modal" data-target="#dave" style="color: #000;"><img src="/images/dave.jpg" alt="Dave Van Fleet" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#dave" data-toggle="modal" data-target="#dave" style="color: #000;">Dave Van Fleet</a></h5>-->
-      <!--                  <a href="#dave" data-toggle="modal" data-target="#dave" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>Software Developer</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-                  
-      <!--             <div class="col-sm-6 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#ana" data-toggle="modal" data-target="#ana" style="color: #000;"><img src="/images/ana.jpg" alt="Anastasia Gleyzer" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#ana" data-toggle="modal" data-target="#ana" style="color: #000;">Anastasia Gleyzer</a></h5>-->
-      <!--                  <a href="#ana" data-toggle="modal" data-target="#ana" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>UI/UX Designer</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-                  
-      <!--             <div class="col-sm-6 col-lg-4 d-flex align-items-center mb-5">-->
-      <!--               <a href="#kevin" data-toggle="modal" data-target="#kevin" style="color: #000;"><img src="./images/kevin.png" alt="Kevin Dooley" class="avatar avatar-xlg mr-3"></a> -->
-      <!--               <div>-->
-      <!--                  <h5 class="mb-0"><a href="#kevin" data-toggle="modal" data-target="#kevin" style="color: #000;">Kevin Dooley</a></h5>-->
-      <!--                  <a href="#kevin" data-toggle="modal" data-target="#kevin" style="font-weight: normal; color: #666;">-->
-      <!--                     <p>Business Development</p>-->
-      <!--                  </a>-->
-      <!--               </div>-->
-      <!--            </div>-->
-      <!--         </div>-->
-      <!--      </div>-->
-      <!--   </section>-->
-      <!--</div>-->
+    
 
 
 
@@ -801,43 +697,6 @@ require('./public/layout/navbar.php');
     </section>
   </div>
 
-      
-
-<!--<section style="background-color:#eff9fb;margin-top:-30px;padding-bottom:40px;">-->
-<!--         <div class=container >-->
-<!--            <div class="row mb-4">-->
-<!--               <div class=col>-->
-<!--                  <br><br>-->
-<!--                  <div id=desktop-content>-->
-<!--                     <h1 style=font-weight:bold>Start Innovating Today</h1>-->
-<!--                     <p class=lead style=width:650px;color:#555>Interested in a scalable platform to provide complex and sensitive information with engaging augmented reality content? Learn how we provide innovation with advanced technology. </p>-->
-<!--                  </div>-->
-<!--                  <div id=mobile-content style=margin-top:-80px>-->
-<!--                     <center>-->
-<!--                        <h1 style=font-weight:bold>Start Innovating Today</h1>-->
-<!--                        <p class=lead style=font-size:16px;color:#555>Interested in a scalable platform to provide complex and sensitive information with engaging augmented reality content? Learn how we provide innovation with advanced technology. -->
-<!--                     </center>-->
-<!--                     </p>-->
-<!--                  </div>-->
-<!--                  <br>-->
-<!--                  <div id=desktop-content>-->
-<!--                     <div id=desktop-content>-->
-<!--                        <a href="/contact" class="button btn-pri-2 w-inline-block" style=" border-radius: 5px; padding-left: 5px; padding-right: 5px; padding-top: 10px; padding-bottom: 10px; font-size: 16px; width: 200px; color: white; margin-top: -10px;">-->
-<!--                               <div>Get Started →</div>-->
-<!--                            </a>-->
-<!--                     </div>-->
-<!--                  </div>-->
-<!--                  <div id=mobile-content>-->
-<!--                    <center> <a href="/contact" class="button btn-pri-2 w-inline-block" style=" border-radius: 5px; padding-left: 5px; padding-right: 5px; padding-top: 10px; padding-bottom: 10px; font-size: 16px; width: 200px; color: white; margin-top: -50px;">-->
-<!--                               <div>Get Started →</div>-->
-<!--                            </a>-->
-<!--                            </center>-->
-<!--                  </div>-->
-<!--               </div>-->
-<!--               <div id=desktop-content><img src="./images/portal-transparent.gif" height=400 style="margin-top:-70px; background-color: transparent;"></div>-->
-<!--            </div>-->
-<!--         </div>-->
-<!--</section>-->
 
 
  <?php
