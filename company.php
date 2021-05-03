@@ -421,7 +421,20 @@ require('./public/layout/navbar.php');
 
                    </div>
                    <div class="col">
+                   <div class="img__wrap">
+                       <img src="/images/lucas.png" class="img__img">
+                       <p class="img__description" style="font-size: 16px;">Lucas is a front-end developer specializing in frameworks like React and TailwindCSS. He designs and develops websites for ARSOME and their partners. He's also an entrepreneur at heart and the Managing Partner of Elm City Associates, an organization introduced to bring innovation to the city of New Haven. When Lucas isn’t building websites, he’s watching hockey or spending time in Downtown New Haven!<br>
+                       <br>
+                       <a href="https://www.linkedin.com/in/lucaslitton/" target="_blank" style="margin-top: 20px;"><img src="https://img.icons8.com/android/24/ffffff/linkedin.png"/></a>
+
+
+
+</p>
+                       </div>
+                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Lucas Litton</h3></center>
+                       <center><p style="color: #555; font-size: 16px;">Front-End Developer</p></center>
                        
+
                    </div>
                    <div class="col">
                        
@@ -521,7 +534,7 @@ require('./public/layout/navbar.php');
                    </div>
                    <div class="col">
                      
-                       <img src="/images/ana.jpg" class="img__img">
+                       <img src="/images/anastasia.png" class="img__img">
                        
                       
                        <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Anastasia Gleyzer</h3></center>
@@ -550,6 +563,23 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Marketing Manager</p></center>
                        
                    </div>
+
+                   
+               </div>
+               <br>
+               <div class="row">
+               <div class="col">
+                     
+                       <img src="/images/lucas.png" class="img__img">
+                      
+                     
+                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Lucas Litton</h3></center>
+                       <center><p style="color: #555; font-size: 16px;">Front-End Developer</p></center>
+                       
+                   </div>
+                   <div class="col">
+                   </div>
+               </div>
                </div>
             </div>
          </section>
