@@ -299,7 +299,7 @@ require('./public/layout/navbar.php');
                        <img src="/images/jason.png" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Jason brings more than twenty years of experience in education to ARSOME. As a classroom teacher, reading specialist and school leader, Jason has worked at schools in five cities, in three countries, and on two continents. Jason earned a BA in History from The George Washington University before graduating from Harvard University with an Ed.M. in Language and Literacy and an MBA from UCLA in Entrepreneurialism. When he is not working, you will find him scrambling to provide a human safety net for his two toddlers as they launch themselves from various heights.<br>
                        <br>
-                       <a href="https://linkedin.com/in/davidoyanadel" target="_blank" style="margin-top: 20px;"><img src="https://img.icons8.com/android/24/ffffff/linkedin.png"/></a>
+                       <a href="https://www.linkedin.com/in/anklowitz/" target="_blank" style="margin-top: 20px;"><img src="https://img.icons8.com/android/24/ffffff/linkedin.png"/></a>
                        </p>
                        </div>
                        <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Jason Anklowitz</h3></center>
