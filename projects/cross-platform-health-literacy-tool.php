@@ -85,31 +85,41 @@ require('../public/layout/navbar.php');
          </div>
       </section>
 
-      <section style="background-color:#fff;margin-top:0px;position: relative; z-index: 999;">
-         <div class=container style=margin-top:-30px >
-
-            <div id=desktop-content>
-            <div class="row">
-            <div class="col">
-            <center><iframe style="width: 100%; height: 307px;" src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-            </div>
-            <div class="col">
-            <center><iframe style="width: 100%; height: 307px;" src="https://www.youtube.com/embed/UMOY6Me252A?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-            </div>
-            </div>
-            </div>
+<br><br>
+      </section style="background-color:#fff;margin-top:0px;position: relative; z-index: 999;">
+               <div class="container">
+               <div id="desktop-content">
+                  <div class="row">
+                     <div class="col">
+                     <center><iframe style="width: 100%; height: 307px;" src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+                     </div>
+                     <div class="col">
+                     <p style="color: #555; font-size: 16px; margin-top: 115px;">ARx is a digital platform that deploys Applications to improve health literacy for kids, caregivers, families, and patients with AR storytelling. ARx was invented to improve health literacy in the USA and around the world.</p>
+                     </div>
+                  </div>
+                  <br>
+                  <div class="row">
+                  <div class="col">
+                  <p style="color: #555; font-size: 16px; margin-top: 115px;">Immediately inform of instructions, warnings, side effects, and consequences of inaction. Provide valuable back-end data on patient, kid or adult activity for caregivers, healthcare professionals and parents.</p>
+                  </div>
+                  <div class="col">
+                  <center><iframe style="width: 100%; height: 307px;" src="https://www.youtube.com/embed/UMOY6Me252A?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+                  </div>
+                  </div>
+                  </div>
+                  <div id=mobile-content>
+            <center><iframe style=height:250px;width:95% src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
             <br>
-            <div id=mobile-content>
-            <center><iframe style=height:208px;width:80% src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-            <br>
-            <center><iframe style="height:208px;width:80%" src="https://www.youtube.com/embed/UMOY6Me252A?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+            <center><iframe style="height:250px;width:95%" src="https://www.youtube.com/embed/UMOY6Me252A?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
                </div>
-         </div>
-      </section>
+               </div>
+      <section>
 
 
-      <section style="margin-top: -130px; background-color: #eff9fb;">
+
+
+      <section style="margin-top: -40px; background-color: #eff9fb;">
       <div class="container py-5" id="featured-3">
       <div id="desktop-content">
   <div class="row g-5 py-5">
