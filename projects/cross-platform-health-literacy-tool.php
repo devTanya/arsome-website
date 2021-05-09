@@ -109,9 +109,12 @@ require('../public/layout/navbar.php');
                   </div>
                   <div id=mobile-content>
             <center><iframe style=height:250px;width:95% src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+            <center>                     <p style="color: #555; font-size: 16px; margin-top: 20px;">ARx is a digital platform that deploys Applications to improve health literacy for kids, caregivers, families, and patients with AR storytelling. ARx was invented to improve health literacy in the USA and around the world.</p>
+</center>
             <br>
             <center><iframe style="height:250px;width:95%" src="https://www.youtube.com/embed/UMOY6Me252A?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
+               <center>                  <p style="color: #555; font-size: 16px; margin-top: 20px;">Immediately inform of instructions, warnings, side effects, and consequences of inaction. Provide valuable back-end data on patient, kid or adult activity for caregivers, healthcare professionals and parents.</p>
+</center>
                </div>
                </div>
       <section>
