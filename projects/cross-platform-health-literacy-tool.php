@@ -94,13 +94,13 @@ require('../public/layout/navbar.php');
                      <center><iframe style="width: 100%; height: 307px;" src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
                      </div>
                      <div class="col">
-                     <p style="color: #555; font-size: 16px; margin-top: 115px;">ARx is a digital platform that deploys Applications to improve health literacy for kids, caregivers, families, and patients with AR storytelling. ARx was invented to improve health literacy in the USA and around the world.</p>
+                     <p style="color: #555; font-size: 19px; margin-top: 115px;">ARx is a digital platform that deploys Applications to improve health literacy for kids, caregivers, families, and patients with AR storytelling. ARx was invented to improve health literacy in the USA and around the world.</p>
                      </div>
                   </div>
                   <br>
                   <div class="row">
                   <div class="col">
-                  <p style="color: #555; font-size: 16px; margin-top: 115px;">Immediately inform of instructions, warnings, side effects, and consequences of inaction. Provide valuable back-end data on patient, kid or adult activity for caregivers, healthcare professionals and parents.</p>
+                  <p style="color: #555; font-size: 19px; margin-top: 115px;">Immediately inform of instructions, warnings, side effects, and consequences of inaction. Provide valuable back-end data on patient, kid or adult activity for caregivers, healthcare professionals and parents.</p>
                   </div>
                   <div class="col">
                   <center><iframe style="width: 100%; height: 307px;" src="https://www.youtube.com/embed/UMOY6Me252A?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -109,11 +109,11 @@ require('../public/layout/navbar.php');
                   </div>
                   <div id=mobile-content>
             <center><iframe style=height:250px;width:95% src="https://www.youtube.com/embed/XT14YSgTO6w?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-            <center>                     <p style="color: #555; font-size: 16px; margin-top: 20px;">ARx is a digital platform that deploys Applications to improve health literacy for kids, caregivers, families, and patients with AR storytelling. ARx was invented to improve health literacy in the USA and around the world.</p>
+            <center>                     <p style="color: #555; font-size: 19px; margin-top: 20px;">ARx is a digital platform that deploys Applications to improve health literacy for kids, caregivers, families, and patients with AR storytelling. ARx was invented to improve health literacy in the USA and around the world.</p>
 </center>
             <br>
             <center><iframe style="height:250px;width:95%" src="https://www.youtube.com/embed/UMOY6Me252A?rel=0" frameborder=0 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-               <center>                  <p style="color: #555; font-size: 16px; margin-top: 20px;">Immediately inform of instructions, warnings, side effects, and consequences of inaction. Provide valuable back-end data on patient, kid or adult activity for caregivers, healthcare professionals and parents.</p>
+               <center>                  <p style="color: #555; font-size: 19px; margin-top: 20px;">Immediately inform of instructions, warnings, side effects, and consequences of inaction. Provide valuable back-end data on patient, kid or adult activity for caregivers, healthcare professionals and parents.</p>
 </center>
                </div>
                </div>
@@ -154,7 +154,7 @@ require('../public/layout/navbar.php');
       <img src="https://img.icons8.com/pastel-glyph/64/2f94f9/protection-mask--v3.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Surgery Preparation</h3>
-      <p style="color: #555; font-size: 16px; width: 85%;">Ensure patients are fully prepared for surgery with step by step audio/visual instructions from an animated 3D avatar.</p>
+      <p style="color: #555; font-size: 16px; width: 85%;">Ensure patients are fully prepared for surgery with step-by-step audio/visual instructions from an animated 3D avatar.</p>
     </div></center>
     <div class="feature col-md-4">
     <center><div class="feature-icon">
@@ -203,7 +203,7 @@ require('../public/layout/navbar.php');
       <img src="https://img.icons8.com/pastel-glyph/64/2f94f9/protection-mask--v3.png"/>
       </div>
       <h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;"> Surgery Preparation</h3>
-      <p style="color: #555; font-size: 16px; width: 85%;">Ensure patients are fully prepared for surgery with step by step audio/visual instructions from an animated 3D avatar.</p>
+      <p style="color: #555; font-size: 16px; width: 85%;">Ensure patients are fully prepared for surgery with step-by-step audio/visual instructions from an animated 3D avatar.</p>
     </div>
     <div class="feature col-md-4">
       <div class="feature-icon">
