@@ -183,6 +183,7 @@ function growShrinkLogo() {
     }
 </style>
 
+
 <?php
 require('./public/layout/navbar.php');
 ?>

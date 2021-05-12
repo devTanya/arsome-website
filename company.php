@@ -562,20 +562,22 @@ require('./public/layout/navbar.php');
                    <div class="row">
                    <div class="col">
                      
-                       <img src="/images/anastasia.png" class="img__img">
-                       
+                   <img src="/images/kevin-dooley.png" class="img__img">
                       
-                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Anastasia Gleyzer</h3></center>
-                       <center><p style="color: #555; font-size: 16px;">UI/UX Designer</p></center>
+                       
+                      <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Kevin Dooley</h3></center>
+                      <center><p style="color: #555; font-size: 16px;">Business Development</p></center>
+
                        
                    </div>
                    <div class="col">
                       
-                       <img src="/images/kevin-dooley.png" class="img__img">
-                      
+                   <!-- <img src="/images/anastasia.png" class="img__img">
                        
-                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Kevin Dooley</h3></center>
-                       <center><p style="color: #555; font-size: 16px;">Business Development</p></center>
+                      
+                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Anastasia Gleyzer</h3></center>
+                       <center><p style="color: #555; font-size: 16px;">UI/UX Designer</p></center> -->
+                       
                        
                    </div>
                    
@@ -584,7 +586,7 @@ require('./public/layout/navbar.php');
                    
                </div>
                <br>
-               <div class="row">
+               <!-- <div class="row">
                <div class="col">
                      
                        <img src="/images/andrew-new.png" class="img__img">
@@ -603,7 +605,7 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Front-End Developer</p></center>
                        
                    </div>
-               </div>
+               </div> -->
                </div>
             </div>
          </section>
