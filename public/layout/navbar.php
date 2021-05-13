@@ -104,19 +104,37 @@ function growShrinkLogo() {
         font-size: 18px;
     }
 </style>
-
 <div id="desktop-content">
-<div class="navbar-container sticky-top" style="background-color: #fff; z-index: 9999; position: fixed; width: 100%; border-bottom: 0px; padding-bottom: 0px; box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.1);">
-<!-- <div class="alert alert-dismissible" role="alert" style="background-color: #2f94f9; border: solid 1px #2f94f9; font-weight: 500; color: white; border-radius: 0px; padding-top: 15px; padding-bottom: 15px; font-size: 16px;">
+<div class="alert alert-dismissible" role="alert" style="background-color: #2f94f9; z-index: 9999; border: solid 1px #2f94f9; font-weight: 500; color: white; border-radius: 0px; padding-top: 15px; padding-bottom: 15px; font-size: 16px;">
 <span class="flex p-2" style="background-color: white; border-radius: 10px;">
           <svg class="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="#2f94f9" aria-hidden="true" style="height: 30px; width: 30px;">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5.882V19.24a1.76 1.76 0 01-3.417.592l-2.147-6.15M18 13a3 3 0 100-6M5.436 13.683A4.001 4.001 0 017 6h1.832c4.1 0 7.625-1.234 9.168-3v14c-1.543-1.766-5.067-3-9.168-3H7a3.988 3.988 0 01-1.564-.317z" />
           </svg>
         </span>
         &nbsp;&nbsp;
-  Big news! We just launched <a href="#" style="color: white; font-weight: 700; text-decoration: underline; text-decoration-color: white; text-decoration-thickness: 1px; text-decoration-skip-ink: none;">Animal Heroes</a> in collaboration with Mystic Aquarium!
-</div> -->
-    <div class="main-container navbar-container" style="background-color: #fff; border: 0px;  margin-top: -10px;">
+  Big news! We just launched <a href="https://mysticanimalheroes.org/about/" target="_blank" style="color: white; font-weight: 700; text-decoration: underline; text-decoration-color: white; text-decoration-thickness: 1px; text-decoration-skip-ink: none;">Animal Heroes</a> in collaboration with Mystic Aquarium!
+</div>
+</div>
+
+<div id="mobile-content">
+<div class="alert alert-dismissible" role="alert" style="background-color: #2f94f9; z-index: 9999; border: solid 1px #2f94f9; font-weight: 500; color: white; border-radius: 0px; padding-top: 15px; padding-bottom: 15px; font-size: 16px;">
+<center><span class="flex p-2" style="background-color: white; border-radius: 10px;">
+         <svg class="h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="#2f94f9" aria-hidden="true" style="height: 30px; width: 30px;">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5.882V19.24a1.76 1.76 0 01-3.417.592l-2.147-6.15M18 13a3 3 0 100-6M5.436 13.683A4.001 4.001 0 017 6h1.832c4.1 0 7.625-1.234 9.168-3v14c-1.543-1.766-5.067-3-9.168-3H7a3.988 3.988 0 01-1.564-.317z" />
+          </svg>
+
+        </span>
+        </center>
+        <center style="margin-top: 10px;">
+  Big news! We just launched <a href="https://mysticanimalheroes.org/about/" target="_blank" style="color: white; font-weight: 700; text-decoration: underline; text-decoration-color: white; text-decoration-thickness: 1px; text-decoration-skip-ink: none;">Animal Heroes</a> in collaboration with Mystic Aquarium!
+  </center>
+</div>
+</div>
+<div id="desktop-content" style="z-index: 9999; position: relative;">
+
+<div class="navbar-container" style="background-color: #fff; z-index: 9999; width: 100%; border-bottom: 0px; padding-bottom: 5px; box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.1);">
+
+    <div class="main-container navbar-container" style="background-color: #fff; border: 0px;  margin-top: -20px;">
        <div data-collapse="medium" data-animation="default" data-duration="400" role="banner" class="navbar w-nav" style="background-color: #fff; margin-top: 0px; border: 0px;">
           <div class="navbar-row" style="border: 0px; height: 35px;">
              <a href="#" class="mobile-brand w-nav-brand" style="margin-top: 5px;"><img src="../images/tab-color.png" alt="" height="40"/></a>
@@ -248,7 +266,7 @@ function growShrinkLogo() {
  </div>
  
  <div id="mobile-content">
-<div class="navbar-container sticky-navbar" style="background-color: #fff; position: fixed; z-index: 9999; width: 100%;">
+<div class="navbar-container sticky-navbar" style="background-color: #fff; z-index: 9999; width: 100%;">
     <div class="main-container navbar-container" style="background-color: #fff; ">
        <div data-collapse="medium" data-animation="default" data-duration="400" role="banner" class="navbar w-nav" style="background-color: #fff; ">
           <div class="navbar-row">
@@ -370,6 +388,3 @@ function growShrinkLogo() {
  </div>
  </div>
  
- <div id="desktop-content">
-     <br><br><br>
-</div>
