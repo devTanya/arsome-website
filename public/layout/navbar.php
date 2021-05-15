@@ -112,7 +112,7 @@ function growShrinkLogo() {
           </svg>
         </span>
         &nbsp;&nbsp;
-  Big news! We just launched <a href="https://mysticanimalheroes.org/about/" target="_blank" style="color: white; font-weight: 700; text-decoration: underline; text-decoration-color: white; text-decoration-thickness: 1px; text-decoration-skip-ink: none;">Animal Heroes</a> in collaboration with Mystic Aquarium!
+  Big news! We just launched <a href="https://mysticanimalheroes.org/about/" target="_blank" style="color: white; font-weight: 700; text-decoration: underline; text-decoration-color: white; text-decoration-thickness: 1px; text-decoration-skip-ink: none;">Animal Heroes</a> in partnership with Mystic Aquarium!
 </div>
 </div>
 
@@ -126,7 +126,7 @@ function growShrinkLogo() {
         </span>
         </center>
         <center style="margin-top: 10px;">
-  Big news! We just launched <a href="https://mysticanimalheroes.org/about/" target="_blank" style="color: white; font-weight: 700; text-decoration: underline; text-decoration-color: white; text-decoration-thickness: 1px; text-decoration-skip-ink: none;">Animal Heroes</a> in collaboration with Mystic Aquarium!
+  Big news! We just launched <a href="https://mysticanimalheroes.org/about/" target="_blank" style="color: white; font-weight: 700; text-decoration: underline; text-decoration-color: white; text-decoration-thickness: 1px; text-decoration-skip-ink: none;">Animal Heroes</a> in partnership with Mystic Aquarium!
   </center>
 </div>
 </div>
