@@ -296,6 +296,25 @@ require('./public/layout/navbar.php');
 
                    <div class="col">
                        <div class="img__wrap">
+                       <img src="/images/mark.png" class="img__img">
+                       <p class="img__description" style="font-size: 14px;">Mark E. Ojakian served as President of the Connecticut State Colleges and Universities system in September 2015 until January 2021. He was chief executive for an organization responsible for 17 institutions of higher education, a $1.3 billion operating budget, 9,000 employees and over 100,000 students. Ninety six percent (96%) of the CSCU students are Connecticut residents. President Ojakian was also appointed by Governor Ned Lamont to lead Connecticut’s effort to reopen all public and independent institutions of higher education in the state during the COVID-19 pandemic and to serve on the Governor’s Workforce Council. Prior to his current appointment, he served as Chief of Staff to Governor Dannel P. Malloy for four years. He lives with his husband Jason Veretto in West Hartford. He has two children and four grandchildren.
+
+                       </p>
+                       </div>
+                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Mark E. Ojakian</h3></center>
+                       <center><p style="color: #555; font-size: 16px;">Senior Advisor</p></center>
+                       
+                   </div>
+
+                  
+                   
+               </div>
+               
+               <br>
+               
+               <div class="row">
+               <div class="col">
+                       <div class="img__wrap">
                        <img src="/images/jason.png" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Jason brings more than twenty years of experience in education to ARSOME. As a classroom teacher, reading specialist and school leader, Jason has worked at schools in five cities, in three countries, and on two continents. Jason earned a BA in History from The George Washington University before graduating from Harvard University with an Ed.M. in Language and Literacy and an MBA from UCLA in Entrepreneurialism. When he is not working, you will find him scrambling to provide a human safety net for his two toddlers as they launch themselves from various heights.<br>
                        <br>
@@ -306,12 +325,6 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Director of Education</p></center>
                        
                    </div>
-                   
-               </div>
-               
-               <br>
-               
-               <div class="row">
                <div class="col">
                        <div class="img__wrap">
                        <img src="https://lh3.googleusercontent.com/pw/ACtC-3fpcC2UvX1QQJ8ytPdqJIyV0jqZNKvvay47LFO5o5E-uj-CEn4xHdLWWVmJf0ZsOB1v_QPU2UiY6ilWhV7aDkusMeP7-n6dG-WmUbC9B4uaRnRj9oobmBgReiAudqQ3MgnDB2H0DhaLR1qrI5wNqoKc=w801-h803-no?authuser=0" class="img__img">
@@ -339,7 +352,13 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Director of Coms and Media</p></center>
                        
                    </div>
-                   <div class="col">
+
+                   
+               </div>
+<br>
+               <div class="row">
+
+               <div class="col">
                        <div class="img__wrap">
                        <img src="/images/kai.jpg" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Kai-Hung Wang is an avid video game enthusiast with a passion for helping people. He earned his B.S. degree in Game and Interactive Media Design from Lunghwa University of Science and Technology in Taiwan. He also earned a M.S. degree in Digital Communication and Media/Multimedia from Northeastern University. His exptertise is in immersive technology and a beast unity developer. When not developing and designing, Kai keeps tabs on the Red Sox, Patriots, and Celtics.<br>
@@ -354,10 +373,6 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Immersive Developer</p></center>
                        
                    </div>
-                   
-               </div>
-<br>
-               <div class="row">
                <div class="col">
                        <div class="img__wrap">
                        <img src="https://lh3.googleusercontent.com/pw/ACtC-3egAsDedOtTBUCEQ94ja9TsaoqtLgIPTug3RXf4HHOzqx9j0ACI7ETDYL9NKgSJs1prt9MT9f7WcaRkh_I_Tc5qXZYTkoInnCDfCjnIsKvbwAw9Rr8T__3T1ndeXKo9ZxZI15RT56bHseQusgYaKuqc=w805-h803-no?authuser=0" class="img__img">
@@ -386,7 +401,12 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Software Developer</p></center>
                        
                    </div>
-                   <div class="col">
+                 
+                   
+               </div>
+               <br>
+               <div class="row">
+               <div class="col">
                        <div class="img__wrap">
                        <img src="/images/anastasia.png" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Anastasia was born in Saint Petersburg, Russia where she got her Bachelor in International Relations. She built her own computer when she was 13 years old and learned HTML just at the same age. She has over 5 years of experience in UX/UI Design and earned Certificates in Graphic & Digital Design in Parsons School of Design, QA Software Testing in Portnov Computer School and Web Development at Udemy. She was the winner of the “Grow” group show in ArtHouse NYC in 2017. Ana has visited over 20 different countries around the world. In her free time she likes to volunteer and help others.<br>
@@ -402,10 +422,6 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">UI/UX Designer</p></center>
                        
                    </div>
-                   
-               </div>
-               <br>
-               <div class="row">
                <div class="col">
                        <div class="img__wrap">
                        <img src="/images/kevin-dooley.png" class="img__img">
@@ -436,7 +452,11 @@ require('./public/layout/navbar.php');
                        
 
                    </div>
-                   <div class="col">
+ 
+               </div>
+               <br>
+               <div class="row">
+               <div class="col">
                    <div class="img__wrap">
                        <img src="/images/lucas.png" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Lucas is a front-end developer specializing in frameworks like React and TailwindCSS. He designs and develops websites for ARSOME and their partners. He's also an entrepreneur at heart and the Managing Partner of Elm City Associates, an organization introduced to bring innovation to the city of New Haven. When Lucas isn’t building websites, he’s watching hockey or spending time in Downtown New Haven!<br>
@@ -452,7 +472,10 @@ require('./public/layout/navbar.php');
                        
 
                    </div>
-               </div>
+                   <div class="col">
+                   </div>
+                   <div class="col">
+                   </div>
             </div>
          </section>
          </div>
@@ -495,7 +518,16 @@ require('./public/layout/navbar.php');
                
                <div class="row">
 
+
                <div class="col">
+                      
+                       <img src="/images/mark.png" class="img__img">
+                       
+                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Mark E. Ojakian</h3></center>
+                       <center><p style="color: #555; font-size: 16px;">Senior Advisor</p></center>
+                       
+                   </div>
+                   <div class="col">
                       
                        <img src="/images/jason.png" class="img__img">
                      
@@ -505,6 +537,11 @@ require('./public/layout/navbar.php');
                        
                    </div>
                    
+                   
+                   
+                   </div>
+                   <br>
+                   <div class="row">
                    <div class="col">
                       
                        <img src="https://lh3.googleusercontent.com/pw/ACtC-3fpcC2UvX1QQJ8ytPdqJIyV0jqZNKvvay47LFO5o5E-uj-CEn4xHdLWWVmJf0ZsOB1v_QPU2UiY6ilWhV7aDkusMeP7-n6dG-WmUbC9B4uaRnRj9oobmBgReiAudqQ3MgnDB2H0DhaLR1qrI5wNqoKc=w801-h803-no?authuser=0" class="img__img">
@@ -514,10 +551,6 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Director</p></center>
                        
                    </div>
-                   
-                   </div>
-                   <br>
-                   <div class="row">
                    <div class="col">
                        
                        <img src="./images/yvonne.png" class="img__img">
@@ -527,27 +560,12 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Director of Coms and Media</p></center>
                        
                    </div>
-                   <div class="col">
-                      
-                       <img src="/images/kai.jpg" class="img__img">
-                     
-                      
-                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Kai Hung-Wang</h3></center>
-                       <center><p style="color: #555; font-size: 16px;">Immersive Developer</p></center>
-                       
-                   </div>
+                  
                    
                </div>
 <br>
                <div class="row">
-               <div class="col">
-                      
-                       <img src="https://lh3.googleusercontent.com/pw/ACtC-3egAsDedOtTBUCEQ94ja9TsaoqtLgIPTug3RXf4HHOzqx9j0ACI7ETDYL9NKgSJs1prt9MT9f7WcaRkh_I_Tc5qXZYTkoInnCDfCjnIsKvbwAw9Rr8T__3T1ndeXKo9ZxZI15RT56bHseQusgYaKuqc=w805-h803-no?authuser=0" class="img__img">
-                     
-                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Dana Richards</h3></center>
-                       <center><p style="color: #555; font-size: 16px;">Application Developer</p></center>
-                       
-                   </div>
+
                    <div class="col">
                        <img src="./images/dave.png" class="img__img" style="width: 100%;">
                      
@@ -556,6 +574,15 @@ require('./public/layout/navbar.php');
                        <center><p style="color: #555; font-size: 16px;">Software Developer</p></center>
                        
                    </div>
+                   <div class="col">
+                      
+                      <img src="/images/kai.jpg" class="img__img">
+                    
+                     
+                      <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Kai Hung-Wang</h3></center>
+                      <center><p style="color: #555; font-size: 16px;">Immersive Developer</p></center>
+                      
+                  </div>
                    
                    </div>
                    <br>
@@ -572,14 +599,12 @@ require('./public/layout/navbar.php');
                    </div>
                    <div class="col">
                       
-                   <!-- <img src="/images/anastasia.png" class="img__img">
-                       
+                      <img src="https://lh3.googleusercontent.com/pw/ACtC-3egAsDedOtTBUCEQ94ja9TsaoqtLgIPTug3RXf4HHOzqx9j0ACI7ETDYL9NKgSJs1prt9MT9f7WcaRkh_I_Tc5qXZYTkoInnCDfCjnIsKvbwAw9Rr8T__3T1ndeXKo9ZxZI15RT56bHseQusgYaKuqc=w805-h803-no?authuser=0" class="img__img">
+                    
+                      <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Dana Richards</h3></center>
+                      <center><p style="color: #555; font-size: 16px;">Application Developer</p></center>
                       
-                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Anastasia Gleyzer</h3></center>
-                       <center><p style="color: #555; font-size: 16px;">UI/UX Designer</p></center> -->
-                       
-                       
-                   </div>
+                  </div>
                    
                     
 
