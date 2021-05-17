@@ -226,10 +226,30 @@ require('./public/layout/navbar.php');
 <!--       </div>-->
 <!--   </div>-->
 <!--</section>-->
+<div class="container col-xxl-8 px-4 py-5" style="margin-top: -0px;">
+  <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+    <div class="col-10 col-sm-8 col-lg-6">
+     <h3 style=" text-decoration: underline; text-decoration-color: #7ebbf7;"  id="deployment"><b>Spotty Dog Rescue</b></h3>
+     <h5 style="color: #333;">Waterbury, CT</h5>
+                 <p class="lead" style=" color: #555; font-size: 16px; width: 95%;">Collecting and cashing in cans is just one of the innovative ways Spotty Dog Rescue, in Connecticut, gain funds to further propel their mission of providing safe harbor, medical care and love for adoptable dogs that have been abused, abandoned, and neglected until they are placed into loving, responsible permanent homes. ARSOME’s CEO, Benjamin, is especially proud to assist in their annual can drive, but also continues to be a foster doggy dad.
 
 
 
-   <div class="container col-xxl-8 px-4 py-5" style="margin-top: 0px;">
+
+                 </p>
+                   
+            <br>
+              
+    </div>
+    <div class="col-lg-6">
+        <img src="/images/cans.jpeg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
+      
+      </div>
+    </div>
+  </div>
+</div>
+
+   <div class="container col-xxl-8 px-4 py-5" style="margin-top: -100px;">
   <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
     <div class="col-10 col-sm-8 col-lg-6">
               <img src="/images/kids.jpg" class="d-block mx-lg-auto img-fluid rounded" width="500" height="500" loading="lazy">
