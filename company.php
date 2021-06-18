@@ -375,7 +375,7 @@ require('./public/layout/navbar.php');
                    </div>
                <div class="col">
                        <div class="img__wrap">
-                       <img src="https://lh3.googleusercontent.com/pw/ACtC-3egAsDedOtTBUCEQ94ja9TsaoqtLgIPTug3RXf4HHOzqx9j0ACI7ETDYL9NKgSJs1prt9MT9f7WcaRkh_I_Tc5qXZYTkoInnCDfCjnIsKvbwAw9Rr8T__3T1ndeXKo9ZxZI15RT56bHseQusgYaKuqc=w805-h803-no?authuser=0" class="img__img">
+                       <img src="https://arsome.nyc3.cdn.digitaloceanspaces.com/team/dana.jpg" class="img__img">
                        <p class="img__description" style="font-size: 16px;">Dana is an IT professional and application developer with 5+ years of experience. He is pursuing a degree in Computer Engineering Technology and a strong passion for programming. With his knowledge of several programming languages and creative mindset, Dana is a vital part of the team. When he isn’t crackin’ jokes at work, he develops mobile applications to solve global challenges. His ability to develop and design cross-functional platforms is essential to the growth of the company.<br>
                        <br>
                        <a href="https://linkedin.com/in/dana-richards-1b680314a" target="_blank" style="margin-top: 20px;"><img src="https://img.icons8.com/android/24/ffffff/linkedin.png"/></a>
