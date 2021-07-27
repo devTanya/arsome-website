@@ -599,7 +599,7 @@ require('./public/layout/navbar.php');
                    </div>
                    <div class="col">
                       
-                      <img src="https://lh3.googleusercontent.com/pw/ACtC-3egAsDedOtTBUCEQ94ja9TsaoqtLgIPTug3RXf4HHOzqx9j0ACI7ETDYL9NKgSJs1prt9MT9f7WcaRkh_I_Tc5qXZYTkoInnCDfCjnIsKvbwAw9Rr8T__3T1ndeXKo9ZxZI15RT56bHseQusgYaKuqc=w805-h803-no?authuser=0" class="img__img">
+                      <img src="https://arsome.nyc3.cdn.digitaloceanspaces.com/team/dana.jpg" class="img__img">
                     
                       <center><h3 style="text-decoration: underline; text-decoration-color: #7ebbf7;">Dana Richards</h3></center>
                       <center><p style="color: #555; font-size: 16px;">Application Developer</p></center>
