@@ -62,15 +62,15 @@ require('./public/layout/navbar.php');
          <div class="container">
             <div class="row">
                <div class="col layer-1">
-                  <a href="/blogs/ar-in-post-covid-world" class="card card-article-wide flex-md-row no-gutters hover-shadow-3d">
-                     <div class="col-md-5 col-lg-6"> <img src="https://arsome.nyc3.cdn.digitaloceanspaces.com/animal-heroes.png" alt="Image" class="card-img-top"> </div>
+                  <a href="/blogs/nfts+ar" class="card card-article-wide flex-md-row no-gutters hover-shadow-3d">
+                     <div class="col-md-5 col-lg-6"> <img src="https://arsome.nyc3.cdn.digitaloceanspaces.com/nft3.png" alt="Image" class="card-img-top"> </div>
                      <div class="card-body d-flex flex-column justify-content-between col-auto p-4 p-lg-5">
                         <div>
-                           <div class="h3" style="color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Augmented and Virtual Reality in a Post-Covid World</b></div>
-                           <div style="color: #555; font-size: 16px;" class="p">The Covid-19 crisis opened many peoples’ eyes to the possibilities of augmented and virtual reality technology, which provided them with new possibilities for remote entertainment, remote learning, and remote work, and helped them through an historically difficult period.</div>
+                           <div class="h3" style="color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>NFTs + AR</b></div>
+                           <div style="color: #555; font-size: 16px;" class="p">If you’ve been following the news over the last few months, you may have come across some eye-popping figures. A digital message from the founder of Twitter selling for  $2.9 million. A piece by a relatively unknown...</div>
                         </div>
                         <span class="btn-pri-link">Read Article →</span>
-                        <span style="font-weight:bold;"> 06-16-2021</span>
+                        <span style="font-weight:bold;"> 07-27-2021</span>
                      </div>
                   </a>
                </div>
@@ -86,7 +86,23 @@ require('./public/layout/navbar.php');
 
             <div class="col-md-6 col-lg-4">
                <div class="card">
-                  <a href="/blogs/3-Ways-Museums-Can-Benefit-From-AR-Usage"> <img src="/images/blog/pokemon-go.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                  <a href="/blogs/ar-in-post-covid-world"><img src="https://arsome.nyc3.cdn.digitaloceanspaces.com/animal-heroes.png" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                  <div class="card-body align-items-start">
+                     <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Augmented and Virtual Reality in a Post-Covid World</b></h3>
+                     <p style="color: #555; font-size: 16px;">The Covid-19 crisis opened many peoples’ eyes to the possibilities of augmented and virtual reality technology, which provided them...</p>
+   
+                     <br> 
+                     <span style="font-weight:bold;"> 06-16-2021</span>                        <br><br>
+                     <a href="/blogs/ar-in-post-covid-world">
+                        <span class="btn-pri-link">Read Article →</span>
+                     </a> 
+                  </div>
+               </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+               <div class="card">
+                  <a href="/blogs/augmented-reality-in-the-great-outdoors"> <img src="/images/blog/pokemon-go.jpeg" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                   <div class="card-body align-items-start">
                      <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Augmented Reality in the Great Outdoors</b></h3>
                      <p style="color: #555; font-size: 16px;">In the summer of 2016, it might have seemed as though you couldn’t walk down a city street or relax in a public park without...</p>
