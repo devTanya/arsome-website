@@ -86,7 +86,7 @@ require('./public/layout/navbar.php');
 
             <div class="col-md-6 col-lg-4">
                <div class="card">
-                  <a href="/blogs/ar-in-post-covid-world"><img src="https://arsome.nyc3.cdn.digitaloceanspaces.com/animal-heroes.png" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                  <a href="/blogs/ar-in-post-covid-world"><img src="https://arsome.nyc3.cdn.digitaloceanspaces.com/animal-heroes-sm.png" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
                   <div class="card-body align-items-start">
                      <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>Augmented and Virtual Reality in a Post-Covid World</b></h3>
                      <p style="color: #555; font-size: 16px;">The Covid-19 crisis opened many peoples’ eyes to the possibilities of augmented and virtual reality technology, which provided them...</p>
