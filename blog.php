@@ -62,15 +62,15 @@ require('./public/layout/navbar.php');
          <div class="container">
             <div class="row">
                <div class="col layer-1">
-                  <a href="/blogs/nfts+ar" class="card card-article-wide flex-md-row no-gutters hover-shadow-3d">
-                     <div class="col-md-5 col-lg-6"> <img src="https://arsome.nyc3.cdn.digitaloceanspaces.com/nft3.png" alt="Image" class="card-img-top"> </div>
+                  <a href="/blogs/a-more-immersive-way-to-visualize-data" class="card card-article-wide flex-md-row no-gutters hover-shadow-3d">
+                     <div class="col-md-5 col-lg-6"> <img src="https://arsome.nyc3.cdn.digitaloceanspaces.com/ar-data-desk.png" alt="Image" class="card-img-top"> </div>
                      <div class="card-body d-flex flex-column justify-content-between col-auto p-4 p-lg-5">
                         <div>
-                           <div class="h3" style="color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>NFTs + AR</b></div>
-                           <div style="color: #555; font-size: 16px;" class="p">If you’ve been following the news over the last few months, you may have come across some eye-popping figures. A digital message from the founder of Twitter selling for  $2.9 million. A piece by a relatively unknown...</div>
+                           <div class="h3" style="color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>A More Immersive Way to Visualize Data</b></div>
+                           <div style="color: #555; font-size: 16px;" class="p">Remember carefully plotting out points on a piece of graph paper in middle school? You were making it easier to interpret your data by visualizing it. Data visualization, as the name implies...</div>
                         </div>
                         <span class="btn-pri-link">Read Article →</span>
-                        <span style="font-weight:bold;"> 07-27-2021</span>
+                        <span style="font-weight:bold;"> 08-23-2021</span>
                      </div>
                   </a>
                </div>
@@ -83,6 +83,22 @@ require('./public/layout/navbar.php');
       <section class="pt-5">
          <div class="container">
             <div class="row">
+
+            <div class="col-md-6 col-lg-4">
+               <div class="card">
+                  <a href="/blogs/nfts+ar"><img src="https://arsome.nyc3.cdn.digitaloceanspaces.com/nft3.png" style="height: 30vh;" alt="Image" class="card-img-top"> </a> 
+                  <div class="card-body align-items-start">
+                     <h3 style="font-weight: bold; color: black; text-decoration: underline; text-decoration-color: #7ebbf7;"><b>NFTs + AR</b></h3>
+                     <p style="color: #555; font-size: 16px;">If you’ve been following the news over the last few months, you may have come across some eye-popping figures. A digital message from the founder of...</p>
+   
+                     <br> 
+                     <span style="font-weight:bold;"> 07-17-2021</span>                        <br><br>
+                     <a href="/blogs/nfts+ar">
+                        <span class="btn-pri-link">Read Article →</span>
+                     </a> 
+                  </div>
+               </div>
+            </div>
 
             <div class="col-md-6 col-lg-4">
                <div class="card">
