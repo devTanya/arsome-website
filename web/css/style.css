@@ -211,8 +211,12 @@ div#preloader {
 }
 
 .color {
-	color: #383231;
+	color: #2f94f9;
 	font-weight: 700;
+}
+
+.lms .well-icon {    
+    background: #fff;    
 }
 
 .browserupgrade {
@@ -235,7 +239,7 @@ div#preloader {
 }
 
 .section-headline {
-	margin-bottom: 60px;
+	margin-bottom: 50px;
 	position: relative;
 }
 
@@ -257,7 +261,7 @@ div#preloader {
 
 .section-headline::after {
 	border: 1px solid #2f94f9;
-	bottom: -27px;
+	bottom: -15px;
 	content: "";
 	left: 0;
 	margin: 0 auto;
@@ -340,6 +344,17 @@ div#preloader {
 	width: 100%;
 	height: 100%;
 	/*! background: #002c57; */
+	opacity: .8;
+	content: "";
+}
+
+.lms-bg:before {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: #002c57;
 	opacity: .8;
 	content: "";
 }
@@ -1041,6 +1056,7 @@ div#preloader {
 	padding: 30px 20px;
 	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
 	position: relative;
+	height: 800px;
 }
 
 .well-services::after {
@@ -1083,6 +1099,7 @@ div#preloader {
 .well-icon {
 	margin-bottom: 20px;
 	display: block;
+	background: #2f96e520;
 }
 
 .well-icon a {
@@ -1789,7 +1806,7 @@ font-size: 16px!important;
 	position: relative;
 	top: -40px;
 	background: #2f94f9;
-	width: 60px;
+	width: 85px;
 	padding: 7px 10px;
 	left: 15px;
 	text-align: center;
@@ -1815,12 +1832,12 @@ font-size: 16px!important;
 }
 
 .single-blog {
-	margin-top: 30px;
+	margin-top: 0px;
 	position: relative;
 	overflow: hidden;
 	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
 	padding: 5px;
-	height: 330px;
+	height: 350px;
 }
 
 .blog-grid-fast {
@@ -1874,9 +1891,11 @@ font-size: 16px!important;
 /*----------------------------------------*/
 
 .contact-quote-area {
-	background: rgba(0, 0, 0, 0) url(img/background/bg1.jpg) no-repeat scroll bottom center / cover;
+	background: rgba(0, 0, 0, 0) url(../img/background/bg1.jpg) no-repeat scroll bottom center / cover;
 }
-
+::placeholder{
+	color:white!important
+}
 .quote-details {
 	padding: 12% 17%;
 	display: block;
@@ -2007,7 +2026,7 @@ font-size: 16px!important;
 }
 
 .faq-details a span.acc-icons::before {
-	color: #666;
+	color: white;
 	content: "\e874 ";
 	font-family: tionscal;
 	font-size: 16px;
@@ -2019,7 +2038,7 @@ font-size: 16px!important;
 }
 
 .faq-details a.active span.acc-icons::before {
-	color: #2f94f9;
+	color: white;
 	content: "\e873";
 	font-family: tionscal;
 	font-size: 16px;
@@ -2031,8 +2050,8 @@ font-size: 16px!important;
 }
 
 .faq-details .panel-heading h4 a.active {
-	color: #2f94f9;
-	background: #f9f9f9;
+	color: white;
+	background: #2f94f9;
 }
 
 
@@ -2402,7 +2421,7 @@ font-size: 16px!important;
 
 .view-images {
 	float: left;
-	font-size: 50px;
+	font-size: 45px;
 	line-height: 50px;
 	text-align: center;
 	color: #2f94f9;
@@ -2418,9 +2437,9 @@ font-size: 16px!important;
 
 .view-content h4 {
 	text-transform: capitalize;
-	font-size: 20px;
-	margin-bottom: 10px;
-	font-weight: 600;
+	font-size: 17px;
+	margin-bottom: 20px;
+	font-weight: bold;
 }
 
 .client-details {
@@ -5632,6 +5651,10 @@ a.text-dark:hover {
 	margin-top: -10px;
 }
 
+.lms .well-inner .well-services {
+    height: 275px;
+}
+
 @media only screen and (max-width: 767px) {
 	.area-padding {
 		padding: 30px 0px;
@@ -5644,7 +5667,10 @@ a.text-dark:hover {
 	}
 }
 
-
+.image-scale img{
+	height: 150px;
+	width: 100%;
+}
 /*--------------------------------*/
 
 
