@@ -495,7 +495,7 @@ div#preloader {
 }
 
 .logo-bg {
-	background: ;
+	/* background: ; */
 	z-index: 10;
 }
 
@@ -1306,7 +1306,7 @@ div#preloader {
 	height: 100%;
 	background: rgba(0, 0, 0, 0.80) none repeat scroll 0 0;
 	z-index: 1;
-	opacity: 1;
+	opacity:0.5;
 	transition: 0.4s;
 }
 
@@ -1391,8 +1391,7 @@ div#preloader {
 	font-size: 18px;
 	margin-top: -20px;
 	position: absolute;
-	top: 50%;
-	;
+	top: 50%;;
 	text-align: center;
 	line-height: 39px;
 	opacity: 0;
@@ -1417,7 +1416,7 @@ div#preloader {
 	-ms-transition: 0.4s;
 }
 
-.services-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-next {
+.services-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next {
 	right: 1%;
 	-webkit-transition: 0.4s;
 	-moz-transition: 0.4s;
@@ -1426,7 +1425,7 @@ div#preloader {
 	opacity: 1;
 }
 
-.services-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-prev {
+.services-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev {
 	left: 1%;
 	-webkit-transition: 0.4s;
 	-moz-transition: 0.4s;
@@ -1435,12 +1434,22 @@ div#preloader {
 	opacity: 1;
 }
 
-.services-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-next:hover,
-.services-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-prev:hover {
-	color: #fff;
-	background: #2f94f9;
+.services-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next,
+.services-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev {
+	color: #000;
+	background:#2f94f9;
 	border: 1px solid #2f94f9;
 }
+.services-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev{
+	margin-left: -51px;
+    position: absolute;
+}
+.services-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next{
+	position: absolute;
+    margin-right: -41px;
+}
+
+
 
 
 /*----------------------------------------*/
@@ -1835,9 +1844,20 @@ font-size: 16px!important;
 	margin-top: 0px;
 	position: relative;
 	overflow: hidden;
-	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+	/* box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px; */
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
 	padding: 5px;
-	height: 350px;
+	height:450px;
+}
+
+.ar-blog{
+	margin-top: 0px;
+	position: relative;
+	overflow: hidden;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+	/* box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px; */
+	padding: 5px;
+	height:380px;	
 }
 
 .blog-grid-fast {
@@ -5667,10 +5687,29 @@ a.text-dark:hover {
 	}
 }
 
-.image-scale img{
-	height: 150px;
+.image-scaler img{
+	height: 180px;
 	width: 100%;
 }
+.image-scale img{
+	height: 230px;
+	width: 100%;
+}
+
+
+/*----------------------------------------*/
+/*  4. Wellcome Services Area
+/*----------------------------------------*/
+
+.title-area{
+	margin-top: 8rem;
+}
+
+
+
+
+
+
 /*--------------------------------*/
 
 

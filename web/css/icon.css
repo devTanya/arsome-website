@@ -377,9 +377,11 @@
 }
 .icon-chevron-left:before {
 	content: "\e875";
+	/* color: #000; */
 }
 .icon-chevron-right:before {
 	content: "\e876";
+	/* color: #000; */
 }
 .icon-arrow-up:before {
 	content: "\e877";
