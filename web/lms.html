@@ -95,7 +95,7 @@
                                  <ul class="sub-menu">
                                     <li><a href="team.html">Meet the Team</a></li>
                                     <li><a href="community.html">Community</a></li>
-                                    <li><a href="press.html">Press</a></li>
+                                    <li><a href="support.html">Support</a></li>
                                  </ul>
                               </li>
                               <li><a class="pagess" href="#">Services</a></li>
@@ -139,7 +139,7 @@
                               <ul class="sub-menu">
                                  <li><a href="team.html">Meet the Team</a></li>
                                  <li><a href="community.html">Community</a></li>
-                                 <li><a href="press.html">Press</a></li>
+                                 <li><a href="support.html">Support</a></li>
                               </ul>
                            </li>
                            <li><a class="pagess" href="#">Services</a></li>
@@ -401,14 +401,14 @@
    </div>
 
 
-   <div class="mt-5 mb-5">
-      <div class="section-headline text-center">
-         <h3>Features Of The  <span class="color">online learning</span></h3>      
+   <div class="mt-5 mb-5 bg-gray pt-5">
+      <div class="section-headline text-center pt-5">
+         <h3>Features Of The <span class="color">online learning</span></h3>
       </div>
       <div class="container-full ">
          <div class="row">
             <div class=" col-md-3 col-sm-12 col-xs-12">
-               <div class="company-content">
+               <div class="company-content bg-transparent">
                   <div class="main-view">
                      <div class="single-view">
                         <a class="view-images" href="#"><i class="fa fa-desktop"></i></a>
@@ -448,11 +448,13 @@
                </div>
             </div>
             <div class=" col-md-6 col-sm-12 col-xs-12">
-               <iframe src="https://player.vimeo.com/video/495308832" style="width: 100%; height: 510px; margin-top: -2rem;" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0"></iframe>
+               <iframe src="https://player.vimeo.com/video/495308832"
+                  style="width: 100%; height: 510px; margin-top: -2rem;" allow="autoplay; fullscreen" allowfullscreen=""
+                  frameborder="0"></iframe>
             </div>
             <!-- End Column -->
             <div class=" col-md-3 col-sm-12 col-xs-12">
-               <div class="company-content">
+               <div class="company-content bg-transparent">
                   <div class="main-view">
                      <div class="single-view">
                         <a class="view-images" href="#"><i class="fa fa-user-secret"></i></a>
@@ -494,7 +496,7 @@
                      <div class="single-view">
                         <a class="view-images" href="#"><i class="fa fa-user-plus"></i></a>
                         <div class="view-content">
-                           <h4> Access to the Animal Heroes community  </h4>
+                           <h4> Access to the Animal Heroes community </h4>
                         </div>
                      </div>
                   </div>
@@ -506,13 +508,41 @@
    </div>
 
 
+   <div class="about-page-area area-padding pt-5" id="storyboard">
+      <div class="container">
+         <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+               <div class="section-headline text-center pb-5">
+                  <h3>Screenshots</h3>
+               </div>
+               <div class="container">
 
-   <div class="contact-quote-area parallax-bg lms-bg fix mt-5" data-stellar-background-ratio="0.6"
+                  <!-- single-well end-->
+                  <div class="row">
+                     <div class="card-carousel mt-5 pt-5 pb-5">
+                        <div class="my-card"><img src="img/lms/screenshots/1.png"></div>
+                        <div class="my-card"><img src="img/lms/screenshots/2.png"></div>
+                        <div class="my-card"><img src="img/lms/screenshots/1.png"></div>
+                        <div class="my-card"><img src="img/lms/screenshots/2.png"></div>
+                        <div class="my-card"><img src="img/lms/screenshots/1.png"></div>
+                        <div class="my-card"><img src="img/lms/screenshots/2.png"></div>
+                        <div class="my-card"><img src="img/lms/screenshots/1.png"></div>
+                        <div class="my-card"><img src="img/lms/screenshots/2.png"></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+
+
+   <div class="contact-quote-area parallax-bg lms-bg bg-grey fix mt-5" data-stellar-background-ratio="0.6"
       style="background-position: 50% -138.287px;">
       <div class="container-full">
          <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-12">
-               <div class="company-faq">
+               <div class="company-faq bg-fq">
                   <div class="sub-headline">
                      <h4>Frequently <span class="color">Asked Questions</span></h4>
                   </div>
@@ -828,8 +858,39 @@
    <!-- main js -->
    <script src="js/main.js"></script>
    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+   
    <script>
       AOS.init();
+      $num = $('.my-card').length;
+      $even = $num / 2;
+      $odd = ($num + 1) / 2;
+
+      if ($num % 2 == 0) {
+         $('.my-card:nth-child(' + $even + ')').addClass('active');
+         $('.my-card:nth-child(' + $even + ')').prev().addClass('prev');
+         $('.my-card:nth-child(' + $even + ')').next().addClass('next');
+      } else {
+         $('.my-card:nth-child(' + $odd + ')').addClass('active');
+         $('.my-card:nth-child(' + $odd + ')').prev().addClass('prev');
+         $('.my-card:nth-child(' + $odd + ')').next().addClass('next');
+      }
+
+      $('.my-card').click(function () {
+         $slide = $('.active').width();
+         if ($(this).hasClass('next')) {
+            $('.card-carousel').stop(false, true).animate({ left: '-=' + $slide });
+         } else if ($(this).hasClass('prev')) {
+            $('.card-carousel').stop(false, true).animate({ left: '+=' + $slide });
+         }
+
+         $(this).removeClass('prev next');
+         $(this).siblings().removeClass('prev active next');
+
+         $(this).addClass('active');
+         $(this).prev().addClass('prev');
+         $(this).next().addClass('next');
+      });
+      
    </script>
 </body>
 
