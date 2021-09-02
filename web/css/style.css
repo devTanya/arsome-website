@@ -6149,7 +6149,52 @@ a.text-dark:hover {
 }
 /*--------------------------------*/
 
+.border-right {
+    border-right: 1px solid #277cd17a;
+    padding-right: 15px;
+}
+.community-overlay{
+	position: absolute;
+	background: rgba(10, 27, 40, 0.5) none repeat scroll 0 0;
+	top: 0;
+	width: 100%;
+	left: 0;
+	height: 100%;
 
+}
+.owl-carousel .owl-item img {
+    padding: 15px;
+    height: 100px;
+}
+#communityVideo {
+	right: 0;
+	bottom: 0;
+	min-width: 100%; 
+	margin-top: -9px;
+	margin-bottom: -5px;
+ }
+
+ .single-blog {
+	margin-top: 0px;
+	position: relative;
+	overflow: hidden;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+	padding: 5px;
+	 height:400px; 
+}
+
+.image-scaler img{
+	height: 160px;
+	width: 100%;
+}
+.image-scale img{
+	height: 150px;
+	width: 100%;
+}
+
+.bg-primary{
+	background: #2f94f9!important;
+}
 /* .End CSS
 /*--------------------------------*/
 
