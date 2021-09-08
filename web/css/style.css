@@ -6406,6 +6406,7 @@ img.ar-img {
 
 .bg-back{
 	background-image: url('../img/nft/bg3.png');
+	background-attachment: fixed;
 }
 
 @media only screen and (max-width: 767px) {
