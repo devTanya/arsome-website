@@ -5670,7 +5670,7 @@ a.text-dark:hover {
 }
 
 .bg-gray {
-	background: #2f96e520;
+	background: #2f96e53b;
 }
 
 .community-bg img {
@@ -6402,6 +6402,10 @@ img.ar-img {
         border-radius: 50%;
     }
 
+}
+
+.bg-back{
+	background-image: url('../img/nft/bg3.png');
 }
 
 @media only screen and (max-width: 767px) {
