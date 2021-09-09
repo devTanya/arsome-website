@@ -190,9 +190,7 @@
             <div class="row">
                <div class="blog-grid home-blog">
                   <div class="col-md-12 col-sm-12 col-xs-12">
-                     <div class="section-headline text-center">
-                        <h3 id="titles"></h3>
-                     </div>
+                   
                      <!-- Start single blog -->
                      <div class="col-md-12 col-sm-12 col-xs-12">
                         <div class="tab-menu mb-5">
@@ -1040,32 +1038,17 @@
          AOS.init();
          var blog = '';
          tabS = (tab) => {
-            $("#titles").html(`<span class='color'>${tab}</span>`);
             if (tab === "AR/VR") {
                blog =
-                  `       
-                        
-                        `;
+                  ``;
             }
             else if (tab === "Education") {
                blog =
-                  `
-                       
-                    
-                     
-                     
-
-                     `;
+                  ``;
             }
             else {
                blog =
-                  `
-                  
-                   
-                    
-                                                  
-                     
-                    `;
+                  ``;
             }
             $("#blog").html(blog);
          }
