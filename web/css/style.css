@@ -6216,7 +6216,8 @@ a.text-dark:hover {
 	right: 0;
 	left: 0;
 	width: 100%;
-	height: 80vh !important;
+	/* height: 80vh !important; */
+	height: 525px !important;
 	background: linear-gradient(to left, #2575c4 0%, #4d4dff 100%) !important;
 }
 
@@ -6409,12 +6410,48 @@ img.ar-img {
 	background-attachment: fixed;
 }
 
+/* NFT */
+img.mobile {
+    height: 36rem !important;
+}
+
+/* Team */
+.path-btn{
+	border: 1px solid #2f94f9;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 700;
+	padding: 12px 20px;
+	text-align: center;
+	text-transform: uppercase;
+	transition: all 0.4s ease 0s;
+	z-index: 222;
+	background: #2f94f9;
+	width: 160px;
+}
+.path-btn:hover {
+	color: #fff;
+	background: #2f94f9;
+	border: 2px solid #2f94f9;
+	text-decoration: none;
+}
+/* suppout */
+.yvonne{
+	margin-left: 33%
+}
+
+
 @media only screen and (max-width: 767px) {
 	.bg-gradient-primary {
-		height: 80vh !important;
+		height: 610px !important;
 	}
 	.md-none{
 		display: none;
+	}
+	.yvonne{
+		margin-left: 0 !important;
 	}
 }
 
