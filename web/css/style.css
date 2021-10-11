@@ -482,7 +482,7 @@ div#preloader {
 
 /*----------------------------------------*/
 
-/*  2.1 Header Bottom Area 
+/*  2.1 Header Bottom Area
 /*----------------------------------------*/
 
 .header-area {
@@ -5675,11 +5675,22 @@ a.text-dark:hover {
   .title2 {
     font-size: 2.5rem !important;
   }
+  .mob-tit-lms{
+    font-size: 2.5rem !important;
+    line-height: 1.5;
+    margin-top: 58px;
+  }
   .well-services .well-icon img {
     height: 100%;
   }
 }
-
+@media only screen and (min-width: 414px) {
+  .mob-tit-lms{
+    font-size: 2.5rem !important;
+    line-height: 1.5;
+    margin-top: 90px;
+  }
+}
 .image-scaler img {
   height: 180px;
   width: 100%;
@@ -6403,7 +6414,7 @@ img.ar-img {
 
 /* NFT */
 img.mobile {
-  height: 36rem !important;
+  height: 45rem !important;
 }
 
 /* Team */
@@ -6600,4 +6611,130 @@ img.immersive_img {
 }
 .testimonial_section .info_block .card_title {
   text-align: initial;
+}
+
+/*.carousel-control.left{
+  background-image: none;
+}
+.carousel-control.right{
+  background-image: none;
+}*/
+
+#myCarousel .carousel-inner .item img{
+  border-radius: 10px;
+}
+.dd-none{
+  display: none;
+}
+
+.ready-btn-big{
+  padding: 15px 5px;
+  margin-left: 0px !important;
+}
+
+.custom-development .mobile1{
+     margin-top: 50px;
+}
+@media only screen and (max-width: 600px) {
+ .h1-large-mob{
+   font-size: 42px;
+ }
+ .custom-development .bg-gradient-primary {
+    height: 465px !important;
+}
+.custom-development .custom-dev{
+  margin-top: 45px;
+}
+}
+
+.custom-development .carousel {
+	width: 800px;
+	margin: 0 auto;
+	padding-bottom: 50px;
+}
+.custom-development .carousel .item {
+	color: #000;
+	font-size: 14px;
+    text-align: center;
+	overflow: hidden;
+    min-height: 340px;
+}
+.custom-development .carousel .item a {
+	color: #eb7245;
+}
+.custom-development .carousel .img-box {
+	width: 80px;
+	height: 110px;
+	margin: 0 auto;
+	border-radius: 50%;
+}
+.custom-development .carousel .img-box img {
+	width: 100%;
+	height: 100%;
+	display: block;
+	border-radius: 50%;
+}
+.custom-development .carousel .testimonial {
+  padding: 50px 30px 10px;
+    text-align: left;
+}
+.custom-development .carousel .overview {
+	text-align: center;
+	padding-bottom: 35px;
+}
+.custom-development .carousel .overview b {
+	color: #333;
+	font-size: 15px;
+	text-transform: uppercase;
+	display: block;
+	padding-bottom: 5px;
+}
+.custom-development .carousel .star-rating i {
+	font-size: 18px;
+	color: #ffdc12;
+}
+.custom-development .carousel .carousel-control {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+    background: #0099da;
+    text-shadow: none;
+	top: 195px;
+}
+.custom-development .carousel-control i {
+	font-size: 20px;
+	margin-right: 2px;
+  margin-top: 4px;
+}
+.custom-development .carousel-control.left {
+	left: -40px;
+}
+.custom-development .carousel-control.right {
+    right: -40px;
+    left: auto;
+}
+.custom-development .carousel-control.right i {
+	margin-right: -2px;
+  margin-top: 4px;
+}
+.custom-development .carousel .carousel-indicators {
+	bottom: 15px;
+}
+.custom-development .carousel-indicators li, .carousel-indicators li.active {
+	width: 11px;
+	height: 11px;
+	margin: 1px 5px;
+	border-radius: 50%;
+}
+.custom-development .carousel-indicators li {
+	background: #e2e2e2;
+	border-color: transparent;
+}
+.custom-development .carousel-indicators li.active {
+	border: none;
+	background: #888;
+}
+.custom-development .text-box{
+  box-shadow: 2px 2px 20px rgb(216 216 216 / 59%);
+  margin: -20px 30px 15px 30px;
 }
