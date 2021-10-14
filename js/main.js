@@ -96,8 +96,8 @@ windows.on('scroll', function() {
     intro_carousel.owlCarousel({
         loop:true,
         nav:true,		
-        autoplay:false,
-        dots:false,
+        autoplay:true,
+        dots:true,
         navText: ["<i class='icon icon-chevron-left'></i>","<i class='icon icon-chevron-right'></i>"],
         responsive:{
             0:{
@@ -119,8 +119,8 @@ windows.on('scroll', function() {
 	services_carousel.owlCarousel({
         loop:true,
         nav:true,		
-        autoplay:false,
-        dots:false,
+        autoplay:true,
+        dots:true,
         navText: ["<i class='icon icon-chevron-left'></i>","<i class='icon icon-chevron-right'></i>"],
         responsive:{
             0:{
@@ -141,8 +141,8 @@ windows.on('scroll', function() {
 	project_carousel.owlCarousel({
         loop:true,
         nav:true,		
-        autoplay:false,
-        dots:false,
+        autoplay:true,
+        dots:true,
         navText: ["<i class='icon icon-chevron-left'></i>","<i class='icon icon-chevron-right'></i>"],
         responsive:{
             0:{
@@ -162,8 +162,8 @@ windows.on('scroll', function() {
     $('.project-carousel-2').owlCarousel({
         loop:true,
         nav:true,		
-        autoplay:false,
-        dots:false,
+        autoplay:true,
+        dots:true,
 		margin:30,
         navText: ["<i class='icon icon-chevron-left'></i>","<i class='icon icon-chevron-right'></i>"],
         responsive:{
@@ -218,7 +218,7 @@ windows.on('scroll', function() {
 		nav:false,
         margin:15,
 		dots:true,
-		autoplay:false,
+		autoplay:true,
 		responsive:{
 			0:{
 				items:1
