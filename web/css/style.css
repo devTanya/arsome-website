@@ -2976,7 +2976,7 @@ page-team-member {
 }
 
 .blog-area-bg {
-  background: url("../img/blog/vocational.jpg");
+ /* background: url("../img/blog/vocational.jpg");*/
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
