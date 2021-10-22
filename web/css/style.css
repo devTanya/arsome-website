@@ -7036,3 +7036,8 @@ img.immersive_img {
     padding-bottom: 35px;
   }
 }
+.custom-development .ready-btn.left-btn:hover {
+    color: #fff;
+    background: #2f94f9;
+    border: 2px solid #2f94f9;
+}
