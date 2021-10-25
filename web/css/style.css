@@ -7169,3 +7169,20 @@ img.immersive_img {
 .landing-page .slick-arrow.slick-hidden {
     display: none;
 }
+
+.bg-blog-leanding {
+    background-color: rgba(62, 69, 78, 0.7);
+    position: absolute;
+    right: 0;
+    left: 0;
+    width: 100%;
+    /* height: 80
+vh
+ !important; */
+    height: 580
+px
+ !important;
+    background-image: url(../img/blog/blog_5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
