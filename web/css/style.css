@@ -8190,6 +8190,13 @@ background-position: center center;
     .landing-page .custom-dev{
       margin-top: 45px;
     }
+    .about-page-area.home-our-work {
+    background-size: 100% !important;
+    height: 70vw !important;
+}
+    .about-page-area .w-75.mx-auto {
+    width: 100% !important;
+}
     }
 
     .landing-page .carousel {
