@@ -840,6 +840,23 @@
 .mob-cont-down5{
   padding-top: 288px;
 }
+.mob-img-up11{
+  position: absolute;
+  width: 90%;
+  left: 20px;
+}
+.mob-cont-down11{
+  padding-top: 340px !important;
+}
+.mob-img-up12{
+  position: absolute;
+  width: 90%;
+  left: 20px;
+}
+.mob-cont-down12{
+  padding-top: 290px !important;
+    padding-bottom: 70px;
+}
 .mob-img-up6{
   position: absolute;
   width: 80%;
