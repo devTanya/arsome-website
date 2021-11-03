@@ -8796,3 +8796,41 @@ padding-bottom: 80px;
     z-index: 9999999!important;
 }
 /*=====End Virtual Reality Driving Training====*/
+
+
+/** footer css start **/
+
+/*.footer-area .nav {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}*/
+
+.footer-nav .footer-link {
+    color: white !important;
+    font-size: 18px;
+}
+.footer-nav .nav-link {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+}
+
+.footer-area {
+    padding: 70px 0px 60px 0px;
+    background: #071333;
+}
+
+@media only screen and (max-width: 600px) {
+.footer-nav .nav-link {
+    padding-bottom: 15px;
+    padding-top: 100px;
+    padding-left: 45px;
+    padding-right: 45px;
+    font-size: 18px;
+}
+}
