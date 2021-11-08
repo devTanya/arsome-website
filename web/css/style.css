@@ -531,7 +531,7 @@ div#preloader {
   position: relative;
 }
 
-.main-menu ul.navbar-nav > li > a {
+/*.main-menu ul.navbar-nav > li > a {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
   color: #444;
   font-size: 14px;
@@ -539,6 +539,17 @@ div#preloader {
   padding: 40px 0px;
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
+  margin: 0px 15px;
+}*/
+
+.main-menu ul.navbar-nav > li > a {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  color: #212529;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 40px 0px;
+  text-transform: capitalize;
+  font-family: "Arial";
   margin: 0px 15px;
 }
 
@@ -745,7 +756,7 @@ div#preloader {
 }
 
 .header-area.stick .main-menu ul.navbar-nav li a {
-  padding: 27px 0px;
+  padding: 37px 0px;
 }
 
 .header-area.stick .quote-button {
@@ -6821,7 +6832,7 @@ img.immersive_img {
   margin: 0px 40px;
 }
 .btn-innovating{
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .area-padding-01{
@@ -8833,4 +8844,68 @@ padding-bottom: 80px;
     padding-right: 45px;
     font-size: 18px;
 }
+}
+
+.ready-btn-home{
+    border: 1px solid #2f94f9;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 12px 20px;
+    text-align: center;
+    text-transform: capitalize;
+    transition: all 0.4s ease 0s;
+    z-index: 222;
+    background: #2f94f9;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.ready-btn-home:hover{
+  background: #2380dd;
+  color: #ffffff;
+}
+
+.btn-innovating:hover{
+  background: #2380dd !important;
+  color: #ffffff !important;
+  border: 1px solid #2380dd !important;
+}
+
+.blog-rm-btn {
+  color: #2F94F9;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.blog-rm-btn:hover {
+  color: #2380dd;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.nav-start-btn{
+  border: 1px solid #2f94f9;
+  color: #fff !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 12px 20px !important;
+  text-align: center;
+  text-transform: capitalize;
+  transition: all 0.4s ease 0s;
+  z-index: 222;
+  background: #2f94f9 !important;
+  width: 200px;
+  border-radius: 5px;
+}
+
+.nav-btn-start{
+  padding-top: 24px;
+  padding-left: 20px;
 }
