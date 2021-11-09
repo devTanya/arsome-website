@@ -919,7 +919,7 @@ div#preloader {
   font-weight: 700;
   padding: 12px 20px;
   text-align: center;
-  /*text-transform: uppercase;*/
+  text-transform: uppercase;
   transition: all 0.4s ease 0s;
   z-index: 222;
   background: #2f94f9;
@@ -2136,7 +2136,7 @@ h5 {
 
 .footer-area {
   padding: 70px 0;
-  background: #071333;
+  background: #1d1d1d;
 }
 
 .footer-logo {
@@ -2280,7 +2280,7 @@ h5 {
 }
 
 .footer-area-bottom {
-  background: #071333 none repeat scroll 0 0;
+  background: black none repeat scroll 0 0;
   padding: 25px 0;
   border-top: 1px solid #333;
 }
@@ -2300,7 +2300,7 @@ h5 {
 }
 
 .copyright a {
-  color: #2f94f9;
+  color: #888;
 }
 
 /*--------------------------------*/
@@ -8833,7 +8833,7 @@ padding-bottom: 80px;
 
 .footer-area {
     padding: 70px 0px 60px 0px;
-    background: #071333;
+    background: #1d1d1d;
 }
 
 @media only screen and (max-width: 600px) {
@@ -8911,4 +8911,9 @@ padding-bottom: 80px;
 }
 .card_link a{
   color: #2f94f9 !important;
+}
+
+.nav-btn-start a:hover{
+    background: #2380dd!important;
+    color: #ffffff;
 }
