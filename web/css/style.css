@@ -919,7 +919,7 @@ div#preloader {
   font-weight: 700;
   padding: 12px 20px;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: capitalize;
   transition: all 0.4s ease 0s;
   z-index: 222;
   background: #2f94f9;
@@ -2107,13 +2107,13 @@ h5 {
 }
 
 .banner-btn {
-  border: 1px solid #fff;
+  border: 1px solid #555;
   display: inline-block;
   padding: 14px 24px;
-  color: #2f94f9;
+  color: #fff;
   font-weight: 600;
   font-size: 20px;
-  background: #fff;
+  background: #555;
   border-radius: 5px;
   float: right;
   margin: 7px 0px;
@@ -3479,6 +3479,7 @@ h3.comment-reply-title {
 .blog-content p {
   font-size: 16px;
   letter-spacing: 0.5px;
+  padding-top: 10px;
 }
 
 blockquote {
@@ -6814,20 +6815,38 @@ img.immersive_img {
     height: 450px;
 }
 .blue-bg-link{
-  background-color: #2f94f9;
-  color:#ffffff;
+  background-color: #ffffff;
+  color:#2f94f9;
 }
 .blue-bg-text{
   color:#ffffff;
-  margin: 44px;
     padding: 22px 0px;
 }
-.bg-grey-innovating{
-  background-color: #555555;
+.blue-bg-text a{
+
+color: #2f94f9;
+}
+.home-our-work .blog-content .blog-btn {
+    display: inline-block;    
+    }
+.bg-grey-innovating-wrapper{
+
+  background-color: #0000004d;
     margin: 40px 70px 60px 70px;
     border-radius: 10px;
+    background-image: url(../img/background/modern-creative-one.jpg);
+background-repeat: no-repeat;
+background-size:100% 100%;
+height: 30vw;
+background-position: top center;
+background-blend-mode: overlay;
 }
+h3.blog-text-color{
+  color: #2f94f9;
+      margin-top: 0 !important;
+    margin-bottom: 4px !important;
 
+}
 .bg-grey-innovating .about-content{
   margin: 0px 40px;
 }
@@ -8889,7 +8908,7 @@ padding-bottom: 80px;
   text-transform: capitalize;
 }
 .nav-start-btn{
-  border: 1px solid #2f94f9;
+ border: 1px solid #2f94f9;
   color: #fff !important;
   cursor: pointer;
   display: inline-block;
@@ -8914,6 +8933,9 @@ padding-bottom: 80px;
 }
 
 .nav-btn-start a:hover{
-    background: #2380dd!important;
+    background: #2f94f9!important;
     color: #ffffff;
+}
+.about-page-area.area-padding-01.testimonials {
+    background-color: #F7F7F7;
 }
