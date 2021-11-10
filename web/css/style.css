@@ -1071,11 +1071,11 @@ div#preloader {
 }
 
 .well-services {
-  padding: 30px 20px;
+  padding: 25px 20px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
     rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
   position: relative;
-  height: 610px;
+  height: 650px;
 }
 
 .well-services::after {
@@ -2965,9 +2965,9 @@ page-team-member {
 .page-area {
   background: url("../img/team/xmas.jpeg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: top center;
-  height: 80vh;
+  height: 100vh;
 }
 
 .press-area {
@@ -2977,9 +2977,9 @@ page-team-member {
 .press-area {
   background: url("../img/press/press.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: top center;
-  height: 80vh;
+  height: 90vh;
 }
 
 .blog-area-bg {
@@ -3022,6 +3022,7 @@ page-team-member {
 
 .breadcrumb .section-headline {
   margin-bottom: 0px;
+  padding-top: 7vw;
 }
 
 .breadcrumb .section-headline h3::after {
@@ -4651,6 +4652,10 @@ span.email-notes {
 }
 
 @media (min-width: 768px) {
+  .bg-grey-innovating-wrapper{
+
+    height: auto !important;
+  }
   .m-md-0 {
     margin: 0 !important;
   }
@@ -6782,11 +6787,12 @@ img.immersive_img {
     right: 0;
     left: 0;
     width: 100%;
-    /* height: 80vh !important; */
-    height: 580px !important;
-    background-image: url(../img/home/banner_image.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    height: 40vw !important;  
+    background-image: url(../img/home/banner-new.jpg);
+    background-repeat: no-repeat;    
+    background-size: 100%;
+    background-position: center;
+    background-blend-mode: overlay;
 }
 .banner-home{
   height: 580px !important;
@@ -6834,7 +6840,7 @@ color: #2f94f9;
   background-color: #0000004d;
     margin: 40px 70px 60px 70px;
     border-radius: 10px;
-    background-image: url(../img/background/modern-creative-one.jpg);
+    background-image: url(../img/background/stock-photo-smart-city-and-abstract-dot-point-connect-with-gradient-line-and-aesthetic-intricate-wave-line-1499306735.jpg);
 background-repeat: no-repeat;
 background-size:100% 100%;
 height: 30vw;
@@ -8408,30 +8414,30 @@ background-position: center center;
 .bg-process{
       background: url(../img/process/banner.png);
       background-repeat: no-repeat;
-      background-size: cover;
+      background-size: 100%;
       background-position: top center;
-      height: 80vh;
+      height: 100vh;
 }
 .bg-custom-dev{
   background: url(../img/service/custom_development_banner.jpg) !important;
   background-repeat: no-repeat !important;
-  background-size: cover !important;
+  background-size: 100% !important;
   background-position: top center;
-  height: 80vh;
+  height: 100vh;
 }
 .bg-contact-page{
-  background: url(../img/contact/contact_bg.jpg);
+  background: url(../img/contact/stock-photo-business-man-showing-to-contact-us-online-763718359.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: top center;
-  height: 80vh;
+  height: 90vh;
 }
 .bg-learning-hub{
   background: url(../img/blog/Learning_Hub_banner.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: top center;
-  height: 80vh;
+  height: 90vh;
 }
 .bg-it{
   background: url(../img/service/immersive_bg.jpg);
@@ -8933,9 +8939,15 @@ padding-bottom: 80px;
 }
 
 .nav-btn-start a:hover{
-    background: #2f94f9!important;
+    background: #2380dd!important;
     color: #ffffff;
+    border: 1px solid #2380dd;
 }
 .about-page-area.area-padding-01.testimonials {
     background-color: #F7F7F7;
+}
+li.nav-btn-start:hover > a::before, .nav-btn-start > li.nav-btn-start.active > a::before{
+
+width: auto !important;
+
 }
