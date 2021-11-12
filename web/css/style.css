@@ -133,6 +133,11 @@ padding-top:20px ;
 padding-bottom: 20px;
 
 }
+.pt-60 {
+
+padding-top:40px ;
+
+}
 .pt-100 {
 
 padding-top:100px ;
@@ -674,7 +679,7 @@ div#preloader {
   font-size: 13px;
   font-weight: 700;
   padding: 10px 15px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -854,7 +859,7 @@ div#preloader {
   padding: 13px 10px;
   text-align: left;
   text-decoration: none;
-  text-transform: uppercase;
+  text-transform: capitalize;
   width: 90%;
 }
 
@@ -1097,7 +1102,7 @@ div#preloader {
   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
     rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
   position: relative;
-  height: 650px;
+  height: 700px;
 }
 
 .well-services::after {
@@ -1819,7 +1824,7 @@ div#preloader {
 }
 
 .blog-content a h4 {
-  font-size: 18px;
+  font-size: 16px;
   text-transform: capitalize;
   font-weight: 600;
   color: #444;
@@ -7034,8 +7039,9 @@ h3.blog-text-color{
 .home-page .mob-mt{
   margin-top: 3rem;
 }
-.home-page .blue-bg-text {
-    margin: 44px 44px -15px 44px;
+.bg-grey-innovating-wrapper {
+ height: 60vw;
+ background-size: cover;
 }
 }
 
@@ -8901,11 +8907,11 @@ padding-bottom: 80px;
 
 @media only screen and (max-width: 600px) {
 .footer-nav .nav-link {
-    padding-bottom: 15px;
-    padding-top: 100px;
+     padding-top: 10px;
     padding-left: 45px;
     padding-right: 45px;
     font-size: 18px;
+    display: inline-block;
 }
 }
 
@@ -9016,4 +9022,65 @@ color: #000;
   border: 1px solid #555;
   background: #555;
   color: #fff;
+}
+
+@media only screen and (max-width: 810px) {
+
+h1{
+
+  font-size: 42px;
+}
+
+.text-container.mt-5.pt-100{
+
+padding-top:0 ;
+
+}
+
+  }
+
+@media only screen and (max-width: 430px) {
+
+  .transform-none{
+
+    font-size: 30px;
+  }
+.breadcrumb .section-headline h1{
+
+font-size: 46px;
+
+}
+.single-about h5{
+
+  font-size: 15px!important;
+}
+.section-headline{
+
+  margin-bottom: 0px;
+}
+.custom-development .mobile1{
+
+  margin-top: 0px;
+}
+.lh-menu .tab-menu ul.nav li a {
+    width: 100px;
+}
+
+  }
+
+  @media only screen and (max-width: 320px) {
+
+  .transform-none{
+
+    font-size: 26px;
+  }
+.breadcrumb .section-headline h1{
+
+font-size: 42px;
+
+}
+
+
+
+
 }
