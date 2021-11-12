@@ -123,6 +123,17 @@ a:focus {
   width: 215px;
   padding-top: 8px;
 }
+.pl-60 {
+
+padding-left: 60px;
+
+}
+
+.pr-60 {
+
+padding-right: 60px;
+
+}
 .pt-20 {
 
 padding-top:20px ;
@@ -136,6 +147,11 @@ padding-bottom: 20px;
 .pt-60 {
 
 padding-top:40px ;
+
+}
+.pt-250 {
+
+padding-top:250px ;
 
 }
 .pt-100 {
@@ -2124,9 +2140,10 @@ h5 {
   margin: initial;
   float: left;
   font-size: 28px;
-  max-width: 630px;
+  max-width: 680px;
   line-height: 34px;
   color: #fff;
+  margin-top: 1.3vw;
 }
 
 .banner-contact {
@@ -2994,7 +3011,7 @@ page-team-member {
   background-repeat: no-repeat;
   background-size:cover;
   background-position: top center;
-  height: 100vh;
+  height: 40vw;
 }
 
 .press-area {
@@ -3006,7 +3023,7 @@ page-team-member {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 90vh;
+  height: 40vw;
 }
 
 .blog-area-bg {
@@ -8447,42 +8464,42 @@ border: 1px solid #2380dd;
       background-repeat: no-repeat;
       background-size: cover;
       background-position: top center;
-      height: 100vh;
+      height: 40vw;
 }
 .bg-custom-dev{
   background: url(../img/service/custom_development_banner.jpg) !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   background-position: top center !important;
-  height: 100vh;
+  height: 40vw;
 }
 .bg-contact-page.contactnewpage{
   background: url(../img/contact/contact-us.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 90vh;
+  height: 40vw;
 }
 .bg-contact-page{
   background: url(../img/contact/contact_bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 90vh;
+  height: 40vw;
 }
 .bg-learning-hub{
   background: url(../img/blog/Learning_Hub_banner.jpg);
   background-repeat: no-repeat;
   background-size:cover;
   background-position: top center;
-  height: 90vh;
+  height: 40vw;
 }
 .bg-it{
   background: url(../img/service/immersive_bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 80vh;
+  height: 40vw;
 }
 
 /*=======Virtual Reality Driving Training======*/
@@ -9079,8 +9096,13 @@ font-size: 46px;
 font-size: 42px;
 
 }
-
-
-
+}
+  .transform-none span.color {
+    font-size: 24px;
 
 }
+.well-inner .ready-btn-home.right-btn.ready-btn-big {
+    float: right;
+    width: 147px;
+}
+
