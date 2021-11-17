@@ -9240,23 +9240,23 @@ padding-top: 0;
     height: auto !important;
 }
 
-
-
   }
 
-  @media only screen and (max-width: 320px) {
+@media only screen and (max-width: 320px) {
 
-  .transform-none{
+.transform-none{
 
     font-size: 26px;
+
   }
+
 .breadcrumb .section-headline h1{
 
 font-size: 42px;
 
 }
-}
-  .transform-none span.color {
+
+.transform-none span.color {
     font-size: 24px;
 
 }
