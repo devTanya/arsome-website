@@ -9166,6 +9166,10 @@ left: 0;
     width: auto;
     left: 0;
 }
+.contact-page .mob-mt-cs{
+
+  display: inherit;
+}
  .page-area-metaverse{
     height: 165vw;
   }
