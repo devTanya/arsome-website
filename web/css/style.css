@@ -9026,6 +9026,44 @@ color: #000;
   color: #fff;
 }
 
+
+
+/* Metaverse Page */
+.page-area-metaverse{
+  background: url(../img/metaverse/Artboard.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 40vw;
+}
+
+.metaverse-service-1 .single-about {
+    width: 80%;
+     float: inherit;
+    margin-right: 20px;
+}
+
+.case-study-4img{
+  margin: 0px 115px;
+}
+
+.metaverse .breadcrumb .section-headline{
+  padding-top: 5vw;
+}
+.lern-more-text-mv{
+  padding-top: 3vw;
+}
+.metaverse .grey-bg{
+  background-color: #f7f7f7;
+}
+
+.bg-metaverse-img{
+  background-image: url(../img/metaverse/acdxcsz.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 42vw;
+}
+
 /*=======MEDIA CUSTOM CSS======*/
 
 @media only screen and (max-width: 810px) {
@@ -9084,7 +9122,81 @@ font-size: 24px;
 }
 
   }
+@media only screen and (max-width: 600px) {
 
+.page-area {
+height: auto;
+}
+
+.home-blog .ar-blog {
+    height: auto;
+}
+
+.input-group{
+
+width: 100%;
+
+}
+
+.mobile-button{
+
+margin-bottom: 4vw;
+
+}
+
+.press-area {
+
+ height: auto;
+
+}
+.home-page .card_body {
+    width: auto;
+
+}
+
+.home-page .home-our-work .ar-blog{
+
+width: auto;
+left: 0;
+
+}
+
+.home-page .home-blog .ar-blog {
+   
+    width: auto;
+    left: 0;
+}
+ .page-area-metaverse{
+    height: 165vw;
+  }
+  .case-study-4img {
+    margin: 0px 0px;
+  }
+  .mb-cs-pera{
+    margin-top: 30px;
+  }
+  .metaverse-service-1 .single-about h5 {
+    font-size: 18px;
+    color: #666;
+    float: none;
+    line-height: 50px;
+    padding-left: 30px;
+    margin-bottom: 0;
+    font-weight: 600;
+    text-align: left;
+}
+.metaverse-service-1 .single-about {
+    width: 100%;
+    float: left;
+    margin-right: 0px;
+}
+
+
+
+
+
+
+}
 @media only screen and (max-width: 430px) {
 
   .transform-none{
@@ -9119,6 +9231,13 @@ padding-top: 0;
 .page-area.bg-process {
     height: auto;
 }
+
+.well-content p {
+    height: auto !important;
+}
+
+
+
   }
 
   @media only screen and (max-width: 320px) {
@@ -9142,41 +9261,5 @@ font-size: 42px;
     width: 147px;
 }
 
-/* Metaverse Page */
-.page-area-metaverse{
-  background: url(../img/metaverse/Artboard.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top center;
-    height: 40vw;
 }
-
-.metaverse-service-1 .single-about {
-    width: 80%;
-     float: inherit;
-    margin-right: 20px;
-}
-
-.case-study-4img{
-  margin: 0px 115px;
-}
-
-.metaverse .breadcrumb .section-headline{
-  padding-top: 5vw;
-}
-.lern-more-text-mv{
-  padding-top: 3vw;
-}
-.metaverse .grey-bg{
-  background-color: #f7f7f7;
-}
-
-.bg-metaverse-img{
-  background-image: url(../img/metaverse/acdxcsz.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 42vw;
-}
-
-
 
