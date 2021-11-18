@@ -6272,8 +6272,7 @@ a.text-dark:hover {
 
 /* NFT */
 
-.bg-overlay {
-}
+
 .bg-gradient-primary {
   background-color: rgba(62, 69, 78, 0.7);
   position: absolute;
@@ -6475,7 +6474,7 @@ img.ar-img {
 
 /* NFT */
 img.mobile {
-  height: 45rem !important;
+  height: auto;
 }
 
 /* Team */
@@ -7161,10 +7160,11 @@ background-position: center center;
     right: 0;
     left: 0;
     width: 100%;   
-    height:40vw !important;
-    background-image: url(../img/blog/Is-Virtual.jpg);
+    height:40vw ;
+    background-image: url(../img/blog/virtual.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-Visualize{
   background-color: rgba(62, 69, 78, 0.7);
@@ -7176,6 +7176,7 @@ background-position: center center;
     background-image: url(../img/blog/workstation.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-03{
   background-image: url(../img/blog/data-graphs-sample.png);
@@ -7219,10 +7220,11 @@ background-position: center center;
     right: 0;
     left: 0;
     width: 100%;
-   height: 40vw !important;
+   height: 40vw;
     background-image: url(../img/blog/vr-globe.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-07{
   background-image: url(../img/blog/poly-sunset.png);
@@ -7263,10 +7265,11 @@ background-position: center center;
     right: 0;
     left: 0;
     width: 100%;  
-    height: 40vw !important;
+    height: 40vw ;
     background-image: url(../img/blog/businesswoman-playing-virtual-game-studio.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 .bullet-points{
@@ -7317,6 +7320,7 @@ background-position: center center;
     background-image: url(../img/blog/augmented-reality.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-15{
   background-image: url(../img/blog/pokemon.jpeg);
@@ -7341,10 +7345,11 @@ background-size: contain;
     right: 0;
     left: 0;
     width: 100%;  
-    height:40vw !important;
+    height:40vw;
     background-image: url(../img/blog/3-way.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 .bg-blog-img-17{
   background-image: url(../img/blog/mus-2.jpeg);
@@ -7381,6 +7386,7 @@ background-size: contain;
     background-image: url(../img/blog/technology.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-20{
   background-image: url(../img/blog/america.jpeg);
@@ -7409,6 +7415,7 @@ background-size: contain;
     background-image: url(../img/blog/5-smartway.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 .bg-blog-img-22{
@@ -7438,6 +7445,7 @@ background-size: contain;
     background-image: url(../img/blog/Top5Things.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-24{
   background-image: url(../img/blog/tourism.jpeg);
@@ -7462,10 +7470,11 @@ background-size: contain;
     right: 0;
     left: 0;
     width: 100%;   
-    height: 40vw !important;
+    height: 40vw;
     background-image: url(../img/blog/how-can.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-26{
   background-image: url(../img/blog/0_bSB96m3wV-EBBglJ.jpeg);
@@ -7494,6 +7503,7 @@ background-size: contain;
     background-image: url(../img/blog/Top3Ways.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-28{
   background-image: url(../img/blog/0_9cGZ1A3FKX-IYJw9.jpeg);
@@ -7520,10 +7530,11 @@ background-size: contain;
     right: 0;
     left: 0;
     width: 100%;    
-    height:40vw !important;
+    height:40vw;
     background-image: url(../img/blog/augmented-real.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-30{
   background-image: url(../img/blog/0_15ny9qzk5xh6gg-l.jpeg);
@@ -7576,10 +7587,11 @@ background-size: contain;
     right: 0;
     left: 0;
     width: 100%;   
-    height: 40vw !important;
+    height: 40vw;
     background-image: url(../img/blog/4DynamicWays.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-34{
   background-image: url(../img/blog/packaging.jpg);
@@ -7632,6 +7644,7 @@ background-size: contain;
     background-image: url(../img/blog/virtual-reality.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-39{
   background-image: url(../img/blog/ar.jpg);
@@ -7702,6 +7715,7 @@ font-weight: bold;
     background-image: url(../img/blog/ARVR-in-the-Workplace.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-workplace {
     background-image: url(../img/blog/work-in-vr.jpg);
@@ -7729,6 +7743,7 @@ background-position: center center;
     background-image: url(../img/blog/GamificationJust.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 .bg-blog-img-gami-one {
     background-image: url(../img/blog/marbles.jpg);
@@ -7764,6 +7779,7 @@ background-position: center center;
     background-image: url(../img/blog/AR-in-Media-Print.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
     }
 
     .bg-blog-img-media-one{
@@ -7792,6 +7808,7 @@ background-position: center center;
     background-image: url(../img/blog/blog_21.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 .bg-blog-img-moving-one {
@@ -7822,6 +7839,7 @@ background-position: center center;
     background-image: url(../img/blog/blog_20.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 .bg-blog-img-classroom-one {
@@ -7851,6 +7869,7 @@ background-position: center center;
     background-image: url(../img/blog/blog_19.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 .bg-blog-img-virtual-one {
@@ -7880,6 +7899,7 @@ background-position: center center;
     background-image: url(../img/blog/Homeschooling-Tips.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 .bg-blog-img-school-one {
@@ -7914,10 +7934,11 @@ background-position: center center;
     right: 0;
     left: 0;
     width: 100%;
-    height: 40vw !important;
+    height: 40vw ;
     background-image: url(../img/blog/dad-child.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 .bg-blog-img-book-one {
@@ -7940,6 +7961,7 @@ background-position: center center;
     background-image: url(../img/blog/how-can-ang.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 .bg-blog-img-corona-one {
@@ -9124,7 +9146,28 @@ font-size: 24px;
 }
 
   }
+
+@media only screen and (max-width: 750px) {
+
+
+.container.mean-container{
+
+width: auto;
+margin-left: 20px;
+
+}
+
+
+
+}  
 @media only screen and (max-width: 600px) {
+
+.bg-overlay {
+  height: 70vw;
+}
+.banner-home {
+    height: auto !important;
+}  
 
 .page-area {
 height: auto;
