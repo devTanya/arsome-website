@@ -7017,11 +7017,6 @@ h3.blog-text-color{
   .home-page .mob-pb{
     padding-bottom: 20px;
   }
-  .home-page .home-our-work .ar-blog {
-    height: 450px;
-    width: 300px;
-    left: -30px;
-}
 .home-page .bg-grey-innovating {
     background-color: #555555;
     margin: 30px;
@@ -7032,6 +7027,7 @@ h3.blog-text-color{
 }
 .home-page .shadow-effect{
   padding: 14px;
+}
   .owl-carousel .owl-item img {
     height: 155px;
 }
@@ -8261,7 +8257,7 @@ border: 1px solid #2380dd;
     }
     .about-page-area.home-our-work {
     background-size: 100% !important;
-    height: 70vw !important;
+    height: auto !important;
 }
     .about-page-area .w-75.mx-auto {
     width: 100% !important;
@@ -8938,7 +8934,11 @@ padding-bottom: 80px;
   background: #2380dd;
   color: #ffffff;
 }
-
+.well-inner .ready-btn-home.right-btn.ready-btn-big {
+    float: right;
+    width: 150px;
+    padding: 10px;
+}
 .btn-innovating:hover{
   background: #2380dd !important;
   color: #ffffff !important;
@@ -9072,7 +9072,9 @@ h1{
 
   font-size: 42px;
 }
-
+.custom-development .carousel {
+    width: 400px;
+  }
 .text-container.mt-5.pt-100{
 
 padding-top:0 ;
@@ -9156,15 +9158,54 @@ margin-bottom: 4vw;
 
 .home-page .home-our-work .ar-blog{
 
-width: auto;
-left: 0;
+
+height: auto;
 
 }
+.bg-grey-innovating-wrapper {
 
+    height: auto;
+
+  }
+.home-page .bg-grey-innovating .about-content h2{
+
+    font-size: 35px;
+
+}
 .home-page .home-blog .ar-blog {
    
     width: auto;
     left: 0;
+}
+.about-page-area.area-padding-01.giving-ar-wrapper .mobile-padding {
+
+padding: 0;
+
+}
+.blue-bg-text{
+
+font-size: 15px;
+
+}
+.well-inner .ready-btn-home.right-btn.ready-btn-big {
+    float: left;   
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+}
+.well-inner .well-content strong{
+
+    float: left;
+    width: 100%;
+
+}
+.mobile-start-project-btn .nav-start-btn.right-btn.ready-btn-big.mobile-contact-btn {
+    padding: 12px 20px !important;
+}
+
+.nav-btn-start.mobile-start-project-btn.mean-last{
+
+padding-left: 0;
+
 }
 .contact-page .mob-mt-cs{
 

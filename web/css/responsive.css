@@ -893,8 +893,8 @@
     margin-left: -38px;
 }
 #myCarousel{
-  width: 345px;
-    margin-left: -35px;
+  width:auto;
+   
 }
 .dd-none{
   display: block;
