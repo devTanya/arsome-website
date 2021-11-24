@@ -6810,6 +6810,10 @@ img.immersive_img {
 
 .custom-development .mobile1 {
   margin-top: 50px;
+  width: 300px;
+}
+.custom-development .mobile2 {
+  margin-top: 70px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -6824,13 +6828,15 @@ img.immersive_img {
   }
 }
 
-.custom-development .carousel {
+.custom-development .carousel,
+.home-page .carousel {
   width: 800px;
   margin: 0 auto;
   padding-bottom: 50px;
 }
 
-.custom-development .carousel .item {
+.custom-development .carousel .item,
+.home-page .carousel .item {
   color: #000;
   font-size: 14px;
   text-align: center;
@@ -6838,35 +6844,49 @@ img.immersive_img {
   min-height: 340px;
 }
 
-.custom-development .carousel .item a {
+.custom-development .carousel .item a,
+.home-page .carousel .item a {
   color: #eb7245;
 }
 
-.custom-development .carousel .img-box {
+.custom-development .carousel .img-box, 
+.home-page .carousel .img-box {
   width: 80px;
   height: 110px;
   margin: 0 auto;
   border-radius: 50%;
 }
 
-.custom-development .carousel .img-box img {
+.custom-development .carousel .img-box img{
   width: 100%;
   height: 100%;
   display: block;
   border-radius: 50%;
 }
 
-.custom-development .carousel .testimonial {
+.home-page .carousel .img-box img {
+  width: 100%;
+  display: block;
+  border-radius: 50%;
+}
+
+.custom-development .carousel .testimonial{
   padding: 50px 30px 10px;
   text-align: left;
 }
+.home-page .carousel .testimonial {
+  padding: 50px 30px 50px;
+  text-align: left;
+}
 
-.custom-development .carousel .overview {
+.custom-development .carousel .overview, 
+.home-page .carousel .overview {
   text-align: center;
   padding-bottom: 35px;
 }
 
-.custom-development .carousel .overview b {
+.custom-development .carousel .overview b,
+.home-page .carousel .overview b {
   color: #333;
   font-size: 15px;
   text-transform: uppercase;
@@ -6874,12 +6894,21 @@ img.immersive_img {
   padding-bottom: 5px;
 }
 
-.custom-development .carousel .star-rating i {
+.custom-development .carousel .star-rating i， 
+.home-page .carousel .star-rating i {
   font-size: 18px;
   color: #ffdc12;
 }
 
-.custom-development .carousel .carousel-control {
+.custom-development .carousel .carousel-control{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #0099da;
+  text-shadow: none;
+  top: 195px;
+}
+.home-page .carousel .carousel-control{
   width: 30px;
   height: 30px;
   border-radius: 50%;
@@ -6893,44 +6922,67 @@ img.immersive_img {
   margin-right: 2px;
   margin-top: 4px;
 }
+.home-page .carousel-control i {
+  font-size: 20px;
+  margin-right: 2px;
+  margin-top: 4px;
+}
 
 .custom-development .carousel-control.left {
   left: -40px;
 }
+.home-page .carousel-control.left {
+  left: -40px;
+}
 
-.custom-development .carousel-control.right {
+.custom-development .carousel-control.right{
+  right: -40px;
+  left: auto;
+}
+.home-page .carousel-control.right{
   right: -40px;
   left: auto;
 }
 
-.custom-development .carousel-control.right i {
+.custom-development .carousel-control.right i{
+  margin-right: -2px;
+  margin-top: 4px;
+}
+.home-page .carousel-control.right i{
   margin-right: -2px;
   margin-top: 4px;
 }
 
-.custom-development .carousel .carousel-indicators {
+.custom-development .carousel .carousel-indicators，
+.home-page .carousel .carousel-indicators {
   bottom: 15px;
 }
 
-.custom-development .carousel-indicators li,
-.carousel-indicators li.active {
+.custom-development .carousel-indicators li, .carousel-indicators li.active，
+.home-page .carousel-indicators li, .carousel-indicators li.active {
   width: 11px;
   height: 11px;
   margin: 1px 5px;
   border-radius: 50%;
 }
 
-.custom-development .carousel-indicators li {
+.custom-development .carousel-indicators li，
+.home-page .carousel-indicators li {
   background: #e2e2e2;
   border-color: transparent;
 }
 
-.custom-development .carousel-indicators li.active {
+.custom-development .carousel-indicators li.active，
+.home-page .carousel-indicators li.active {
   border: none;
   background: #888;
 }
 
 .custom-development .text-box {
+  box-shadow: 2px 2px 20px rgb(216 216 216 / 59%);
+  margin: -20px 30px 15px 30px;
+}
+.home-page .text-box {
   box-shadow: 2px 2px 20px rgb(216 216 216 / 59%);
   margin: -20px 30px 15px 30px;
 }
@@ -6992,6 +7044,7 @@ img.immersive_img {
 .card_link {
   margin-left: 70px;
   margin-right: 70px;
+  padding-top: 50px;
 }
 
 .bg-white {
@@ -7223,8 +7276,6 @@ h3.blog-text-color {
   background-size: cover;
 }
 
-
-}
 .contact-page .bg-contact {
   position: absolute;
   right: 0;
@@ -8127,8 +8178,8 @@ h3.blog-text-color {
   right: 0;
   left: 0;
   width: 100%;
-  / height: 80vh !important;
-  / height: 580px !important;
+   /* height: 80vh !important; */
+   /* height: 580px !important; */
   background-image: url(../img/blog/postPandemicClassroom.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -8584,7 +8635,8 @@ h3.blog-text-color {
   height: 40vw;
 }
 .bg-custom-dev {
-  background: url(../img/service/custom_development_banner.jpg) !important;
+  /* background: url(../img/service/custom_development_banner.jpg) !important; */
+  background: url(../img/service/custom-dev-hero.jpeg) !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   background-position: top center !important;
