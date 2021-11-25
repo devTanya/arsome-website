@@ -893,8 +893,8 @@
     margin-left: -38px;
 }
 #myCarousel{
-  width: 345px;
-    margin-left: -35px;
+  width:auto;
+   
 }
 .dd-none{
   display: block;
@@ -906,4 +906,13 @@
 
 margin-top: -1px;
 }
+
+.mob-img-up18 {
+    position: absolute;
+    width: 82%;
+}
+.mob-cont-down18{
+  padding-top: 375px;
+}
+
 }
