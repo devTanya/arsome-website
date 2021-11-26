@@ -1,4 +1,6 @@
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteCond %{HTTP:if-modified-since} .
+RewriteRule . /not_modified.php [L]
 ErrorDocument 404 /404.php
