@@ -9438,3 +9438,32 @@ margin-top: 0px;
     width: 147px;
   }
 }
+
+/* Metaverse Page Custom Css */
+.metaverse .meta-text-origin {
+  font-size: 20px !important;
+  letter-spacing: 0px;
+  font-family: Arial;
+  font-weight: 100;
+  line-height: 40px;
+}
+
+.metaverse .meta-section-title {
+  font-size: 42px !important;
+  font-family: Arial;
+}
+
+.metaverse .meta-icon-size {
+  font-size: 22px;
+}
+
+.metaverse .metaverse-service .workshop-today {
+    float: none;
+    padding-left: 35px;
+    padding-top: 10px;
+    line-height: 20px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    text-align: left;
+}
+
