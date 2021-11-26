@@ -6812,8 +6812,14 @@ img.immersive_img {
   margin-top: 50px;
   width: 300px;
 }
+
 .custom-development .mobile2 {
-  margin-top: 70px;
+  margin-top: 50px;
+}
+
+.custom-development .mobile3 {
+  margin-top: 30px;
+  width: 220px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -7254,9 +7260,9 @@ h3.blog-text-color {
 }
 
 .home-page .home-blog .ar-blog {
-  height: 460px;
-  width: 300px;
-  left: -30px;
+  height: 480px;
+  /* width: 300px; */
+  /* left: -30px; */
 }
 
 .home-page .bg-home {
@@ -9134,8 +9140,34 @@ h3.blog-text-color {
   padding-left: 20px;
 }
 .card_link a {
+  color: white !important;
+}
+
+.card_link a:hover {
   color: #2f94f9 !important;
 }
+
+.card_link .learn-more-btn {
+  border: 1px solid #2f94f9;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 12px 20px;
+  text-align: center;
+  text-transform: capitalize;
+  transition: all 0.4s ease 0s;
+  z-index: 222;
+  background: #2f94f9;
+  width: 160px;
+}
+
+.card_link .learn-more-btn:hover {
+  background: white!important;
+  border: 1px solid #2f94f9;
+}
+
 .nav-btn-start a:hover {
   background: #2380dd!important;
   color: #ffffff;
