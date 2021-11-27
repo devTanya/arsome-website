@@ -7260,7 +7260,8 @@ h3.blog-text-color {
 }
 
 .home-page .home-blog .ar-blog {
-  height: 480px;
+  height: 500px;
+  padding: 0px 15px;
   /* width: 300px; */
   /* left: -30px; */
 }
