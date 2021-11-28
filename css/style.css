@@ -79,7 +79,7 @@ h1 {
 }
 
 h2 {
-  font-size: 38px;
+  font-size: 42px;
   line-height: 40px;
 }
 
@@ -160,11 +160,12 @@ a:focus {
 body {
   background: #fff none repeat scroll 0 0;
   color: #777;
-  font-family: "Helvetica";
-  font-size: 16px;
+  font-family: "Arial";
+  font-size: 20px !important;
+  font-weight: 100;
   text-align: left;
   overflow-x: hidden;
-  line-height: 24px;
+  line-height: 30px;
 }
 
 #scrollUp {
@@ -312,7 +313,7 @@ div#preloader {
 
 .section-headline p {
   max-width: 650px;
-  font-size: 16px;
+  font-size: 20px;
   letter-spacing: 0.5px;
   margin: 0 auto;
   line-height: 26px;
@@ -682,6 +683,7 @@ div#preloader {
   top: 100%;
   opacity: 1;
   z-index: 999;
+  box-shadow: 2px 2px 20px rgba(68, 68, 68, 0.3);
   visibility: visible;
 }
 
@@ -1109,7 +1111,7 @@ div#preloader {
   padding: 25px 20px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
   position: relative;
-  height: 700px;
+  height: 800px;
 }
 
 .well-services::after {
@@ -1171,7 +1173,7 @@ div#preloader {
 .about-content h3 {
   line-height: 38px;
   text-transform: capitalize;
-  font-size: 24px;
+  font-size: 33px;
   position: relative;
   padding-bottom: 20px;
 }
@@ -1189,7 +1191,15 @@ div#preloader {
 .about-content p {
   font-size: 16px;
   letter-spacing: 0.5px;
-  line-height: 24px;
+  line-height: 30px;
+}
+
+.about-content .immersive-text {
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  font-family: "Arial";
+  font-weight: 100;
+  line-height: 40px;
 }
 
 .about-details {
@@ -1843,7 +1853,7 @@ div#preloader {
 }
 
 .blog-content a h4 {
-  font-size: 16px;
+  font-size: 20px;
   text-transform: capitalize;
   font-weight: 600;
   color: #444;
@@ -3544,7 +3554,7 @@ h3.comment-reply-title {
 }
 
 .blog-content p {
-  font-size: 16px;
+  font-size: 18px;
   letter-spacing: 0.5px;
   padding-top: 10px;
 }
@@ -4098,6 +4108,15 @@ span.email-notes {
   text-transform: uppercase;
   font-weight: 600;
   font-size: 18px;
+}
+
+.event-content p {
+  font-size: 20px;
+  letter-spacing: 0px;
+  font-family: "Arial";
+  font-weight: 100;
+  line-height: 40px;
+
 }
 
 .team-content span {
@@ -6844,7 +6863,7 @@ img.immersive_img {
 .custom-development .carousel .item,
 .home-page .carousel .item {
   color: #000;
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
   overflow: hidden;
   min-height: 340px;
@@ -6857,7 +6876,15 @@ img.immersive_img {
 
 .custom-development .carousel .img-box, 
 .home-page .carousel .img-box {
-  width: 80px;
+  width: 200px;
+  height: 110px;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.custom-development .carousel .img-box, 
+.home-page .img-box {
+  width: 200px;
   height: 110px;
   margin: 0 auto;
   border-radius: 50%;
@@ -7063,7 +7090,7 @@ img.immersive_img {
   overflow: hidden;
   box-shadow: none;
   padding: 5px;
-  height: 450px;
+  height: 500px;
 }
 
 .blue-bg-link {
@@ -7086,7 +7113,7 @@ img.immersive_img {
 
 .bg-grey-innovating-wrapper {
   background-color: #0000004d;
-  margin: 40px 70px 60px 70px;
+  margin: 40px 40px 60px 40px;
   border-radius: 10px;
   background-image: url(../img/background/stock-photo-smart-city-and-abstract-dot-point-connect-with-gradient-line-and-aesthetic-intricate-wave-line-1499306735.jpg);
   background-repeat: no-repeat;
@@ -7138,7 +7165,7 @@ h3.blog-text-color {
 
 .home-page #customers-testimonials .shadow-effect p {
   font-family: inherit;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
   margin: 0 0 17px 0;
   font-weight: 300;
@@ -8633,6 +8660,7 @@ h3.blog-text-color {
   }
 }
 
+
 /* end cross-platform-health-literacy-tool  */
 .bg-process {
   background: url(../img/process/banner.png);
@@ -8649,6 +8677,8 @@ h3.blog-text-color {
   background-position: top center !important;
   height: 40vw;
 }
+
+
 .bg-contact-page.contactnewpage {
   background: url(../img/contact/contact-us.jpg);
   background-repeat: no-repeat;
@@ -8677,6 +8707,7 @@ h3.blog-text-color {
   background-position: top center;
   height: 40vw;
 }
+
 
 /*=======Virtual Reality Driving Training======*/
 .vrdt_test {
@@ -9140,6 +9171,15 @@ h3.blog-text-color {
   padding-top: 24px;
   padding-left: 20px;
 }
+
+@media only screen and (min-width: 768px) {
+  .nav-btn-start {
+    padding-top: 24px;
+    width: 105px;
+    padding-left: 5px;
+  }
+}
+
 .card_link a {
   color: white !important;
 }
@@ -9195,7 +9235,7 @@ span.color:hover {
   padding-bottom: 60px;
 }
 .lh-menu .tab-menu ul.nav li a {
-  width: 145px;
+  width: 170px;
 }
 .banner-btn-01:hover {
   border: 1px solid #555;
@@ -9498,5 +9538,29 @@ margin-top: 0px;
     margin-bottom: 30px;
     font-weight: 600;
     text-align: left;
+}
+
+
+/* BG height for tabletPCs */
+@media only screen and (min-width: 768px) {
+  .bg-custom-dev,
+  .bg-process,
+  .page-area-metaverse,
+  .bg-it,
+  .page-area,
+  .press-area {
+    height: 80vw;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .bg-custom-dev,
+  .bg-process,
+  .page-area-metaverse,
+  .bg-it,
+  .page-area,
+  .press-area {
+    height: 40vw;
+  }
 }
 
