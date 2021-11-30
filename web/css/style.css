@@ -262,7 +262,7 @@ div#preloader {
 }
 
 .area-padding {
-  padding: 90px 0px;
+  padding: 50px 0px;
 }
 
 .area-padding-2 {
@@ -963,7 +963,7 @@ div#preloader {
   color: #fff;
   cursor: pointer;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 700;
   padding: 12px 20px;
   text-align: center;
@@ -971,7 +971,7 @@ div#preloader {
   transition: all 0.4s ease 0s;
   z-index: 222;
   background: #2f94f9;
-  width: 160px;
+  width: 175px
 }
 
 .ready-btn:hover {
@@ -1189,9 +1189,12 @@ div#preloader {
 }
 
 .about-content p {
-  font-size: 16px;
-  letter-spacing: 0.5px;
-  line-height: 30px;
+  font-size: 20px;
+  letter-spacing: 0px;
+  font-family: Arial;
+  font-weight: 100;
+  line-height: 40px;
+
 }
 
 .about-content .immersive-text {
@@ -3091,7 +3094,7 @@ page-team-member {
 
 .breadcrumb .section-headline {
   margin-bottom: 0px;
-  padding-top: 7vw;
+  padding-top: 5vw;
 }
 
 .breadcrumb .section-headline h3::after {
@@ -3554,7 +3557,7 @@ h3.comment-reply-title {
 }
 
 .blog-content p {
-  font-size: 18px;
+  font-size: 16px;
   letter-spacing: 0.5px;
   padding-top: 10px;
 }
@@ -5768,7 +5771,7 @@ a.text-dark:hover {
 
 @media only screen and (max-width: 767px) {
   .area-padding {
-    padding: 30px 0px;
+    padding: 50px 0px;
   }
   .title2 {
     font-size: 2.5rem !important;
@@ -7072,12 +7075,14 @@ img.immersive_img {
 .card_des {
   margin-left: 15px;
   margin-right: 15px;
+  font-size: 16px;
 }
 
 .card_link {
   margin-left: 70px;
   margin-right: 70px;
-  padding-top: 50px;
+  margin-top: 40px;
+  bottom: 0;
 }
 
 .bg-white {
@@ -8637,11 +8642,24 @@ h3.blog-text-color {
   width: 100%;
   /* height: 80vh !important; */
   
-  height: 580px !important;
+  height: 40vw !important;
   background-image: url(../img/health-literacy/banner_img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.health-literacy h4 {
+  /* font-size: 33px; */
+}
+
+.health-literacy p {
+  font-size: 20px;
+  letter-spacing: 0px;
+  font-family: Arial;
+  font-weight: 100;
+  line-height: 40px;
+}
+
 @media only screen and (max-width: 600px) {
   .health-literacy .bg-contact {
     height: 82vh !important;
@@ -8672,9 +8690,9 @@ h3.blog-text-color {
 .bg-custom-dev {
   /* background: url(../img/service/custom_development_banner.jpg) !important; */
   background: url(../img/service/custom-dev-hero.jpeg) !important;
-  background-repeat: no-repeat !important;
-  background-size: cover !important;
-  background-position: top center !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
   height: 40vw;
 }
 
@@ -9193,7 +9211,7 @@ h3.blog-text-color {
   color: #fff;
   cursor: pointer;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 700;
   padding: 12px 20px;
   text-align: center;
@@ -9259,9 +9277,9 @@ span.color:hover {
 .case-study-4img {
   margin: 0px 115px;
 }
-.metaverse .breadcrumb .section-headline {
+/* .metaverse .breadcrumb .section-headline {
   padding-top: 5vw;
-}
+} */
 .lern-more-text-mv {
   padding-top: 3vw;
 }
@@ -9513,7 +9531,7 @@ margin-top: 0px;
 }
 
 /* Metaverse Page Custom Css */
-.metaverse .meta-text-origin {
+.meta-text-origin {
   font-size: 20px !important;
   letter-spacing: 0px;
   font-family: Arial;
@@ -9540,19 +9558,28 @@ margin-top: 0px;
     text-align: left;
 }
 
+.health-literacy .about-page-area {
+  margin-top: 250px;
+}
 
 /* BG height for tabletPCs */
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 768px) { 
   .bg-custom-dev,
   .bg-process,
   .page-area-metaverse,
   .bg-it,
   .page-area,
-  .press-area {
+  .press-area, 
+  .health-literacy .bg-contact{
     height: 80vw;
+  }
+
+  .health-literacy .about-page-area {
+    margin-top: 0px;
   }
 }
 
+/* BG height for PCs */
 @media only screen and (min-width: 992px) {
   .bg-custom-dev,
   .bg-process,
@@ -9562,5 +9589,23 @@ margin-top: 0px;
   .press-area {
     height: 40vw;
   }
+
+  .health-literacy .about-page-area {
+    margin-top: 150px;
+  }
+  .health-literacy .about-page-area>section {
+    margin-top: 0px;
+  }
 }
 
+/* BG height for phones */
+@media only screen and (max-width: 600px) {
+  
+  .health-literacy .about-page-area {
+    margin-top: 50px;
+  }
+}
+
+#sticker {
+  box-shadow: 0 5px 20px rgb(0 0 0 / 15%);
+}
