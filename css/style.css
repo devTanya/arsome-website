@@ -7299,7 +7299,7 @@ h3.blog-text-color {
 }
 
 .home-page .bg-home {
-  height: 615px !important;
+  height: 800px !important;
 }
 
 .mob-heading-home {
@@ -9570,7 +9570,8 @@ margin-top: 0px;
   .bg-it,
   .page-area,
   .press-area, 
-  .health-literacy .bg-contact{
+  .health-literacy .bg-contact,
+  .home-page .bg-home {
     height: 80vw;
   }
 
@@ -9587,7 +9588,8 @@ margin-top: 0px;
   .bg-it,
   .page-area,
   .press-area,
-  .health-literacy .bg-contact {
+  .health-literacy .bg-contact 
+  .home-page .bg-home{
     height: 800px;
   }
 
@@ -9605,6 +9607,10 @@ margin-top: 0px;
   .health-literacy .about-page-area {
     margin-top: 50px;
   }
+}
+
+.home-page .breadcrumb {
+  padding: 250px 0px;
 }
 
 #sticker {
