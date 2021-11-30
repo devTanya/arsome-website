@@ -3039,7 +3039,7 @@ page-team-member {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 40vw;
+  /* height: 40vw; */
 }
 
 .press-area {
@@ -3051,7 +3051,7 @@ page-team-member {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 40vw;
+  /* height: 40vw; */
 }
 
 .blog-area-bg {
@@ -8636,13 +8636,13 @@ h3.blog-text-color {
   width: 90%;
 }
 .health-literacy .bg-contact {
-  position: absolute;
+  position: relative;
   right: 0;
   left: 0;
   width: 100%;
   /* height: 80vh !important; */
   
-  height: 40vw !important;
+  /* height: 40vw !important; */
   background-image: url(../img/health-literacy/banner_img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -8660,9 +8660,9 @@ h3.blog-text-color {
   line-height: 40px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 479px) {
   .health-literacy .bg-contact {
-    height: 82vh !important;
+    height: 110vh !important;
   }
   
   .health-literacy .bg-text-size {
@@ -8685,7 +8685,7 @@ h3.blog-text-color {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 40vw;
+  /* height: 40vw; */
 }
 .bg-custom-dev {
   /* background: url(../img/service/custom_development_banner.jpg) !important; */
@@ -8693,7 +8693,7 @@ h3.blog-text-color {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 40vw;
+  /* height: 40vw; */
 }
 
 
@@ -8702,28 +8702,28 @@ h3.blog-text-color {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 40vw;
+  /* height: 40vw; */
 }
 .bg-contact-page {
   background: url(../img/contact/contact_bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 40vw;
+  /* height: 40vw; */
 }
 .bg-learning-hub {
   background: url(../img/blog/Learning_Hub_banner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 40vw;
+  /* height: 40vw; */
 }
 .bg-it {
   background: url(../img/service/immersive_bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 40vw;
+  /* height: 40vw; */
 }
 
 
@@ -9267,7 +9267,7 @@ span.color:hover {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  height: 40vw;
+  /* height: 40vw; */
 }
 .metaverse-service-1 .single-about {
   width: 80%;
@@ -9586,8 +9586,9 @@ margin-top: 0px;
   .page-area-metaverse,
   .bg-it,
   .page-area,
-  .press-area {
-    height: 40vw;
+  .press-area,
+  .health-literacy .bg-contact {
+    height: 800px;
   }
 
   .health-literacy .about-page-area {
