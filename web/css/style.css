@@ -690,11 +690,11 @@ div#preloader {
 .main-menu ul.nav li ul.sub-menu li a {
   color: #444;
   display: block;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 700;
   padding: 10px 15px;
   text-transform: capitalize;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Arial";
 }
 
 .main-menu ul.nav li:hover ul.sub-menu li a:hover {
@@ -2347,8 +2347,9 @@ h5 {
 
 .footer-area-bottom {
   background: black none repeat scroll 0 0;
-  padding: 25px 0;
+  padding: 5px 0;
   border-top: 1px solid #333;
+  font-size: 12px;
 }
 
 .copyright-text a:hover {
@@ -6841,7 +6842,7 @@ img.immersive_img {
 
 .custom-development .mobile3 {
   margin-top: 30px;
-  width: 220px;
+  width: 265px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -8632,7 +8633,7 @@ h3.blog-text-color {
 /* start cross-platform-health-literacy-tool  */
 .card_link-01 {
   color: #555;
-  font-size: 14px;
+  font-size: 19px;
   width: 90%;
 }
 .health-literacy .bg-contact {
@@ -8658,6 +8659,10 @@ h3.blog-text-color {
   font-family: Arial;
   font-weight: 100;
   line-height: 40px;
+}
+
+.health-literacy .card_link-01 {
+  font-size: 19px;
 }
 
 @media only screen and (max-width: 479px) {
@@ -9113,7 +9118,7 @@ h3.blog-text-color {
   font-size: 18px;
 }
 .footer-area {
-  padding: 70px 0px 60px 0px;
+  padding: 40px 0px 40px 0px;
   background: #1d1d1d;
 }
 @media only screen and (max-width: 600px) {
@@ -9588,16 +9593,13 @@ margin-top: 0px;
   .bg-it,
   .page-area,
   .press-area, 
-  .home-page .bg-home{
+  .home-page .bg-home, 
+  .health-literacy .bg-contact{
     height: 650px;
   }
 
-  .health-literacy .bg-contact {
-    height: 750px;
-  }
-
   .health-literacy .about-page-area {
-    margin-top: 50px;
+    /* margin-top: 50px; */
   }
   .health-literacy .about-page-area>section {
     margin-top: 0px;
@@ -9623,4 +9625,8 @@ margin-top: 0px;
 
 #sticker {
   box-shadow: 0 5px 20px rgb(0 0 0 / 15%);
+}
+
+.health-literacy .footer-area-bottom p {
+  font-size: 12px;
 }
