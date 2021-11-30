@@ -7299,7 +7299,7 @@ h3.blog-text-color {
 }
 
 .home-page .bg-home {
-  height: 800px !important;
+  height: 650px !important;
 }
 
 .mob-heading-home {
@@ -9590,7 +9590,7 @@ margin-top: 0px;
   .press-area,
   .health-literacy .bg-contact 
   .home-page .bg-home{
-    height: 800px;
+    height: 650px;
   }
 
   .health-literacy .about-page-area {
@@ -9610,7 +9610,12 @@ margin-top: 0px;
 }
 
 .home-page .breadcrumb {
-  padding: 250px 0px;
+  padding: 150px 0px;
+}
+.metaverse .breadcrumb,
+.custom-development .breadcrumb,
+.process .breadcrumb {
+  padding: 70px 0px;
 }
 
 #sticker {
