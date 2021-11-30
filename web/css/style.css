@@ -9587,14 +9587,17 @@ margin-top: 0px;
   .page-area-metaverse,
   .bg-it,
   .page-area,
-  .press-area,
-  .health-literacy .bg-contact 
+  .press-area, 
   .home-page .bg-home{
     height: 650px;
   }
 
+  .health-literacy .bg-contact {
+    height: 750px;
+  }
+
   .health-literacy .about-page-area {
-    margin-top: 150px;
+    margin-top: 50px;
   }
   .health-literacy .about-page-area>section {
     margin-top: 0px;
