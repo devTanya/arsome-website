@@ -7911,6 +7911,42 @@ h3.blog-text-color {
   background-position: center center;
 }
 
+.bg-blog-img-41 {
+  background-image: url(../img/blog/metaverse-logo-4.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30vw;
+  width: auto;
+  background-position: center center;
+}
+
+.bg-blog-img-42 {
+  background-image: url(../img/blog/metaverse-logo-2.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30vw;
+  width: auto;
+  background-position: center center;
+}
+
+.bg-blog-img-43 {
+  background-image: url(../img/blog/metaverse-logo-3.jpeg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30vw;
+  width: auto;
+  background-position: center center;
+}
+
+.bg-blog-img-44 {
+  background-image: url(../img/blog/metaverse-logo-1.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30vw;
+  width: auto;
+  background-position: center center;
+}
+
 /* Slider Css */
 .carousel-inner .item .img-text p {
   text-align: center;
