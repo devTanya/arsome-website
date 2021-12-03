@@ -7148,7 +7148,11 @@ h3.blog-text-color {
 }
 
 .area-padding-02 {
-  padding: 50px 0px;
+  padding: 50px 15px;
+}
+
+.area-padding-03 {
+  padding: 0px 15px;
 }
 
 .home-blog .ar-blog {
