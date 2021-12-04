@@ -9739,15 +9739,12 @@ margin-top: 0px;
 }
 
 /* Button hover effect */
-.home-page .btn-hover-effect::before {
+/* .home-page .btn-hover-effect::before {
   content: "";
   position: absolute;
   z-index: -1;
-  /* top: -25px;
-  right: -35px; */
   top: 1px;
   right: 1px;
-  /* background: rgb(255, 255, 255, 0.8) !important; */
   background: #2f94f9 !important;
   border-radius: 5px;
   height: 1px;
@@ -9759,20 +9756,13 @@ margin-top: 0px;
 
 .home-page .nav-btn-start:hover .btn-hover-effect:before {
   background: #FFF !important;
-  /* background: #2f94f9 !important; */
   cursor: pointer;
   transform: scale(49 , 42);
   transform-origin: right top;
   border-radius: 5px;
 }
 
-.home-page .nav-btn-start:hover .nav-start-btn{
-  /* border: 2px solid #2f94f9;
-  border-radius: 5px;
-  transition: all 0.35s ease-out; */
-}
-
 .home-page .main-menu .nav-btn-start:hover span{
   color: #2f94f9 !important;
   transition: color 0.35s ease-out;
-}
+} */
