@@ -9751,7 +9751,11 @@ margin-top: 0px;
 }
 
 .nft .breadcrumb {
-  padding: 35px 0px;
+  padding: 80px 0px;
+}
+.nft .grey-bg .nft-brand {
+  padding: 0px 50px;
+  line-height: 40px;
 }
 
 #sticker {
