@@ -1845,7 +1845,7 @@ div#preloader {
   transition: 0.5s;
 }
 
-.image-scale::after {
+/* .image-scale::after {
   position: absolute;
   content: "";
   background: rgba(0, 46, 91, 0.3);
@@ -1853,7 +1853,7 @@ div#preloader {
   height: 100%;
   left: 0;
   top: 0;
-}
+} */
 
 .blog-content a h4 {
   font-size: 20px;
@@ -9332,6 +9332,15 @@ span.color:hover {
   background-position: top center;
   /* height: 40vw; */
 }
+
+.page-area-nft {
+  background: url(../img/nft/bg-nft.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  /* height: 40vw; */
+}
+
 .metaverse-service-1 .single-about {
   width: 80%;
   float: inherit;
@@ -9508,7 +9517,8 @@ margin-top: 0px;
     display: inherit;
   }
   
-  .page-area-metaverse {
+  .page-area-metaverse,
+  .page-area-nft {
     height: auto;
   }
   
@@ -9630,6 +9640,7 @@ margin-top: 0px;
   .bg-custom-dev,
   .bg-process,
   .page-area-metaverse,
+  .page-area-nft,
   .bg-it,
   .page-area,
   .press-area, 
@@ -9674,6 +9685,7 @@ margin-top: 0px;
   .bg-custom-dev,
   .bg-process,
   .page-area-metaverse,
+  .page-area-nft,
   .bg-it,
   .page-area,
   .press-area, 
@@ -9730,6 +9742,10 @@ margin-top: 0px;
 .custom-development .breadcrumb,
 .process .breadcrumb {
   padding: 70px 0px;
+}
+
+.nft .breadcrumb {
+  padding: 35px 0px;
 }
 
 #sticker {
