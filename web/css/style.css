@@ -9466,7 +9466,7 @@ margin-top: 0px;
   }
   
   .home-page .card_body {
-    width: auto;
+    /* width: auto; */
   }
   
   .home-page .home-our-work .ar-blog {
@@ -9478,7 +9478,7 @@ margin-top: 0px;
   }
   
   .home-page .bg-grey-innovating .about-content h2 {
-    font-size: 35px;
+    font-size: 32px;
   }
   
   .home-page .home-blog .ar-blog {
@@ -9678,6 +9678,9 @@ margin-top: 0px;
   .health-literacy .about-page-area {
     margin-top: 0px;
   }
+  .bg-grey-innovating-wrapper .about-content {
+    margin: 0px 30px;
+  }
 }
 
 /* BG height for PCs */
@@ -9723,6 +9726,9 @@ margin-top: 0px;
   .health-literacy .about-page-area>section {
     margin-top: 0px;
   }
+  .bg-grey-innovating-wrapper .about-content {
+    margin: 0px 30px;
+  }
 }
 
 /* BG height for phones */
@@ -9762,6 +9768,34 @@ margin-top: 0px;
   line-height: 1.1;
   font-family: "Arial";
 }
+
+/* Mobile phone font */
+@media only screen and (max-width: 600px) {
+
+  h2 {
+    font-size: 32px;
+  }
+  .section-headline p {
+    font-size: 18px;
+  }
+  .image-scaler img {
+    height: 145px;
+  }
+  .about-content p {
+    font-size: 18px;
+  }
+  .bg-grey-innovating-wrapper .about-content {
+    margin: 0px 0px;
+  }
+  
+  .meta-text-origin {
+    font-weight: normal;
+    font-size: 18px !important;
+  }
+}
+
+
+
 /* Button hover effect */
 /* .home-page .btn-hover-effect::before {
   content: "";
