@@ -7274,6 +7274,11 @@ h3.blog-text-color {
   margin-top: 6rem;
 }
 
+.media-desc {
+  font-family: Arial;
+  font-weight: normal;
+}
+
 @media only screen and (max-width: 600px) {
   .home-page .mb-h1-home {
     font-size: 40px;
