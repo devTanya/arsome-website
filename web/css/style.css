@@ -9191,8 +9191,8 @@ h3.blog-text-color {
 @media only screen and (max-width: 600px) {
   .footer-nav .nav-link {
     padding-top: 10px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 55px;
+    padding-right: 55px;
     font-size: 18px;
     display: inline-block;
   }
