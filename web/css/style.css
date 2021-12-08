@@ -162,7 +162,7 @@ body {
   color: #777;
   font-family: "Arial";
   font-size: 20px !important;
-  font-weight: 100;
+  font-weight: normal;
   text-align: left;
   overflow-x: hidden;
   line-height: 30px;
@@ -9786,6 +9786,11 @@ margin-top: 0px;
   padding-top: 90px;
 }
 
+.blog-img {
+  width:auto; 
+  height: 400px;
+}
+
 /* Mobile phone */
 @media only screen and (max-width: 600px) {
 
@@ -9883,6 +9888,12 @@ margin-top: 0px;
   .learning-hub .event-content p {
     font-weight: normal;
     font-size: 18px !important;
+  }
+
+  /* blogs */
+  .blog-img {
+    width: auto;
+    height: 210px;
   }
 }
 
