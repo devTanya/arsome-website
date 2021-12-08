@@ -1247,10 +1247,14 @@ div#preloader {
   font-size: 18px;
   color: #666;
   float: left;
-  line-height: 50px;
+  /* line-height: 50px; */
   padding-left: 10px;
   margin-bottom: 0;
   font-weight: 600;
+}
+
+.custom-development .single-about h5 {
+  line-height: 50px;
 }
 
 .about-image {
@@ -7275,8 +7279,8 @@ h3.blog-text-color {
     font-size: 40px;
   }
   .home-page .card_body {
-    width: 300px;
-    left: -12px;
+    /* width: 300px;
+    left: -12px; */
   }
   .home-page .card_link {
     margin-left: 32px;
@@ -7291,7 +7295,7 @@ h3.blog-text-color {
     border-radius: 10px;
   }
   .home-page .bg-grey-innovating .about-content {
-    margin: 0px 0px;
+    margin: 5px 20px;
   }
   .home-page .shadow-effect {
     padding: 14px;
@@ -9182,8 +9186,8 @@ h3.blog-text-color {
 @media only screen and (max-width: 600px) {
   .footer-nav .nav-link {
     padding-top: 10px;
-    padding-left: 45px;
-    padding-right: 45px;
+    padding-left: 50px;
+    padding-right: 50px;
     font-size: 18px;
     display: inline-block;
   }
@@ -9402,7 +9406,7 @@ span.color:hover {
   }
   
   .custom-development-wrapper .single-about h5 {
-    font-size: 12px !important;
+    /* font-size: 12px !important; */
   }
   
   .home-our-work .ar-blog {
@@ -9534,7 +9538,7 @@ margin-top: 0px;
     font-size: 18px;
     color: #666;
     float: none;
-    line-height: 50px;
+    /* line-height: 50px; */
     padding-left: 30px;
     margin-bottom: 0;
     font-weight: 600;
@@ -9773,26 +9777,100 @@ margin-top: 0px;
   font-family: "Arial";
 }
 
-/* Mobile phone font */
+.learning-hub .blog-area {
+  padding-top: 90px;
+}
+
+/* Mobile phone */
 @media only screen and (max-width: 600px) {
 
+  /* home page */
   h2 {
     font-size: 32px;
   }
   .section-headline p {
     font-size: 18px;
+    font-weight: normal;
   }
   .image-scaler img {
     height: 145px;
   }
   .about-content p {
     font-size: 18px;
+    font-weight: normal;
   }
   .bg-grey-innovating-wrapper .about-content {
     margin: 0px 0px;
   }
+  .section-headline p {
+    letter-spacing: 0px;
+  }
   
   .meta-text-origin {
+    font-weight: normal;
+    font-size: 18px !important;
+  }
+
+  .container {
+    padding-left: 1px;
+    padding-right: 1px;
+    width: 280px;
+  }
+
+  .col-xs-12 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .card_des {
+    font-weight: normal;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .home-page .text-box {
+    margin: -20px 10px 15px 10px;
+  }
+
+  .home-page .carousel .testimonial {
+    padding: 50px 20px 50px;
+    text-align: left;
+  }
+
+  .blog-content p {
+    font-weight: normal;
+  }
+
+  /* metaverse page */
+  .single-about h5 {
+    line-height: 40px;
+  }
+
+  /* ar/vr/xr page */
+  .about-content h3 {
+    font-size: 28px;
+  }
+
+  .about-content .immersive-text {
+    font-weight: normal;
+    font-size: 18px !important;
+  }
+  .custom-development .mobile3 {
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  /* process page */
+  .process .single-about h5 {
+    line-height: 45px;
+  }
+
+  /* learning hub */
+  .learning-hub .blog-area {
+    padding-top: 0px;
+  }
+
+  .learning-hub .event-content p {
     font-weight: normal;
     font-size: 18px !important;
   }
