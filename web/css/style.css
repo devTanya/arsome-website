@@ -9852,6 +9852,10 @@ margin-top: 0px;
     line-height: 40px;
   }
 
+  .metaverse .meta-section-title {
+    font-size: 32px !important;
+  }
+
   /* ar/vr/xr page */
   .about-content h3 {
     font-size: 28px;
