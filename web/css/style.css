@@ -7291,15 +7291,15 @@ h3.blog-text-color {
     margin-left: 32px;
     margin-right: 32px;
   }
-  .home-page .mob-pb {
+  .mob-pb {
     padding-bottom: 20px;
   }
-  .home-page .bg-grey-innovating {
+  .bg-grey-innovating {
     background-color: #555555;
     margin: 30px;
     border-radius: 10px;
   }
-  .home-page .bg-grey-innovating .about-content {
+  .bg-grey-innovating .about-content {
     margin: 5px 25px;
   }
   .home-page .shadow-effect {
@@ -9389,7 +9389,7 @@ span.color:hover {
   }
   
   .breadcrumb {
-    padding: 0;
+    /* padding: 0; */
   }
   
   li.nav-btn-start .nav-start-btn.right-btn.ready-btn-big {
@@ -9486,7 +9486,7 @@ margin-top: 0px;
     height: auto;
   }
   
-  .home-page .bg-grey-innovating .about-content h2 {
+  .bg-grey-innovating .about-content h2 {
     font-size: 32px;
   }
   
@@ -9791,6 +9791,19 @@ margin-top: 0px;
   height: 400px;
 }
 
+.vr-driving .card_body {
+  height: 103%;
+}
+.vr-driving .card_img {
+  width: 135px;
+}
+.vr-driving .card_title {
+  font-size: 33px;
+}
+.vr-driving .card_des {
+  margin: 15px 10px;
+}
+
 /* Mobile phone */
 @media only screen and (max-width: 600px) {
 
@@ -9809,9 +9822,7 @@ margin-top: 0px;
     font-size: 18px;
     font-weight: normal;
   }
-  .bg-grey-innovating-wrapper .about-content {
-    margin: 0px 0px;
-  }
+  
   .section-headline p {
     letter-spacing: 0px;
   }
