@@ -9288,7 +9288,7 @@ h3.blog-text-color {
   }
 }
 
-.nav-btn-start {
+.nav-padding {
   padding-left: 50px;
 }
 
@@ -9663,7 +9663,7 @@ margin-top: 0px;
 }
 
 .health-literacy .about-page-area {
-  margin-top: 250px;
+  margin-top: 50px;
 }
 
 /* BG height for tabletPCs */
@@ -9722,8 +9722,8 @@ margin-top: 0px;
   .home-blog .ar-blog {
     height: 520px;
   }
-  .nav-btn-start {
-    padding-left: 15px;
+  .nav-padding {
+    padding-left: 0px;
   }
 }
 
@@ -10030,7 +10030,6 @@ margin-top: 0px;
   .footer-area {
     display: none;
   }
-  
 }
 
 
