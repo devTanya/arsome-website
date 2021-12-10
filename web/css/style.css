@@ -1253,7 +1253,8 @@ div#preloader {
   font-weight: 600;
 }
 
-.custom-development .single-about h5 {
+.custom-development .single-about h5,
+.process .single-about h5 {
   line-height: 50px;
 }
 
@@ -9206,12 +9207,13 @@ h3.blog-text-color {
 @media only screen and (max-width: 600px) {
   .footer-nav .nav-link {
     padding-top: 10px;
-    padding-left: 55px;
-    padding-right: 55px;
+    padding-left: 65px;
+    padding-right: 65px;
     font-size: 18px;
     display: inline-block;
   }
 }
+
 .ready-btn-home {
   border: 1px solid #2f94f9;
   color: #fff;
@@ -9953,7 +9955,7 @@ margin-top: 0px;
     line-height: 45px;
   }
 
-  /* learning hub */
+  /* Blog */
   .learning-hub .blog-area {
     padding-top: 0px;
   }
@@ -10013,6 +10015,12 @@ margin-top: 0px;
   .contact-page .phone-number {
     display: block;
     margin-top: 10px;
+  }
+
+  /* footer */
+
+  .footer-area {
+    display: none;
   }
   
 }
