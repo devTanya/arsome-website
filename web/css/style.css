@@ -1886,7 +1886,7 @@ h5 {
 .blog-meta {
   position: relative;
   top: -40px;
-  background: #2f94f9;
+  background: #287bce;
   width: 85px;
   padding: 7px 10px;
   left: 15px;
@@ -7375,7 +7375,6 @@ h3.blog-text-color {
   font-size: 18px;
 }
 .banner-btn-01 {
-  border: 1px solid #fff;
   display: inline-block;
   padding: 11px 20px;
   color: #2f94f9;
@@ -7383,11 +7382,13 @@ h3.blog-text-color {
   font-size: 20px;
   background: #fff;
   border-radius: 0;
-  float: right;
   margin: 7px 0px;
   font-size: 18px;
   font-weight: 700;
   transition: 0.4s;
+  width: 180px;
+  border-radius: 10px;
+  border: 1px solid #2f94f9;
 }
 .contact-page .form-control {
   opacity: 0.5;
@@ -9345,8 +9346,8 @@ span.color:hover {
   width: 170px;
 }
 .banner-btn-01:hover {
-  border: 1px solid #555;
-  background: #555;
+  border: 1px solid #2269B1;
+  background: #2269b1;
   color: #fff;
 }
 
