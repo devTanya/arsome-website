@@ -162,7 +162,7 @@ body {
   color: #777;
   font-family: "Arial";
   font-size: 20px !important;
-  font-weight: 100;
+  font-weight: normal;
   text-align: left;
   overflow-x: hidden;
   line-height: 30px;
@@ -171,14 +171,14 @@ body {
 #scrollUp {
   background: #000 none repeat scroll 0 0;
   border-radius: 2px;
-  bottom: 15px;
+  bottom: 35px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
   color: #fff;
   font-size: 20px;
   height: 34px;
   line-height: 30px;
   opacity: 0.6;
-  right: 15px;
+  right: 25px;
   text-align: center;
   transition: all 0.3s ease 0s;
   width: 34px;
@@ -597,7 +597,7 @@ div#preloader {
   color: #2f94f9;
 }
 
-.main-menu ul.navbar-nav>li>a::before {
+/* .main-menu ul.navbar-nav>li>a::before {
   background: #2f94f9;
   content: "";
   height: 2px;
@@ -606,7 +606,7 @@ div#preloader {
   width: 0;
   transition: 0.5s;
   left: 0px;
-}
+} */
 
 .main-menu ul.navbar-nav>li:hover>a:before,
 .main-menu ul.navbar-nav>li.active>a::before {
@@ -1247,10 +1247,15 @@ div#preloader {
   font-size: 18px;
   color: #666;
   float: left;
-  line-height: 50px;
+  /* line-height: 50px; */
   padding-left: 10px;
   margin-bottom: 0;
   font-weight: 600;
+}
+
+.custom-development .single-about h5,
+.process .single-about h5 {
+  line-height: 50px;
 }
 
 .about-image {
@@ -1845,7 +1850,7 @@ div#preloader {
   transition: 0.5s;
 }
 
-.image-scale::after {
+/* .image-scale::after {
   position: absolute;
   content: "";
   background: rgba(0, 46, 91, 0.3);
@@ -1853,7 +1858,7 @@ div#preloader {
   height: 100%;
   left: 0;
   top: 0;
-}
+} */
 
 .blog-content a h4 {
   font-size: 20px;
@@ -1881,7 +1886,7 @@ h5 {
 .blog-meta {
   position: relative;
   top: -40px;
-  background: #2f94f9;
+  background: #287bce;
   width: 85px;
   padding: 7px 10px;
   left: 15px;
@@ -5770,9 +5775,18 @@ a.text-dark:hover {
   height: 275px;
 }
 
+.begin-story-section {
+  padding: 50px 0px 50px 0px;
+  margin-top: 50px;
+}
+
 @media only screen and (max-width: 767px) {
   .area-padding {
     padding: 50px 0px;
+  }
+  .begin-story-section {
+    padding: 0px 0px 50px 0px;
+    margin-top: 0px;
   }
   .title2 {
     font-size: 2.5rem !important;
@@ -6683,7 +6697,7 @@ img.mobile {
 }
 
 img.immersive_img {
-  max-width: 100%;
+  max-width: 80%;
   height: auto !important;
 }
 
@@ -7074,8 +7088,8 @@ img.immersive_img {
 }
 
 .card_des {
-  margin-left: 15px;
-  margin-right: 15px;
+  margin-left: 17px;
+  margin-right: 17px;
   font-size: 16px;
 }
 
@@ -7117,6 +7131,8 @@ img.immersive_img {
   display: inline-block;
 }
 
+
+
 .bg-grey-innovating-wrapper {
   background-color: #0000004d;
   margin: 40px 40px 60px 40px;
@@ -7145,6 +7161,23 @@ h3.blog-text-color {
 
 .area-padding-01 {
   padding: 60px 0px;
+}
+
+.area-padding-02 {
+  padding: 50px 15px;
+}
+
+.area-padding-03 {
+  padding: 0px 15px;
+}
+.area-padding-04 {
+  padding: 0px 80px;
+}
+
+.ul-type {
+  list-style: outside disc none;
+  padding: 0px 40px 0px;
+  color: #555;
 }
 
 .home-blog .ar-blog {
@@ -7253,28 +7286,33 @@ h3.blog-text-color {
   margin-top: 6rem;
 }
 
+.media-desc {
+  font-family: Arial;
+  font-weight: normal;
+}
+
 @media only screen and (max-width: 600px) {
   .home-page .mb-h1-home {
     font-size: 40px;
   }
   .home-page .card_body {
-    width: 300px;
-    left: -12px;
+    /* width: 300px;
+    left: -12px; */
   }
   .home-page .card_link {
     margin-left: 32px;
     margin-right: 32px;
   }
-  .home-page .mob-pb {
+  .mob-pb {
     padding-bottom: 20px;
   }
-  .home-page .bg-grey-innovating {
+  .bg-grey-innovating {
     background-color: #555555;
     margin: 30px;
     border-radius: 10px;
   }
-  .home-page .bg-grey-innovating .about-content {
-    margin: 0px 0px;
+  .bg-grey-innovating .about-content {
+    margin: 5px 25px;
   }
   .home-page .shadow-effect {
     padding: 14px;
@@ -7337,7 +7375,6 @@ h3.blog-text-color {
   font-size: 18px;
 }
 .banner-btn-01 {
-  border: 1px solid #fff;
   display: inline-block;
   padding: 11px 20px;
   color: #2f94f9;
@@ -7345,11 +7382,13 @@ h3.blog-text-color {
   font-size: 20px;
   background: #fff;
   border-radius: 0;
-  float: right;
   margin: 7px 0px;
   font-size: 18px;
   font-weight: 700;
   transition: 0.4s;
+  width: 180px;
+  border-radius: 10px;
+  border: 1px solid #2f94f9;
 }
 .contact-page .form-control {
   opacity: 0.5;
@@ -7904,6 +7943,42 @@ h3.blog-text-color {
 }
 .bg-blog-img-40 {
   background-color: #FFFFFF;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30vw;
+  width: auto;
+  background-position: center center;
+}
+
+.bg-blog-img-41 {
+  background-image: url(../img/blog/metaverse-logo-4.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30vw;
+  width: auto;
+  background-position: center center;
+}
+
+.bg-blog-img-42 {
+  background-image: url(../img/blog/metaverse-logo-2.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30vw;
+  width: auto;
+  background-position: center center;
+}
+
+.bg-blog-img-43 {
+  background-image: url(../img/blog/metaverse-logo-3.jpeg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30vw;
+  width: auto;
+  background-position: center center;
+}
+
+.bg-blog-img-44 {
+  background-image: url(../img/blog/metaverse-logo-1.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   height: 30vw;
@@ -8638,16 +8713,21 @@ h3.blog-text-color {
   width: 90%;
 }
 .health-literacy .bg-contact {
-  position: relative;
+  /* position: relative;
   right: 0;
   left: 0;
-  width: 100%;
+  width: 100%; */
   /* height: 80vh !important; */
   
   /* height: 40vw !important; */
-  background-image: url(../img/health-literacy/banner_img.jpg);
+  background-image: url(../img/home/ARx.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: top center;
+}
+
+.health-literacy .breadcrumb {
+  padding: 80px 0px;
 }
 
 .health-literacy h4 {
@@ -8680,7 +8760,7 @@ h3.blog-text-color {
   }
   
   .health-literacy .video-yt {
-    margin-top: 130px !important;
+    /* margin-top: 130px !important; */
   }
 }
 
@@ -8735,13 +8815,14 @@ h3.blog-text-color {
 
 /*=======Virtual Reality Driving Training======*/
 .vrdt_test {
-  background-image: url("../img/vrdt/vr.jpg");
+  background-image: url("../img/vrdt/vr-drive-training.jpg") !important;
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: rgba(10, 27, 40, 0.7);
-  background-blend-mode: overlay;
-  width: 100%;
-  height: 80vh;
+  background-position: top center;
+  /* background-color: rgba(10, 27, 40, 0.7); */
+  /* background-blend-mode: overlay; */
+  /* width: 100%; */
+  /* height: 80vh; */
 }
 .vrdt_test .banner_content_block {
   padding-top: 80px;
@@ -8935,12 +9016,12 @@ h3.blog-text-color {
 #vrdt_sec5 .h4-head {
   line-height: 38px;
   text-transform: capitalize;
-  font-size: 30px;
+  font-size: 33px;
   padding-bottom: 20px;
   position: relative;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Arial";
 }
-#vrdt_sec5 .h4-head::after {
+/* #vrdt_sec5 .h4-head::after {
   border: 1px solid #2f94f9;
   bottom: 2px;
   content: "";
@@ -8948,7 +9029,7 @@ h3.blog-text-color {
   margin: 0 auto;
   position: absolute;
   width: 15%;
-}
+} */
 #vrdt_sec5 #accordion {
   margin-top: 20px;
 }
@@ -9060,6 +9141,8 @@ h3.blog-text-color {
   #vrdt_sec6 {
     padding-bottom: 30px;
   }
+
+  
   
   #vrdt_sec4 h5 {
     margin-bottom: 20px;
@@ -9125,12 +9208,13 @@ h3.blog-text-color {
 @media only screen and (max-width: 600px) {
   .footer-nav .nav-link {
     padding-top: 10px;
-    padding-left: 45px;
-    padding-right: 45px;
+    padding-left: 65px;
+    padding-right: 65px;
     font-size: 18px;
     display: inline-block;
   }
 }
+
 .ready-btn-home {
   border: 1px solid #2f94f9;
   color: #fff;
@@ -9199,9 +9283,13 @@ h3.blog-text-color {
 @media only screen and (min-width: 768px) {
   .nav-btn-start {
     padding-top: 24px;
-    width: 105px;
+    width: 85px;
     padding-left: 5px;
   }
+}
+
+.nav-padding {
+  padding-left: 50px;
 }
 
 .card_link a {
@@ -9262,19 +9350,28 @@ span.color:hover {
   width: 170px;
 }
 .banner-btn-01:hover {
-  border: 1px solid #555;
-  background: #555;
+  border: 1px solid #2269B1;
+  background: #2269b1;
   color: #fff;
 }
 
 /* Metaverse Page */
 .page-area-metaverse {
-  background: url(../img/metaverse/Artboard.png);
+  background: url(../img/metaverse/metaverse-logo-3.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
   /* height: 40vw; */
 }
+
+.page-area-nft {
+  background: url(../img/nft/bg-nft.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  /* height: 40vw; */
+}
+
 .metaverse-service-1 .single-about {
   width: 80%;
   float: inherit;
@@ -9314,7 +9411,7 @@ span.color:hover {
   }
   
   .breadcrumb {
-    padding: 0;
+    /* padding: 0; */
   }
   
   li.nav-btn-start .nav-start-btn.right-btn.ready-btn-big {
@@ -9336,7 +9433,7 @@ span.color:hover {
   }
   
   .custom-development-wrapper .single-about h5 {
-    font-size: 12px !important;
+    /* font-size: 12px !important; */
   }
   
   .home-our-work .ar-blog {
@@ -9400,7 +9497,7 @@ margin-top: 0px;
   }
   
   .home-page .card_body {
-    width: auto;
+    /* width: auto; */
   }
   
   .home-page .home-our-work .ar-blog {
@@ -9411,8 +9508,8 @@ margin-top: 0px;
     height: auto;
   }
   
-  .home-page .bg-grey-innovating .about-content h2 {
-    font-size: 35px;
+  .bg-grey-innovating .about-content h2 {
+    font-size: 32px;
   }
   
   .home-page .home-blog .ar-blog {
@@ -9451,7 +9548,8 @@ margin-top: 0px;
     display: inherit;
   }
   
-  .page-area-metaverse {
+  .page-area-metaverse,
+  .page-area-nft {
     height: auto;
   }
   
@@ -9467,7 +9565,7 @@ margin-top: 0px;
     font-size: 18px;
     color: #666;
     float: none;
-    line-height: 50px;
+    /* line-height: 50px; */
     padding-left: 30px;
     margin-bottom: 0;
     font-weight: 600;
@@ -9565,14 +9663,15 @@ margin-top: 0px;
 }
 
 .health-literacy .about-page-area {
-  margin-top: 250px;
+  margin-top: 50px;
 }
 
 /* BG height for tabletPCs */
-@media only screen and (min-width: 768px) { 
+@media only screen and (min-width: 768px) and (max-width: 1024px) { 
   .bg-custom-dev,
   .bg-process,
   .page-area-metaverse,
+  .page-area-nft,
   .bg-it,
   .page-area,
   .press-area, 
@@ -9602,12 +9701,29 @@ margin-top: 0px;
   .bg-blog-nfts-ar,
   .bg-blog-technology,
   .bg-blog-top-3-ways-tech,
-  .bg-blog-top-5-things {
+  .bg-blog-top-5-things,
+  .vrdt_test {
     height: 80vw;
   }
 
   .health-literacy .about-page-area {
     margin-top: 0px;
+  }
+  .bg-grey-innovating-wrapper .about-content {
+    margin: 0px 30px;
+  }
+
+  .home-our-work .ar-blog {
+    height: 550px;
+  }
+  .home-page .home-blog .ar-blog {
+    height: 550px;
+  }
+  .home-blog .ar-blog {
+    height: 520px;
+  }
+  .nav-padding {
+    padding-left: 0px;
   }
 }
 
@@ -9616,6 +9732,7 @@ margin-top: 0px;
   .bg-custom-dev,
   .bg-process,
   .page-area-metaverse,
+  .page-area-nft,
   .bg-it,
   .page-area,
   .press-area, 
@@ -9645,12 +9762,26 @@ margin-top: 0px;
   .bg-blog-nfts-ar,
   .bg-blog-technology,
   .bg-blog-top-3-ways-tech,
-  .bg-blog-top-5-things {
+  .bg-blog-top-5-things,
+  .vrdt_test {
     height: 650px;
   }
 
   .health-literacy .about-page-area>section {
     margin-top: 0px;
+  }
+  .bg-grey-innovating-wrapper .about-content {
+    margin: 0px 30px;
+  }
+
+  .home-our-work .ar-blog {
+    height: 500px;
+  }
+  .home-page .home-blog .ar-blog {
+    height: 500px;
+  }
+  .home-blog .ar-blog {
+    height: 500px;
   }
 }
 
@@ -9673,6 +9804,14 @@ margin-top: 0px;
   padding: 70px 0px;
 }
 
+.nft .breadcrumb {
+  padding: 80px 0px;
+}
+.nft .grey-bg .nft-brand {
+  padding: 0px 50px;
+  line-height: 40px;
+}
+
 #sticker {
   box-shadow: 0 5px 20px rgb(0 0 0 / 15%);
 }
@@ -9680,32 +9819,246 @@ margin-top: 0px;
 .health-literacy .footer-area-bottom p {
   font-size: 12px;
 }
-/* 
-.home-page .nav-btn-start, .home-page .nav-btn-start .nav-start-btn.right-btn.ready-btn-big {
-  display: block;
-  position: relative;
-  z-index: 0;
+
+#vrdt_sec6 .about-content .color {
+  font-size: 33px;
+  color: #2f94f9;
+  line-height: 1.1;
+  font-family: "Arial";
 }
 
-.home-page .nav-btn-start::before {
+.learning-hub .blog-area {
+  padding-top: 90px;
+}
+
+.blog-img {
+  width:auto; 
+  height: 400px;
+}
+
+.vr-driving .card_body {
+  height: 103%;
+}
+.vr-driving .card_img {
+  width: 135px;
+}
+.vr-driving .card_title {
+  font-size: 33px;
+}
+.vr-driving .card_des {
+  margin: 15px 10px;
+}
+
+.contact-page .btn-pri-link {
+  margin-top: -30px; 
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Arial;
+}
+
+/* Mobile phone */
+@media only screen and (max-width: 600px) {
+
+  /* home page */
+  h2 {
+    font-size: 32px;
+  }
+  .section-headline p {
+    font-size: 18px;
+    font-weight: normal;
+  }
+  .image-scaler img {
+    height: 170px;
+  }
+  .about-content p {
+    font-size: 18px;
+    font-weight: normal;
+  }
+  
+  .section-headline p {
+    letter-spacing: 0px;
+  }
+  
+  .meta-text-origin {
+    font-weight: normal;
+    font-size: 18px !important;
+  }
+
+  .container {
+    padding-left: 1px;
+    padding-right: 1px;
+    width: 280px;
+  }
+
+  .col-xs-12 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .card_des {
+    font-weight: normal;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .home-page .text-box {
+    margin: -20px 10px 15px 10px;
+  }
+
+  .home-page .carousel .testimonial {
+    padding: 60px 20px 60px;
+    text-align: left;
+    font-weight: normal;
+  }
+
+  .blog-content p {
+    font-weight: normal;
+  }
+
+  /* metaverse page */
+  .single-about h5 {
+    line-height: 40px;
+  }
+
+  .metaverse .meta-section-title {
+    font-size: 32px !important;
+  }
+
+  .metaverse .img-01 img{
+    max-width: 80%;
+  }
+
+  /* ar/vr/xr page */
+  .about-content h3 {
+    font-size: 28px;
+  }
+
+  .about-content .immersive-text {
+    font-weight: normal;
+    font-size: 18px !important;
+  }
+  .custom-development .mobile3 {
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  .immersive-technology .img-02{
+    padding-left: 60px;
+  }
+
+  .immersive-technology .img-03 {
+    margin-top: 0px !important;
+  }
+  
+  .immersive-technology .mob-cont-down9 {
+    padding-top: 260px;
+  }
+
+  .immersive-technology .mob-img-up {
+    max-width: 80%;
+  }
+
+  /* process page */
+  .process .single-about h5 {
+    line-height: 45px;
+  }
+
+  /* Blog */
+  .learning-hub .blog-area {
+    padding-top: 0px;
+  }
+
+  .learning-hub .event-content p {
+    font-weight: normal;
+    font-size: 18px !important;
+  }
+
+  /* blogs */
+  .blog-img {
+    width: auto;
+    height: 210px;
+  }
+
+  /* media */
+  .bg-grey {
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.10), 0 15px 12px rgba(0, 0, 0, 0.02);
+  }
+
+  /* custom development */
+  .custom-development .img-01 {
+    padding-left: 60px;
+  }
+  .custom-development .img-02 {
+    width: 250px;
+  }
+
+  /* ARx */
+
+  .health-literacy p {
+    font-weight: normal;
+  }
+  .health-literacy .breadcrumb {
+    padding: 40px 0px;
+  }
+
+  .health-literacy .area-padding-02 {
+    padding: 0px 0px;
+  }
+
+  /* nft */
+  .nft .grey-bg .nft-brand {
+    padding: 0px
+  }
+
+  .nft .mob-cont-down7 {
+    padding-top: 195px;
+  }
+
+  /* contact page */
+
+  .contact-page .area-padding-01{
+    padding-bottom: 0;
+  }
+
+  .contact-page .phone-number {
+    display: block;
+    margin-top: 10px;
+  }
+
+  /* footer */
+
+  .footer-area {
+    display: none;
+  }
+}
+
+
+
+/* Button hover effect */
+/* .home-page .btn-hover-effect::before {
   content: "";
   position: absolute;
-  z-index: 1;
-  top: 0px;
-  right: -135px;
-  background: rgb(255, 255, 255, 0.8) !important;
-  height: 32px;
-  width: 32px;
+  z-index: -1;
+  top: 1px;
+  right: 1px;
+  background: #2f94f9 !important;
+  border-radius: 5px;
+  height: 1px;
+  width: 4px;
   transform: scale(1 , 1);
-  transform-origin: 50% 50%;
+  transform-origin: right top;
   transition: transform 0.4s ease-out;
 }
 
-.home-page .nav-btn-start:hover:before {
+.home-page .nav-btn-start:hover .btn-hover-effect:before {
+  background: #FFF !important;
   cursor: pointer;
-  transform: scale(14 , 3.5);
+  transform: scale(49 , 42);
+  transform-origin: right top;
+  border-radius: 5px;
 }
 
-.home-page .main-menu .nav-btn-start:hover::before > a.nav-start-btn.right-btn.ready-btn-big{
-  color: #2f94f9;
+.home-page .main-menu .nav-btn-start:hover span{
+  color: #2f94f9 !important;
+  transition: color 0.35s ease-out;
 } */

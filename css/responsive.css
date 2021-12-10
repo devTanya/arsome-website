@@ -356,7 +356,7 @@
     [data-aos=fade-left] {
     transform: translate3d(0px,0,0) !important;
 }
-    .container {width:300px}
+    .container {width:320px}
     .logo {
         height: inherit;
         left: 0;
@@ -505,7 +505,7 @@
         margin-top: 20px;
     }
     .footer-content {
-        margin-bottom: 40px;
+        /* margin-bottom: 40px; */
     }
     .copyright {
         text-align: center;
