@@ -171,14 +171,14 @@ body {
 #scrollUp {
   background: #000 none repeat scroll 0 0;
   border-radius: 2px;
-  bottom: 15px;
+  bottom: 35px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
   color: #fff;
   font-size: 20px;
   height: 34px;
   line-height: 30px;
   opacity: 0.6;
-  right: 15px;
+  right: 25px;
   text-align: center;
   transition: all 0.3s ease 0s;
   width: 34px;
@@ -5774,9 +5774,18 @@ a.text-dark:hover {
   height: 275px;
 }
 
+.begin-story-section {
+  padding: 50px 0px 50px 0px;
+  margin-top: 50px;
+}
+
 @media only screen and (max-width: 767px) {
   .area-padding {
     padding: 50px 0px;
+  }
+  .begin-story-section {
+    padding: 0px 0px 50px 0px;
+    margin-top: 0px;
   }
   .title2 {
     font-size: 2.5rem !important;
@@ -7120,6 +7129,8 @@ img.immersive_img {
 .home-our-work .blog-content .blog-btn {
   display: inline-block;
 }
+
+
 
 .bg-grey-innovating-wrapper {
   background-color: #0000004d;
@@ -8713,6 +8724,10 @@ h3.blog-text-color {
   background-position: top center;
 }
 
+.health-literacy .breadcrumb {
+  padding: 80px 0px;
+}
+
 .health-literacy h4 {
   /* font-size: 33px; */
 }
@@ -8743,7 +8758,7 @@ h3.blog-text-color {
   }
   
   .health-literacy .video-yt {
-    margin-top: 130px !important;
+    /* margin-top: 130px !important; */
   }
 }
 
@@ -9804,6 +9819,13 @@ margin-top: 0px;
   margin: 15px 10px;
 }
 
+.contact-page .btn-pri-link {
+  margin-top: -30px; 
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Arial;
+}
+
 /* Mobile phone */
 @media only screen and (max-width: 600px) {
 
@@ -9872,6 +9894,10 @@ margin-top: 0px;
     font-size: 32px !important;
   }
 
+  .metaverse .img-01 img{
+    max-width: 80%;
+  }
+
   /* ar/vr/xr page */
   .about-content h3 {
     font-size: 28px;
@@ -9884,6 +9910,22 @@ margin-top: 0px;
   .custom-development .mobile3 {
     width: 100%;
     border-radius: 10px;
+  }
+
+  .immersive-technology .img-02{
+    padding-left: 60px;
+  }
+
+  .immersive-technology .img-03 {
+    margin-top: 0px !important;
+  }
+  
+  .immersive-technology .mob-cont-down9 {
+    padding-top: 260px;
+  }
+
+  .immersive-technology .mob-img-up {
+    max-width: 80%;
   }
 
   /* process page */
@@ -9906,6 +9948,53 @@ margin-top: 0px;
     width: auto;
     height: 210px;
   }
+
+  /* media */
+  .bg-grey {
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.10), 0 15px 12px rgba(0, 0, 0, 0.02);
+  }
+
+  /* custom development */
+  .custom-development .img-01 {
+    padding-left: 60px;
+  }
+  .custom-development .img-02 {
+    width: 250px;
+  }
+
+  /* ARx */
+
+  .health-literacy p {
+    font-weight: normal;
+  }
+  .health-literacy .breadcrumb {
+    padding: 40px 0px;
+  }
+
+  .health-literacy .area-padding-02 {
+    padding: 0px 0px;
+  }
+
+  /* nft */
+  .nft .grey-bg .nft-brand {
+    padding: 0px
+  }
+
+  .nft .mob-cont-down7 {
+    padding-top: 195px;
+  }
+
+  /* contact page */
+
+  .contact-page .area-padding-01{
+    padding-bottom: 0;
+  }
+
+  .contact-page .phone-number {
+    display: block;
+    margin-top: 10px;
+  }
+  
 }
 
 
