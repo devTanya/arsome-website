@@ -9705,6 +9705,16 @@ margin-top: 0px;
   .bg-grey-innovating-wrapper .about-content {
     margin: 0px 30px;
   }
+
+  .home-our-work .ar-blog {
+    height: 550px;
+  }
+  .home-page .home-blog .ar-blog {
+    height: 550px;
+  }
+  .home-blog .ar-blog {
+    height: 520px;
+  }
 }
 
 /* BG height for PCs */
@@ -9752,6 +9762,16 @@ margin-top: 0px;
   }
   .bg-grey-innovating-wrapper .about-content {
     margin: 0px 30px;
+  }
+
+  .home-our-work .ar-blog {
+    height: 500px;
+  }
+  .home-page .home-blog .ar-blog {
+    height: 500px;
+  }
+  .home-blog .ar-blog {
+    height: 500px;
   }
 }
 
