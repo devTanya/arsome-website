@@ -9663,7 +9663,10 @@ margin-top: 0px;
 }
 
 .health-literacy .about-page-area {
-  margin-top: 50px;
+  /* margin-top: 50px; */
+}
+.health-literacy .area-padding-02 {
+  padding: 70px 15px;
 }
 
 /* BG height for tabletPCs */
@@ -9789,7 +9792,7 @@ margin-top: 0px;
 @media only screen and (max-width: 600px) {
   
   .health-literacy .about-page-area {
-    margin-top: 50px;
+    /* padding-top: 50px; */
   }
 }
 
@@ -10003,7 +10006,9 @@ margin-top: 0px;
 
   .health-literacy .area-padding-02 {
     padding: 0px 0px;
+    padding-top: 50px;
   }
+  
 
   /* nft */
   .nft .grey-bg .nft-brand {
