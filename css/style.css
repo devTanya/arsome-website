@@ -7136,7 +7136,8 @@ img.immersive_img {
 
 .bg-grey-innovating-wrapper {
   background-color: #0000004d;
-  margin: 40px 40px 60px 40px;
+  /* margin: 40px 40px 40px 40px; */
+  padding: 50px 100px;
   border-radius: 10px;
   background-image: url(../img/background/stock-photo-smart-city-and-abstract-dot-point-connect-with-gradient-line-and-aesthetic-intricate-wave-line-1499306735.jpg);
   background-repeat: no-repeat;
@@ -7308,7 +7309,7 @@ h3.blog-text-color {
     padding-bottom: 20px;
   }
   .bg-grey-innovating {
-    background-color: #555555;
+    /* background-color: #555555; */
     margin: 30px;
     border-radius: 10px;
   }
@@ -7321,6 +7322,10 @@ h3.blog-text-color {
   .owl-carousel .owl-item img {
     height: 155px;
   }
+}
+
+.mob-pb {
+  padding-bottom: 20px;
 }
 
 .home-page .owl-carousel .owl-item img {
@@ -7351,7 +7356,8 @@ h3.blog-text-color {
 }
 
 .bg-grey-innovating-wrapper {
-  height: 60vw;
+  width: 90%;
+  height: 70vw;
   background-size: cover;
 }
 
@@ -9281,6 +9287,10 @@ h3.blog-text-color {
   padding-left: 20px;
 }
 
+.mobile-menu-area .nav-btn-start {
+  padding-left: 0px;
+}
+
 @media only screen and (min-width: 768px) {
   .nav-btn-start {
     padding-top: 24px;
@@ -9803,10 +9813,10 @@ margin-top: 0px;
 @media only screen and (min-width: 768px) and (max-width: 1023px) {
   
   .home-our-work .ar-blog {
-    height: 700px;
+    height: 65vh;
   }
   .home-page .home-blog .ar-blog {
-    height: 700px;
+    height: 65vh;
   }
   .home-blog .ar-blog {
     height: 520px;
@@ -9816,8 +9826,17 @@ margin-top: 0px;
     width: auto;
   }
 
+  .bg-grey-innovating-wrapper {
+    width: 95%;
+    padding: 30px 20px;
+  }
+
   .image-scaler img {
-    height: 130px
+    height: 130px;
+  }
+
+  .image-scale img{
+    height: 25vw;
   }
 
   /* vr driving */
@@ -9835,15 +9854,13 @@ margin-top: 0px;
   }
 }
 
-
-
-/* BG height for phones */
-@media only screen and (max-width: 600px) {
-  
-  /* .health-literacy .about-page-area {
-    margin-top: 50px;
-  } */
+@media only screen and (min-width: 1025px) and (max-width: 1199px) {
+  .nav-padding {
+    padding-left: 70px;
+  }
 }
+
+
 
 /* Animation Testing! */
 
@@ -9895,6 +9912,24 @@ margin-top: 0px;
   font-size: 16px;
   font-weight: normal;
   font-family: Arial;
+}
+
+/* BG height for phones */
+@media only screen and (max-width: 767px) {
+  
+  /* .health-literacy .about-page-area {
+    margin-top: 50px;
+  } */
+  .lh-menu .tab-menu ul.nav li a {
+    width: 120px;
+  }
+  .learning-hub .blog-area {
+   padding-top: 50px; 
+  }
+
+  .w-75 {
+    width: 90% !important;
+  }
 }
 
 /* Mobile phone */

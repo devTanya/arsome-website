@@ -356,7 +356,7 @@
     [data-aos=fade-left] {
     transform: translate3d(0px,0,0) !important;
 }
-    .container {width:320px}
+    .container {width:90%}
     .logo {
         height: inherit;
         left: 0;
@@ -428,7 +428,7 @@
     }
     .well-services {
         margin-top: 30px;
-        box-shadow: none;
+        /* box-shadow: none; */
     }
     .card-carousel {
         left: 13px;
@@ -739,27 +739,63 @@
 
     /* Large Mobile :480px. */
     @media only screen and (min-width: 480px) and (max-width: 767px) {
-    .container {width:450px}
-    .layer-1-2 h1 {
-        font-size: 24px;
-        line-height: 32px;
-    }
-    .intro-area-4 .layer-1-2 h1 {
-        font-size: 24px;
-        line-height: 32px;
-    }
-     .service-content h4 {
-        font-size: 16px;
-    }
-    .breadcrumb .section-headline h3 {
-        font-size: 34px;
-    }
-    .project-area .container-full .section-headline p {
-        max-width: 360px;
-    }
+        .container {width:90%}
+        
+        .layer-1-2 h1 {
+            font-size: 24px;
+            line-height: 32px;
+        }
+        .intro-area-4 .layer-1-2 h1 {
+            font-size: 24px;
+            line-height: 32px;
+        }
+        .service-content h4 {
+            font-size: 16px;
+        }
+        .breadcrumb .section-headline h3 {
+            font-size: 34px;
+        }
+        .project-area .container-full .section-headline p {
+            max-width: 360px;
+        }
+        .bg-grey-innovating-wrapper {
+            padding: 20px 20px;
+            width: 90%;
+        }
+        .bg-grey-innovating-wrapper h2 {
+            font-size: 32px;
+        }
+        .bg-grey-innovating-wrapper p {
+            font-size: 15px;
+        }
+        .bg-grey-innovating .about-content {
+            margin: 0px 0px;
+        }
 
+        .home-our-work .ar-blog {
+            height: 80vw;
+        }
 
+        .home-blog .ar-blog {
+            height: 85vw;
+        }
 
+        .home-page .home-blog .ar-blog {
+            height: 85vw;
+        }
+
+        .home-page .image-scaler img{
+            height: 45vw;
+        }
+        
+
+        .image-scale img{
+            height: 45vw;
+        }
+
+        #vrdt_sec3 .carousel-inner img {
+            height: 400px !important;
+        }
     }
     @media only screen and (max-width: 600px) {
   .lh-cont {
