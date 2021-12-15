@@ -603,8 +603,6 @@
     }
     .community .about-page-area .about-image {
         width: 50%;
-        margin-left: auto;
-        margin-right: auto;
     }
     .texti-name {
         padding-left: 6px;
@@ -742,6 +740,9 @@
 
     }
 
+    
+    
+
     /* Large Mobile :480px. */
     @media only screen and (min-width: 480px) and (max-width: 767px) {
         .container {width:90%}
@@ -802,6 +803,20 @@
             height: 400px !important;
         }
     }
+
+    @media only screen and (min-width: 701px) {
+        .bg-grey-innovating-wrapper p {
+            font-size: 18px;
+        }
+    }
+
+
+    @media only screen and (min-width: 480px) and (max-width: 700px) {
+        .bg-grey-innovating-wrapper p {
+            font-size: 15px;
+        }
+    }
+
     @media only screen and (max-width: 600px) {
   .lh-cont {
     width: 100% !important;
