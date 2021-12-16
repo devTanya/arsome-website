@@ -843,8 +843,8 @@ div#preloader {
 /*----------------------------------------*/
 
 .mobile-menu-area {
-  background: #f9f9f9 none repeat scroll 0 0;
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+  background: #fff none repeat scroll 0 0;
+  box-shadow: 0 5px 20px rgb(0 0 0 / 15%);
   padding: 10px 0px;
 }
 
