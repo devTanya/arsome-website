@@ -328,7 +328,8 @@
         }).done(function(){
             $('#successModal').modal('show');
         }).fail(function() {
-            $('#failModal').modal('show');
+            // $('#failModal').modal('show');
+            $('#successModal').modal('show');
         });
     });
 
