@@ -85,7 +85,8 @@
                                             </ul>
                                         </li>
                                         <li><a class="pagess" href="learning-hub.html">Blog</a></li>
-                                        <li><a class="pagess" href="contact.html" style="color: #2f94f9;">Contact</a></li>
+                                        <li><a class="pagess" href="contact.html" style="color: #2f94f9;">Contact</a>
+                                        </li>
                                         <li class="nav-btn-start">
                                             <a href="contact.html" target="blank"
                                                 class="nav-start-btn right-btn ready-btn-big">Start a Project
@@ -208,7 +209,7 @@
                         <h4 class="text-white">Let's Connect
                         </h4>
 
-                        <form role="form" action="" method="post">
+                        <form role="form" action="" method="post" id="contactFrm">
                             <div class="row">
                                 <div class="col-lg-12 col-sm-12 col-xs-12 ">
                                     <div class="row">
@@ -234,10 +235,10 @@
                                     <div class="row">
                                         <div class="col-md-6 col-sm-6 col-xs-12">
                                             <div class="form-group">
-                                                <label for="InputName">Company Name</label>
+                                                <label for="CompanyName">Company Name</label>
                                                 <div class="input-group">
-                                                    <input type="text" class="form-control" name="InputName"
-                                                        id="InputName" placeholder="Enter Name" required>
+                                                    <input type="text" class="form-control" name="CompanyName"
+                                                        id="CompanyName" placeholder="Enter Name" required>
                                                 </div>
                                             </div>
                                         </div>
@@ -245,8 +246,8 @@
                                             <div class="form-group">
                                                 <label for="InputEmail">Contact Number</label>
                                                 <div class="input-group">
-                                                    <input type="text" class="form-control" id="InputPhone"
-                                                        name="InputPhone" placeholder="Enter phoneNumber" required>
+                                                    <input type="text" class="form-control" id="CompanyPhone"
+                                                        name="CompanyPhone" placeholder="Enter Email" required>
                                                 </div>
                                             </div>
                                         </div>
@@ -266,6 +267,50 @@
                                 </div>
                             </div>
                         </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="about-page-area">
+        <!-- Modal -->
+        <div class="modal fade" id="successModal" tabindex="-1" role="dialog" aria-labelledby="successModalLabel"
+            aria-hidden="true" data-backdrop="static" data-keyboard="false">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header text-center">
+                        <h2 class="modal-title" id="successModalLabel">Thank you for contacting us!</h2>
+                    </div>
+                    <div class="modal-body text-center">
+                        <p>
+                            We appreciate your interest in ARSOME Technology. We will get back in touch with you soon! Have a great day!
+                        </p>
+                    </div>
+                    <div class="modal-footer text-center">
+                        <button type="button" class="ready-btn-home right-btn ready-btn-big" data-dismiss="modal">OK →</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="failModal" tabindex="-1" role="dialog" aria-labelledby="failModalLabel"
+            aria-hidden="true" data-backdrop="static" data-keyboard="false">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header text-center">
+                        <h2 class="modal-title" id="failModalLabel" style="color: black !important;">Oops! Sorry!</h2>
+                    </div>
+                    <div class="modal-body text-center">
+                        <p>
+                            There are some issues with the email service. Please contact us through E-mail.
+                            <a href="mailto:info@arsome.com">
+                                info@arsome.com
+                            </a>
+                        </p>
+                    </div>
+                    <div class="modal-footer text-center">
+                        <button type="button" class="ready-btn-home right-btn ready-btn-big" data-dismiss="modal">OK →</button>
                     </div>
                 </div>
             </div>
@@ -344,6 +389,7 @@
             </div>
         </div>
     </footer>
+
     <!-- all js here -->
 
     <!-- all js here -->
