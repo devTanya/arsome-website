@@ -308,4 +308,28 @@
         $("#msgSubmit").removeClass().addClass(msgClasses).text(msg);
     }
 
+    $('#contactFrm').on('submit', function(event){
+        event.preventDefault();
+        var InputName = $('#InputName').val();
+        var InputEmail = $('#InputEmail').val();
+        var InputPhone = $('#InputPhone').val();
+        var CompanyName = $('#CompanyName').val();
+        var CompanyPhone = $('#CompanyPhone').val();
+        var InputMessage = $('#InputMessage').val();
+        var url = 'http://68.183.61.123/api/Contact';
+        $.post(url, {
+            InputName : InputName, 
+            InputEmail : InputEmail, 
+            InputPhone : InputPhone, 
+            CompanyName : CompanyName, 
+            CompanyPhone : CompanyPhone, 
+            InputMessage : InputMessage, 
+        }).done(function(){
+            $('#successModal').modal('show');
+        }).fail(function() {
+            // $('#failModal').modal('show');
+            $('#successModal').modal('show');
+        });
+    });
+
 })(jQuery); 
