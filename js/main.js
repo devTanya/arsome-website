@@ -317,7 +317,8 @@
         var CompanyName = $('#CompanyName').val();
         var CompanyPhone = $('#CompanyPhone').val();
         var InputMessage = $('#InputMessage').val();
-        var url = 'http://68.183.61.123/api/Contact';
+        // var url = 'http://68.183.61.123/api/Contact';
+        var url = 'https://api.arsome.com/api/Contact';
         $.post(url, {
             InputName : InputName, 
             InputEmail : InputEmail, 
